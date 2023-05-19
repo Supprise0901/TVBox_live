@@ -1,9 +1,9 @@
-{"spider":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/spider.jar;md5;24512f803044eee578cc5c2664fab779",
+{"spider":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/spider.jar;md5;24512f803044eee578cc5c2664fab779",
 "sites":
-	[{"key":"drpy_js_哔哩直播","name":"哔哩直播","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/直播/js/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/直播/js/哔哩直播.js"},
-	{"key":"drpy_js__虎牙直播","name":"虎牙直播","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/直播/js/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/直播/js/虎牙直播.js"},
-	{"key":"drpy_js_斗鱼直播","name":"斗鱼直播","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/直播/js/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/直播/js/斗鱼直播.js"},
-	{"key":"csp_XYQBiu_网易CC","name":"网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/直播/XYQBiu/网易CC.json"}],
+	[{"key":"drpy_js_哔哩直播","name":"哔哩直播","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/js/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/js/哔哩直播.js"},
+	{"key":"drpy_js__虎牙直播","name":"虎牙直播","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/js/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/js/虎牙直播.js"},
+	{"key":"drpy_js_斗鱼直播","name":"斗鱼直播","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/js/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/js/斗鱼直播.js"},
+	{"key":"csp_XYQBiu_网易CC","name":"网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/XYQBiu/网易CC.json"}],
 "parses":
 	[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
 	{"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
@@ -43,7 +43,7 @@
 	{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 	{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "lives":
-	[{"name":"live","type":0,"url":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	[{"name":"live","type":0,"url":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "flags":
 	["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 "ijk":
