@@ -1,11 +1,11 @@
-{"spider":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/spider.jar",
+{"spider":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/spider.jar;md5;24512f803044eee578cc5c2664fab779",
 "sites":
-	[{"key":"PanSearch","name":"网盘｜搜索","type":3,"api":"csp_PanSearch","ext":"./token.txt"},
-	{"key":"Dovx","name":"网盘｜七夜","type":3,"api":"csp_Dovx","ext":"./token.txt"},
-	{"key":"Paper","name":"网盘｜纸条","type":3,"api":"csp_Paper","ext":"./token.txt"},
-	{"key":"YiSo","name":"网盘｜易搜","type":3,"api":"csp_YiSo","ext":"./token.txt"},
-	{"key":"UpYun","name":"网盘｜云搜","type":3,"api":"csp_UpYun","ext":"./token.txt"},
-	{"key":"PanSou","name":"网盘｜盘搜","type":3,"api":"csp_PanSou","ext":"./token.txt"},
+	[{"key":"PanSearch","name":"网盘｜搜索","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"Dovx","name":"网盘｜七夜","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"Paper","name":"网盘｜纸条","type":3,"api":"csp_Paper","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"YiSo","name":"网盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"UpYun","name":"网盘｜云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"PanSou","name":"网盘｜盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"csp_XPathAli_tgss","name":"网盘｜土狗","type":3,"api":"csp_XPathAli","searchable":1,"filterable":0,"changeable":0,"ext":{"searchUrl":"https://www.tugousou.com/search?keyword={wd};post","scVodNode":"//div[contains(@class,'layui-container')]//div[contains(@class,'layui-row')]//div//p//a","scVodName":"/text()","scVodId":"/@href","scVodIdR":"","scVodImg":"/@null","scVodMark":""}}],
 "parses":
 	[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
@@ -46,7 +46,7 @@
 	{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 	{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "lives":
-	[{"name":"live","type":0,"url":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	[{"name":"live","type":0,"url":"https://raw.iqiq.io/PizazzGY/TVBox_Warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "flags":
 	["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 "ijk":
