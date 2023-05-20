@@ -85,6 +85,7 @@
 	{"key":"宅腐影视","name":"宅腐影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/宅腐影视.js"},
 	{"key":"看看电影","name":"看看电影","type":3,"api":"./JS/drpy.min.js","ext":"./JS/看看电影.js"},
 	{"key":"小狗影院","name":"小狗影院","type":3,"api":"./JS/drpy.min.js","ext":"./JS/小狗影院.js"},
+	{"key":"两个磁力","name":"两个磁力","type":3,"api":"./JS/drpy.min.js","ext":"./JS/两个磁力.js"},
 	{"key":"花猫影视","name":"花猫影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/花猫影视.json"},
 	{"key":"兰花影院","name":"兰花影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/兰花影院.json"},
 	{"key":"人人影视","name":"人人影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
