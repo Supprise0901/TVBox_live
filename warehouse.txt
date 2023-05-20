@@ -5,6 +5,6 @@
 	{"url":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/api.json","name":"体育"},
 	{"url":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/api.json","name":"教育"},
 	{"url":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/直播/api.json","name":"直播"},
-	{"url":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/网盘/api.json","name":"网盘"}
+	{"url":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/云盘/api.json","name":"云盘"}
 	]
 }
