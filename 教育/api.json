@@ -1,11 +1,11 @@
-{"spider":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/spider.jar;md5;24512f803044eee578cc5c2664fab779",
+{"spider":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/spider.jar;md5;07278cf6da1494a6ea354ff15c257a62",
 "sites":
-	[{"key":"drpy_js_兔小贝","name":"儿童启蒙","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/js/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
-	{"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/json/少儿教育.json"},
-	{"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/json/小学课堂.json"},
-	{"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/json/初中课堂.json"},
-	{"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/json/高中课堂.json"},
-	{"key":"学外语","name":"外语课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/教育/json/外语.json"}],
+	[{"key":"兔小贝","name":"儿童启蒙","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
+	{"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/少儿教育.json"},
+	{"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/小学课堂.json"},
+	{"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/初中课堂.json"},
+	{"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/高中课堂.json"},
+	{"key":"学外语","name":"外语课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/外语.json"}],
 "parses":
 	[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
 	{"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
