@@ -1,10 +1,10 @@
-{"spider":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/spider.jar;md5;24512f803044eee578cc5c2664fab779",
+{"spider":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/spider.jar;md5;07278cf6da1494a6ea354ff15c257a62",
 "sites":
-	[{"key":"csp_XPath_腾讯体育","name":"腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/XPath/腾讯体育.json"},
-	{"key":"drpy_js_抓饭体育","name":"抓饭体育","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/JS/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/JS/抓饭体育.js"},
-	{"key":"drpy_js_88看球","name":"88看球","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/JS/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/JS/88看球.js"},
-	{"key":"csp_XYQBiu_310直播","name":"310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/XYQBiu/310直播.json"},
-	{"key":"drpy_js_JRKAN直播","name":"JRKAN直播","type":3,"api":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/JS/drpy.min.js","ext":"https://raw.iqiq.io/PizazzGY/TVBox_warehouse/main/体育/JS/JRKAN直播.js"}],
+	[{"key":"腾讯体育","name":"腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/腾讯体育.json"},
+	{"key":"抓饭体育","name":"抓饭体育","type":3,"api":"./JS/drpy.min.js","ext":"./JS/抓饭体育.js"},
+	{"key":"88看球","name":"88看球","type":3,"api":"./JS/drpy.min.js","ext":"./JS/88看球.js"},
+	{"key":"310直播","name":"310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/310直播.json"},
+	{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./JS/drpy.min.js","ext":"./JS/JRKAN直播.js"}],
 "parses":
 	[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
 	{"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
