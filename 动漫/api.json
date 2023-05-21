@@ -9,7 +9,7 @@
 	{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
 	{"key":"NT动漫","name":"NT动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NT动漫.js"},
 	{"key":"NyaFun","name":"NyaFun","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NyaFun.js"},
-	{"key":"OmoFun动漫","name":"OmoFun动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/OmoFun动漫.js"},
+	{"key":"OmoFun","name":"OmoFun","type":3,"api":"./JS/drpy.min.js","ext":"./JS/OmoFun.js"},
 	{"key":"嘶哩嘶哩","name":"嘶哩嘶哩","type":3,"api":"./JS/drpy.min.js","ext":"./JS/嘶哩嘶哩.js"},
 	{"key":"萌番动漫","name":"萌番动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/萌番动漫.js"},
 	{"key":"五八动漫","name":"五八动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/五八动漫.js"},
