@@ -7,7 +7,8 @@
 	{"key":"YiSo","name":"云盘｜易搜","type":3,"api":"csp_YiSo","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"UpYun","name":"云盘｜云搜","type":3,"api":"csp_UpYun","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"PanSou","name":"云盘｜盘搜","type":3,"api":"csp_PanSou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-	{"key":"TuGou","name":"云盘｜土狗","type":3,"api":"csp_TuGou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"}],
+	{"key":"TuGou","name":"云盘｜土狗","type":3,"api":"csp_TuGou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"云盘网","name":"云盘｜云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/阿里云盘网.json"}],
 "parses":
 	[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
 	{"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
