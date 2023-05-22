@@ -119,7 +119,7 @@
 	{"key":"巨人影院","name":"‍巨人影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/巨人影院.json"},
 	{"key":"电影盒子","name":"电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影盒子.json"},
 	{"key":"布蕾蓝光","name":"布蕾蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/布蕾蓝光.json"},
-	{"key":"酷影蓝光","name":"酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
+	{"key":"酷影蓝光","name":"酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 	{"key":"多米蓝光","name":"多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 	{"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
