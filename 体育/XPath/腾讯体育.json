@@ -7,22 +7,18 @@
     //"dcPlayUrl": "true",
     "homeUrl": "https://m.live.qq.com/directory/game/Basketball",
     "cateManual": {
-        "篮球": "@directory/game/Basketball",
-        "足球":"@directory/game/Football",
-        "搏击":"@directory/game/Fight",
-        "网球排球":"@directory/game/Tennis",
-        "英文原声":"@directory/game/English",
-        "台球":"@directory/game/Billiards",
-        "棒球/橄榄球/冰球":"@directory/game/MLB",
-        "NBA":"@directory/game/NBA",
-        "CBA":"@directory/game/CBA",
-        "颜值":"@directory/game/YZ",
-        "棋牌/游戏":"@directory/game/Game"
-   
+        "篮球":"directory/game/Basketball",
+        "足球":"directory/game/Football",
+        "搏击":"directory/game/Fight",
+        "网球排球":"directory/game/Tennis",
+        "台球":"directory/game/Billiards",
+        "棒球/橄榄球/冰球":"directory/game/MLB",
+        "NBA":"directory/game/NBA",
+        "CBA":"directory/game/CBA"
     },
     "homeVodNode": "//a[contains(@href,'/10')]","homeVodName": "/div/following-sibling::p[1]/text()","homeVodId": "/@href","homeVodIdR": "/(\\S+)","homeVodImg": "//div[contains(@style,'http')]/@style","homeVodImgR": "(http.*?jpg)","homeVodMark": "",
     
-      "cateUrl2": "https://m.live.qq.com/{cateId}",
+      "cateUrl": "https://m.live.qq.com/{cateId}",
   
   "cateVodNode": "//a[contains(@href,'/10')]",
   
