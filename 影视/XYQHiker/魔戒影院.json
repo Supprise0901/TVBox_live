@@ -10,7 +10,7 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "http://mojievip.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+    "分类链接": "http://mojievip.com/type/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
     "分类名称": "电影&电视&动漫&综艺",
     "分类名称替换词": "1&2&3&4",
     "筛选数据": "ext",
