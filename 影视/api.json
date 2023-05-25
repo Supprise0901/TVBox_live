@@ -106,7 +106,6 @@
 	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/农民影视.json"},
 	{"key":"秋霞影视","name":"秋霞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/秋霞影视.json"},
 	{"key":"神马影院","name":"神马影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/神马影院.json"},
-	{"key":"黑料电影","name":"黑料电影","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/黑料电影.json"},
 	{"key":"七新影视","name":"七新影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/七新影视.json"},
 	{"key":"魔戒影院","name":"魔戒影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/魔戒影院.json"},
 	{"key":"看看电影","name":"看看电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看看电影.json"},
