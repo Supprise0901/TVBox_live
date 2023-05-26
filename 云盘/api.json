@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;07278cf6da1494a6ea354ff15c257a62",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;b4750eb259fd5f6c445853b4412ea4f3",
 "sites":
 	[{"key":"玩偶哥哥","name":"云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
 	{"key":"PanSearch","name":"云盘｜搜索","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
