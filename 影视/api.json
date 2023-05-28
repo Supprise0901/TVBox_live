@@ -1,6 +1,7 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;ab51ef309aa98603e4b5750a35b04179",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
+	{"key":"三六零","name":"三六零","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 	{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"真不卡","name":"真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/真不卡.json"},
 	{"key":"一八八","name":"一八八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/一八八.json"},
@@ -10,7 +11,6 @@
 	{"key":"素白白","name":"素白白","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/素白白.json"},
 	{"key":"我不卡","name":"我不卡","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/我不卡.json"},
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
-	{"key":"三六零","name":"三六零","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 	{"key":"看看剧","name":"看看剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看看剧.json"},
 	{"key":"五五五","name":"五五五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五五.json"},
 	{"key":"一三九","name":"一三九","type":3,"api":"./JS/drpy.min.js","ext":"./JS/一三九.js"},
