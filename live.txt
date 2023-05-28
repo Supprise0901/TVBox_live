@@ -649,6 +649,7 @@ VIUTV,http://r.jdshipin.com/vSJvl
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 龙翔时代,http://120.84.96.89:808/hls/35/index.m3u8
+天映经典,http://120.84.96.89:808/hls/85/index.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -656,7 +657,6 @@ ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 东森卫视,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
 东森洋片,http://120.84.96.89:808/hls/33/index.m3u8
 东森电影,http://120.84.96.89:808/hls/32/index.m3u8
-天映经典,http://120.84.96.89:808/hls/85/index.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森财经,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 东森财经,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
@@ -667,8 +667,7 @@ ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 东森戏剧,http://123.51.230.108:18538/.m3u8
 东森新闻美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森新闻美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
-财经体育资讯,http://r.jdshipin.com/Nr5jq
-财经体育咨询,http://120.84.96.89:808/hls/86/index.m3u8
+财经体育资讯,http://120.84.96.89:808/hls/86/index.m3u8
 其它频道,#genre#
 黑莓电竞,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
