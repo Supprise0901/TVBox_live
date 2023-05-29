@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;98c90302337a4016e39430821e359af4",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;4f9588766f551c3a81a1060cfe51c85c",
 "sites":
 	[{"key":"二三三","name":"二三三","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二三三.json"},
 	{"key":"路漫漫","name":"路漫漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/路漫漫.js"},
