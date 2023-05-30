@@ -364,7 +364,6 @@ CCTV兵器科技,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default
 河南卫视,https://cntv.sbs/v605?id=hnws35
 浙江卫视,https://cntv.sbs/v605?id=zjwsH265
 海南卫视,https://cntv.sbs/v605?id=hnws
-深圳卫视,https://cntv.sbs/v605?id=szwsH265
 湖北卫视,https://cntv.sbs/v605?id=hbwsH265
 山西卫视,https://cntv.sbs/v605?id=sxws42
 东南卫视,https://cntv.sbs/v605?id=dnwsfjwsH265
@@ -991,7 +990,6 @@ SITV生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.c
 SITV乐游频道,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 SITV都市剧场,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8
 SITV东方财经,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-SITV新视觉,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 SITV动漫秀场,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
 SITV游戏风云,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
 SITV法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
