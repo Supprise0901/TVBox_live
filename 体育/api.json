@@ -1,4 +1,5 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;cecf3becd21fa139541846307a9eb1fb",
+ "wallpaper":"http://127.0.0.1:9978/file/TVBox/体育.jpg",
 "sites":
 	[{"key":"腾讯体育","name":"腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/腾讯体育.json"},
 	{"key":"抓饭体育","name":"抓饭体育","type":3,"api":"./JS/drpy.min.js","ext":"./JS/抓饭体育.js"},
