@@ -1,9 +1,9 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a287067a5be7c2f91f7b5ad337736536",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
-	{"key":"三六零","name":"三六零","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 	{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"真不卡","name":"真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/真不卡.json"},
+	{"key":"独播库","name":"独播库","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/独播库.json"},
 	{"key":"一八八","name":"一八八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/一八八.json"},
 	{"key":"臭蛋蛋","name":"臭蛋蛋","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/臭蛋蛋.json"},
 	{"key":"野荷塘","name":"野荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/野荷塘.json"},
