@@ -121,6 +121,7 @@
 	{"key":"酷影蓝光","name":"酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 	{"key":"红红影视","name":"红红影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 	{"key":"黄黄影视","name":"黄黄影视","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+	{"key":"爱迪影视","name":"爱迪影视","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 	{"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"哔嘀视频","name":"哔嘀视频","type":3,"api":"csp_Bdys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
