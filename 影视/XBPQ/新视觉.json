@@ -1,14 +1,15 @@
     {
-    
+   // 新视觉官网永久发布页: https://www.526080.com/ 
+        
     "作者":"荷城茶秀",
     
     "站名":"新视觉影视",
     
-    "主页url":"https://www.6080dy3.com/",
+    "主页url":"https://www.6080yy3.com/",
     
     "请求头":"手机",
 
-    "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗。+剧情：&&<a",
+    "简介":"请勿相信影片中的广告，以免上当受骗。+剧情：&&<a",
     
     "导演":"导演：&&</div>",
     
@@ -54,7 +55,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类url":"https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
