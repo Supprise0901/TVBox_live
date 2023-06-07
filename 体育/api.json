@@ -2,10 +2,10 @@
  "wallpaper": "https://bing.img.run/rand_uhd.php",
 "sites":
 	[{"key":"腾讯体育","name":"腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/腾讯体育.json"},
-	{"key":"抓饭体育","name":"抓饭体育","type":3,"api":"./JS/drpy.min.js","ext":"./JS/抓饭体育.js"},
 	{"key":"88看球","name":"88看球","type":3,"api":"./JS/drpy.min.js","ext":"./JS/88看球.js"},
 	{"key":"310直播","name":"310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/310直播.json"},
-	{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"./JS/drpy.min.js","ext":"./JS/JRKAN直播.js"}],
+	{"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/JRKAN直播.json"},
+	{"key":"一起看直播","name":"一起看直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQBiu/一起看直播.json"}],
 "parses":
 	[{"name":"线路1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 	{"name":"线路2","type":0,"url":"https://jx.777jiexi.com/player/?url="},
