@@ -43,7 +43,7 @@
     "分类片单链接加前缀": "http://wogg.xyz",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$MOBILE_UA",
-    "搜索链接": "http://wogg.xyz/index.php/vodsearch/{wd}----------1---.html",
+    "搜索链接": "http://wogg.xyz/index.php/vodsearch/{wd}-------------.html",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".module-items&&.module-search-item",
