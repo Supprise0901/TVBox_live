@@ -124,7 +124,7 @@
 	{"key":"六九美剧","name":"六九美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 	{"key":"东方影视","name":"东方影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
 	{"key":"酷影蓝光","name":"酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
-	{"key":"多米蓝光","name":"多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
+	{"key":"多米蓝光","name":"多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 	{"key":"黄黄影视","name":"黄黄影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 	{"key":"免费影视","name":"免费影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.vip/api.php/app/"},
 	{"key":"如意蓝光","name":"如意蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/","playUrl":"json:https://jx.4kdv.com/?url="},
