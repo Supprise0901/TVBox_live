@@ -1,6 +1,6 @@
 var rule = {
     title:'麻花影视',
-    host:'https://www.mhyyy.com',
+    host:'https://www.mh620.com',
     // homeUrl:'/',
     url:'/show/fyclass/page/fypage.html',
     searchUrl:'/search/page/fypage/wd/**.html',
