@@ -112,7 +112,6 @@
 	{"key":"疯狗影视","name":"‍疯狗影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/疯狗影视.json"},
 	{"key":"巨人影院","name":"‍巨人影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/巨人影院.json"},
 	{"key":"电影盒子","name":"电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影盒子.json"},
-	{"key":"布蕾蓝光","name":"布蕾蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/布蕾蓝光.json"},
 	{"key":"一龙高清","name":"一龙高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/一龙高清.json"},
 	{"key":"深蓝影视","name":"深蓝影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/深蓝影视.json"},
 	{"key":"云镜影视","name":"云镜影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云镜影视.json"},
