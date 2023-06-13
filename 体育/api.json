@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;91d9c0c371190f6bc66892103c2309a8",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a6147d6560dcd1af696fc4a743f2509f",
  "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"腾讯体育","name":"腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/腾讯体育.json"},
