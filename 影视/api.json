@@ -120,7 +120,7 @@
 	{"key":"酷影蓝光","name":"酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
 	{"key":"多米蓝光","name":"多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 	{"key":"黄黄影视","name":"黄黄影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-	{"key":"影探蓝光","name":"影探蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
+	{"key":"影探蓝光","name":"影探蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://get.lfytyl.com/api.php/app/"},
 	{"key":"影图资源","name":"影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	{"key":"暴风资源","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 	{"key":"非凡资源","name":"非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","泰国剧","欧美剧","海外剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","港台动漫","日韩动漫","欧美动漫","海外动漫"]},
