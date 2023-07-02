@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;f2c6ca8bdaa588a2459c9758a8098bea",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;1c287b88de1068b3114d9e6a03db4dab",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"云盘｜首页","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
