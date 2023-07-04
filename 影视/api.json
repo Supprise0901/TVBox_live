@@ -3,6 +3,7 @@
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
 	{"key":"九九六","name":"九九六","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
+	{"key":"好看剧","name":"好看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.cc/api.php/app/"},
 	{"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 	{"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 	{"key":"萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
@@ -16,7 +17,6 @@
 	{"key":"素白白","name":"素白白","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/素白白.json"},
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
 	{"key":"看看剧","name":"看看剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看看剧.json"},
-	{"key":"五五五","name":"五五五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五五.json"},
 	{"key":"三四八","name":"三四八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三四八.json"},
 	{"key":"爱奇艺","name":"爱奇艺","type":3,"api":"./JS/drpy.min.js","ext":"./JS/爱奇艺.js"},
 	{"key":"落攻阁","name":"落攻阁","type":3,"api":"./JS/drpy.min.js","ext":"./JS/落攻阁.js"},
