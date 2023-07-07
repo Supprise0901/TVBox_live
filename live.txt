@@ -638,6 +638,9 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 浙江卫视,http://39.134.61.219/PLTV/88888888/224/3221227017/index.m3u8
 浙江卫视,http://39.134.61.219/PLTV/88888888/224/3221227078/index.m3u8
 重庆卫视,http://39.134.61.219/PLTV/88888888/224/3221226885/index.m3u8
+地方频道,#genre#
+潮州民生,http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czggpd.m3u8
+潮州综合,http://hdl-czbtv-gb.sobeylive.com/czbtv2019/czzhpd.m3u8
 港·澳·台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
