@@ -2,6 +2,7 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"./JS/豆瓣.js","searchable":0,"quickSearch":0,"filterable":1},
+	{"key":"机器人","name":"机器人","type":3,"api":"./JS/机器人.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"九九六","name":"九九六","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
 	{"key":"北极狐","name":"北极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 	{"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -17,7 +18,6 @@
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
 	{"key":"三四八","name":"三四八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三四八.json"},
 	{"key":"爱奇艺","name":"爱奇艺","type":3,"api":"./JS/drpy.min.js","ext":"./JS/爱奇艺.js"},
-	{"key":"机器人","name":"机器人","type":3,"api":"./JS/drpy.min.js","ext":"./JS/机器人.js"},
 	{"key":"慢大浪","name":"慢大浪","type":3,"api":"./JS/drpy.min.js","ext":"./JS/慢大浪.js"},
 	{"key":"落攻阁","name":"落攻阁","type":3,"api":"./JS/drpy.min.js","ext":"./JS/落攻阁.js"},
 	{"key":"皮皮鸭","name":"皮皮鸭","type":3,"api":"./JS/drpy.min.js","ext":"./JS/皮皮鸭.js"},
