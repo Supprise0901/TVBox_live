@@ -1,12 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "冷曦影视",
-  "主页url": "https://www.lenxitv.cc",
+  "主页url": "https://www.lengxitv.com",
   
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "movie&tv&zongyi&dongman",
   
-  "分类url": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html",
+  "分类url": "https://www.lengxitv.com/t/{cateId}-{catePg}.html",
   
   "数组": "<li class=\"fed-list-item&&</li>",
   "图片": "data-original=\"&&\"",
