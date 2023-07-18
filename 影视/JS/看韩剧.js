@@ -4,7 +4,7 @@ var rule={
     title:'看韩剧',
     模板:'首图',
     // host:'https://www.kan.cc',
-    host:'https://www.kangii.com',
+    host:'https://cc.kan.cc',
     url:'/search.html?page=fypage&searchtype=5&tid=fyclassfyfilter',
     filterable:1,//是否启用分类筛选,
     filter_url:'&order={{fl.by}}&year={{fl.year}}',
