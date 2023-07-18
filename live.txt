@@ -713,7 +713,6 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 三立综合,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
-东森戏剧,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
 东森洋片,http://103.112.191.9:880/LAOSAT1018.m3u8
