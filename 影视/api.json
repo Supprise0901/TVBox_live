@@ -28,7 +28,6 @@
 	{"key":"一零一","name":"一零一","type":3,"api":"./JS/drpy.min.js","ext":"./JS/一零一.js"},
 	{"key":"三四五","name":"三四五","type":3,"api":"./JS/drpy.min.js","ext":"./JS/三四五.js"},
 	{"key":"免费看","name":"免费看","type":3,"api":"./JS/drpy.min.js","ext":"./JS/免费看.js"},
-	{"key":"看韩剧","name":"看韩剧","type":3,"api":"./JS/drpy.min.js","ext":"./JS/看韩剧.js"},
 	{"key":"蛋蛋剧","name":"蛋蛋剧","type":3,"api":"./JS/drpy.min.js","ext":"./JS/蛋蛋剧.js"},
 	{"key":"花猫影视","name":"花猫影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/花猫TV.js"},
 	{"key":"网飞影视","name":"网飞影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/网飞TV.js"},
