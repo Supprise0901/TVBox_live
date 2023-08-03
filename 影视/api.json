@@ -87,11 +87,8 @@
 	{"key":"Mp4Mov","name":"磁力｜Mp4Mov","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"SeedHub","name":"磁力｜SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"美剧迷","name":"磁力｜美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"磁力熊","name":"磁力｜磁力熊","type":3,"api":"./JS/drpy.min.js","ext":"./JS/磁力熊.js"},
-	{"key":"电影港","name":"磁力｜电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港.json"},
-	{"key":"酷吧电影","name":"磁力｜酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"美剧天堂","name":"磁力｜美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1}],
+	{"key":"电影港","name":"磁力｜电影港","type":3,"api":"csp_Megnet","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港.json"}],
 "parses":
 	[{"name":"线路1","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 	{"name":"线路2","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
