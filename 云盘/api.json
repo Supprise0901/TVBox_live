@@ -7,6 +7,7 @@
 	{"key":"DOVX搜索","name":"云盘｜七夜","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/DOVX搜索.json"},
 	{"key":"UpYun","name":"云盘｜云搜","type":3,"api":"csp_Upyunso","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"PanSou","name":"云盘｜盘搜","type":3,"api":"csp_AliPS","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"Yisou","name":"云盘｜易搜","type":3,"api":"csp_Yisou","ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"橘子盘搜","name":"云盘｜橘子","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/橘子盘搜.json"},
 	{"key":"我的小站","name":"云盘｜小站","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/我的小站.json"},
 	{"key":"云盘资源分享","name":"云盘｜分享","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘资源分享.json"},
