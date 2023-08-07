@@ -5,6 +5,7 @@
 	{"url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json","name":"体育"},
 	{"url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/api.json","name":"教育"},
 	{"url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/api.json","name":"直播"},
+	{"url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/api.json","name":"磁力"},
 	{"url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json","name":"云盘"}
 	]
 }
