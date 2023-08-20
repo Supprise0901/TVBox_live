@@ -14,7 +14,6 @@
 	{"key":"异世界","name":"异世界","type":3,"api":"./JS/drpy.min.js","ext":"./JS/异世界.js"},
 	{"key":"曲奇动漫","name":"曲奇动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/曲奇动漫.js"},
 	{"key":"妮可动漫","name":"妮可动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/妮可动漫.js"},
-	{"key":"风车动漫","name":"风车动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/风车动漫.js"},
 	{"key":"嘶哩嘶哩","name":"嘶哩嘶哩","type":3,"api":"./JS/drpy.min.js","ext":"./JS/嘶哩嘶哩.js"},
 	{"key":"维奇动漫","name":"维奇动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/维奇动漫.json"},
 	{"key":"动漫巴士","name":"动漫巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/动漫巴士.json"}],
