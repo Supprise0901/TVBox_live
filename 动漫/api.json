@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;29e08310ae90403ac65b4f0d5ff319b5",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;23f270c37e63e864c003f030d16c121e",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
@@ -6,6 +6,7 @@
 	{"key":"AGE动漫","name":"AGE动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AGE动漫.js"},
 	{"key":"NT动漫","name":"NT动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NT动漫.js"},
 	{"key":"58动漫","name":"58动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/58动漫.js"},
+	{"key":"次元城","name":"次元城","type":3,"api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/"},
 	{"key":"二三三","name":"二三三","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二三三.json"},
 	{"key":"路漫漫","name":"路漫漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/路漫漫.js"},
 	{"key":"动漫岛","name":"动漫岛","type":3,"api":"./JS/drpy.min.js","ext":"./JS/动漫岛.js"},
