@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;29e08310ae90403ac65b4f0d5ff319b5",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;23f270c37e63e864c003f030d16c121e",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"企鹅体育","name":"企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/企鹅体育.json"},
