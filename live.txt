@@ -1108,8 +1108,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230922/1.m3u8
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231013/1.m3u8
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231013/1.m3u8
-黑龙江｜公共,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
-黑龙江｜公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江｜少儿,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 黑龙江｜少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 黑龙江｜少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
@@ -1129,6 +1127,8 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 黑龙江｜新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江｜新闻,http://iptv.ikuai.tv:8006/udp/229.58.190.16:5000
 黑龙江｜新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江｜科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+黑龙江｜科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江｜科教,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 黑龙江｜科教,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 黑龙江｜科教,http://iptv.ikuai.tv:8006/udp/229.58.190.7:5000
