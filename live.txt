@@ -634,8 +634,8 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
-潮州综合,http://58.61.148.28:8088/udp/239.253.43.70:5146
-潮州民生,http://58.61.148.28:8088/udp/239.253.43.75:5146
+潮州综合,http://www.namewee.xyz/gudou.php?id=3131_4500
+潮州民生,http://www.namewee.xyz/gudou.php?id=3132_4500
 清新综合,http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
 清新综合,http://hls.wiseqx.com/live/qxzh.m3u8
 韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
