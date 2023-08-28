@@ -672,9 +672,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 安徽｜公共,http://live.cooltv.top/tv/anhui.php?id=ahgg
 安徽｜公共,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahgg
 安徽｜公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-安徽｜农业科教,http://live.cooltv.top/tv/anhui.php?id=ahnykj
-安徽｜农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
-安徽｜农业科教,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahnykj
 安徽｜国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
 安徽｜国际,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahgj
 安徽｜国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
@@ -686,6 +683,9 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 安徽｜影视,http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽｜影视,http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽｜影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+安徽｜农业科教,http://live.cooltv.top/tv/anhui.php?id=ahnykj
+安徽｜农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
+安徽｜农业科教,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahnykj
 安徽｜经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽｜经济生活,http://live.cooltv.top/tv/anhui.php?id=ahjjsh
 安徽｜经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
