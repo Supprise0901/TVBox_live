@@ -1603,16 +1603,14 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 江西｜赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
 江西｜都昌综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8
 
-辽宁｜辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
-辽宁｜辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
-辽宁｜辽宁经济,http://218.25.44.2:8899/hls/39/index.m3u8
-辽宁｜辽宁公共,http://218.25.44.2:8899/hls/40/index.m3u8
-辽宁｜辽宁都市,http://218.25.44.2:8899/hls/47/index.m3u8
-辽宁｜辽宁影视,http://218.25.44.2:8899/hls/48/index.m3u8
-辽宁｜辽宁教育,http://218.25.44.2:8899/hls/51/index.m3u8
-辽宁｜辽宁生活,http://218.25.44.2:8899/hls/52/index.m3u8
-辽宁｜辽宁体育,http://218.25.44.2:8899/hls/53/index.m3u8
-辽宁｜辽宁北方,http://218.25.44.2:8899/hls/54/index.m3u8
+辽宁｜经济,http://218.25.44.2:8899/hls/39/index.m3u8
+辽宁｜公共,http://218.25.44.2:8899/hls/40/index.m3u8
+辽宁｜都市,http://218.25.44.2:8899/hls/47/index.m3u8
+辽宁｜影视,http://218.25.44.2:8899/hls/48/index.m3u8
+辽宁｜教育,http://218.25.44.2:8899/hls/51/index.m3u8
+辽宁｜生活,http://218.25.44.2:8899/hls/52/index.m3u8
+辽宁｜体育,http://218.25.44.2:8899/hls/53/index.m3u8
+辽宁｜北方,http://218.25.44.2:8899/hls/54/index.m3u8
 辽宁｜沈阳新闻综合,http://218.25.44.2:8899/hls/20/index.m3u8
 辽宁｜丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 辽宁｜大连新闻,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
@@ -2207,7 +2205,7 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 浙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231023/1.m3u8
 浙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231023/1.m3u8
 浙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231023/1.m3u8
-浙江｜浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江｜卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江｜钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江｜经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江｜教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
