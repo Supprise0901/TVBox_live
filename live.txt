@@ -1761,7 +1761,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 山东｜聊城公共,http://m3u8.channellive.lcbtv.com/cms/videos/nmip-media-dz/channellive/channel3/playlist.m3u8
 
 山西｜卫视,http://0b4e127539ff8c3fb7398ab07b004ec1.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d42b970a64d118569044ca5e8a86a375
-山西｜卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 山西｜卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 山西｜卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 山西｜卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
