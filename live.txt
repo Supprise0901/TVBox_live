@@ -209,8 +209,6 @@ CCTV16-4K,http://jiexi.bulisite.top/bestv.php?id=cctv16hd4k/15000000
 CCTV16-4K,http://jncaords.hk3.xyyun.publicvm.com/live/bestv.php?id=cctv16hd4k/15000000
 CCTV16-4K,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240349_1
 CCTV16-4K,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,https://cntv.sbs/tv?auth=230813&id=cctv4k
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K,http://cntv.dfkj.live/bestv.php?id=cctv4k/15000000
