@@ -1856,6 +1856,9 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 山东｜高密综合,http://alivealone.litenews.cn/71/202304_1651887494549147648.flv
 山东｜高青影视,http://alivealone.litenews.cn/61/56d09086fb25449cb4eefb24f5042937.flv
 山东｜高青综合,http://alivealone.litenews.cn/61/b6a7086cc9e847b3af6a32367d9e6f16.flv
+山东｜济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
+山东｜济宁教育,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
+山东｜济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
 
 山西｜卫视,http://0b4e127539ff8c3fb7398ab07b004ec1.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d42b970a64d118569044ca5e8a86a375
 山西｜卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
@@ -3127,6 +3130,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 百事通4K电影,http://58.32.40.25:8000/udp/239.45.3.107:5140
 百事通4K纪实,http://58.32.40.25:8000/udp/239.45.1.10:5140
 百事通4K儿童,http://58.32.40.25:8000/udp/239.45.1.1:5140
+4K超高清电影,http://159.75.85.63:5681/sxg.php
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
