@@ -1,6 +1,6 @@
 var rule = {
     title:'抓饭体育',
-    host:'https://www.zhuafan.xin',
+    host:'https://www.justmi.cn',
     url:'/sports-home/category/fyclass',
     class_name:'全部&足球&篮球&网球&羽乒&台球&排球&棒球&搏击&电竞&棋盘&户外&聊天&原声&综合',
     class_url:'all&Football&Basketball&Tennis&Badminton&Billiards&Volleyball&Baseball&Wrestling&Popular&Boardgame&Outdoors&Chat&Acoustic&Others',
