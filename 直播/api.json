@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fc286c80dc0148925ad7e178f4debe09",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c837fc778f3f8d760fd4b0c79d5c12e3",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"哔哩直播","name":"哔哩直播","type":3,"api":"./js/drpy.min.js","ext":"./js/哔哩直播.js"},
