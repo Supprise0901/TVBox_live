@@ -1,9 +1,10 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;570c94736ab0012f05127c15739e2fbe",
-"wallpaper":"https://api.likepoems.com/img/bing",
+{"spider":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/spider.jar",
+"wallpaper":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/壁纸.jpg",
 "sites":
-	[{"key":"哔哩直播","name":"哔哩直播","type":3,"api":"./js/drpy.min.js","ext":"./js/哔哩直播.js"},
-	{"key":"虎牙直播","name":"虎牙直播","type":3,"api":"./js/drpy.min.js","ext":"./js/虎牙直播.js"},
+	[{"key":"网络直播","name":"网络直播","type":3,"api":"./js/drpy.min.js","ext":"./js/JustLive.js"},
 	{"key":"斗鱼直播","name":"斗鱼直播","type":3,"api":"./js/drpy.min.js","ext":"./js/斗鱼直播.js"},
+	{"key":"虎牙直播","name":"虎牙直播","type":3,"api":"./js/drpy.min.js","ext":"./js/虎牙直播.js"},
+	{"key":"哔哩直播","name":"哔哩直播","type":3,"api":"./js/drpy.min.js","ext":"./js/哔哩直播.js"},
 	{"key":"网易CC","name":"网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/网易CC.json"}],
 "parses":
 	[{"name":"Web聚合","type":3,"url":"Web"},
@@ -27,7 +28,7 @@
 	{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "lives":
-	[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	[{"name":"live","type":0,"url":"http://127.0.0.1:9978/file/TVBoxOSC/本地仓/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "ijk":
