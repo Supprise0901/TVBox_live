@@ -76,8 +76,8 @@
 	{"key":"非凡资源","name":"非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 	{"key":"快帆资源","name":"快帆资源","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","动画片,国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧韩","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]}],
 "parses":
-	[{"name":"Web聚合","type":3,"url":"Web"},
-	{"name":"Demo聚合","type":3,"url":"Demo"},
+	[//{"name":"Web聚合","type":3,"url":"Web"},
+	//{"name":"Demo聚合","type":3,"url":"Demo"},
 	{"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url="},
 	{"name":"线路2","type":0,"url":"https://jx.yangtu.top/?url="},
 	{"name":"线路3","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
