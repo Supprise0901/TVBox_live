@@ -10,6 +10,7 @@
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
 	{"key":"三四八","name":"三四八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三四八.json"},
 	{"key":"机器人","name":"机器人","type":3,"api":"./JS/drpy.min.js","ext":"./JS/机器人.js"},
+	{"key":"哔哩兔","name":"哔哩兔","type":3,"api":"./JS/drpy.min.js","ext":"./JS/哔哩兔.js"},
 	{"key":"爱奇艺","name":"爱奇艺","type":3,"api":"./JS/drpy.min.js","ext":"./JS/爱奇艺.js"},
 	{"key":"追剧迷","name":"追剧迷","type":3,"api":"./JS/drpy.min.js","ext":"./JS/追剧迷.js"},
 	{"key":"一三九","name":"一三九","type":3,"api":"./JS/drpy.min.js","ext":"./JS/一三九.js"},
