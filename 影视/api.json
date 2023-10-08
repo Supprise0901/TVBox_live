@@ -8,7 +8,7 @@
 	{"key":"光影猫","name":"光影猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://gymcms.xn--654a.cc/api.php/app/"},
 	{"key":"迷迷剧","name":"迷迷剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/迷迷剧.json"},
 	{"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛.json"},
-	{"key":"三四八","name":"三四八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三四八.json"},
+	{"key":"好戏网","name":"好戏网","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/好戏网.json"},
 	{"key":"机器人","name":"机器人","type":3,"api":"./JS/drpy.min.js","ext":"./JS/机器人.js"},
 	{"key":"哔哩兔","name":"哔哩兔","type":3,"api":"./JS/drpy.min.js","ext":"./JS/哔哩兔.js"},
 	{"key":"爱奇艺","name":"爱奇艺","type":3,"api":"./JS/drpy.min.js","ext":"./JS/爱奇艺.js"},
