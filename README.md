@@ -7,3 +7,5 @@ https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/m
 此资源需软件支持多仓
 
 云盘资源需要登录：云盘｜首页→云盘｜登录
+
+影视APP 专享弹幕资源
