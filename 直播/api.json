@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;3661bcc6f720bc81ffae58c715011aa9",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;06925c578c423744fb4acd1c1806d4d6",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"网络直播","name":"网络直播","type":3,"api":"./js/drpy.min.js","ext":"./js/JustLive.js"},
