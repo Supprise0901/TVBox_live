@@ -2,8 +2,8 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
-	{"key":"JOJO弹幕","name":"JOJO(弹幕)","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
-	{"key":"JOJO+弹幕","name":"JOJO+(弹幕)","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
+	//{"key":"JOJO弹幕","name":"JOJO(弹幕)","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
+	//{"key":"JOJO+弹幕","name":"JOJO+(弹幕)","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
 	{"key":"三六零弹幕","name":"三六零(弹幕)","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	{"key":"三六零","name":"三六零","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
