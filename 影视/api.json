@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;dbf1d9de5912ef5edf64ab4b82a7c102",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;761f41825820b4a64fd46787a03c0dd1",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
@@ -30,6 +30,7 @@
 	{"key":"皮皮鸭","name":"皮皮鸭","type":3,"api":"./JS/drpy.min.js","ext":"./JS/皮皮鸭.js"},
 	{"key":"柒之社","name":"柒之社","type":3,"api":"./JS/drpy.min.js","ext":"./JS/柒之社.js"},
 	{"key":"五五五","name":"五五五","type":3,"api":"./JS/drpy.min.js","ext":"./JS/五五五.js"},
+	{"key":"奈飞狗","name":"奈飞狗","type":3,"api":"./JS/drpy.min.js","ext":"./JS/奈飞狗.js"},
 	{"key":"网飞影视","name":"网飞影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/网飞TV.js"},
 	{"key":"魔力高清","name":"魔力高清","type":3,"api":"./JS/drpy.min.js","ext":"./JS/HDmoli.js"},
 	{"key":"腾讯视频","name":"腾讯视频","type":3,"api":"./JS/drpy.min.js","ext":"./JS/腾讯视频.js"},
@@ -41,7 +42,7 @@
 	{"key":"米爱影视","name":"米爱影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/米爱影视.js"},
 	{"key":"碟调影视","name":"碟调影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/碟调影视.js"},
 	{"key":"佳靓影视","name":"佳靓影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/佳靓影视.js"},
-	{"key":"创艺影视","name":"创艺影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/创艺影视.js"},
+	{"key":"大米星球","name":"大米星球","type":3,"api":"./JS/drpy.min.js","ext":"./JS/大米星球.js"},
 	{"key":"量子影视","name":"量子影视","type":3,"api":"./JS/drpy.min.js","ext":"./JS/量子影视.js"},
 	{"key":"在线之家","name":"在线之家","type":3,"api":"./JS/drpy.min.js","ext":"./JS/在线之家.js"},
 	{"key":"欧帝影院","name":"欧帝影院","type":3,"api":"./JS/drpy.min.js","ext":"./JS/欧帝影院.js"},
