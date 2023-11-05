@@ -1,8 +1,8 @@
-{"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;1058d314bfa6e5f8bce75bec848a34b3",
+{"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7a4303910a34c22eb3ed4342071dfec3",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
-	{"key":"NyaFun","name":"NyaFun","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NyaFun.js"},
+	{"key":"Anime1","name":"Anime1","type":3,"api":"./JS/drpy.min.js","ext":"./JS/Anime1.js"},
 	{"key":"AGE动漫","name":"AGE动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AGE动漫.js"},
 	{"key":"NT动漫","name":"NT动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/NT动漫.js"},
 	{"key":"58动漫","name":"58动漫","type":3,"api":"./JS/drpy.min.js","ext":"./JS/58动漫.js"},
