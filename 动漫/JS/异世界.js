@@ -1,6 +1,6 @@
 var rule={
     title:'异世界动漫',
-    host:'http://www.ysjdm.net',
+    host:'https://www.mikudm.com',
     homeUrl:'/index.php/vod/show/id/22.html',
     // url:'/index.php/vod/show/class/fyclass/id/20/page/fypage.html',
     url:'/index.php/vod/show/fyclassfyfilter.html',
