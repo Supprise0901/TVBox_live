@@ -1,4 +1,4 @@
-{"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb7969bd05d5b60186f82017a116b2c8",
+{"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;60a392a7c786f771bd7ca81880a3d818",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"云盘｜首页","type":3,"api":"csp_Douban","searchable":0},
@@ -9,6 +9,7 @@
 	{"key":"UpYun","name":"弹幕｜云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true}},
 	{"key":"盘搜弹幕","name":"弹幕｜盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true}},
 	{"key":"易搜弹幕","name":"弹幕｜易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true}},
+	{"key":"云盘弹幕","name":"弹幕｜云盘","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true}},
 	{"key":"玩偶哥哥","name":"云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
 	{"key":"云盘搜索","name":"云盘｜搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘搜索.json"},
 	{"key":"Upyunso","name":"云盘｜云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
@@ -23,7 +24,9 @@
 	{"key":"土拨鼠搜索","name":"云盘｜土拨鼠","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土拨鼠搜索.json"},
 	{"key":"豆豆飞搜索","name":"云盘｜豆豆飞","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/豆豆飞搜索.json"},
 	{"key":"阿里云盘网","name":"云盘｜云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/阿里云盘网.json"},
-	{"key":"云盘分享社","name":"云盘｜分享社","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/云盘分享社.json"}],
+	{"key":"云盘分享社","name":"云盘｜分享社","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/云盘分享社.json"},
+	{"key":"夸克玩偶弹幕","name":"夸克｜玩偶","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
+	{"key":"趣盘搜弹幕","name":"夸克｜趣盘搜","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}}],
 "doh":
 	[{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
 	{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
