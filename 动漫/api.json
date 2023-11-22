@@ -1,4 +1,4 @@
-{"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb7969bd05d5b60186f82017a116b2c8",
+{"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;60a392a7c786f771bd7ca81880a3d818",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"AnFuns","name":"AnFuns","type":3,"api":"./JS/drpy.min.js","ext":"./JS/AnFuns.js"},
