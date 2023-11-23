@@ -1,0 +1,8 @@
+央视频道,#genre#
+CCTV1,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
+CCTV2,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
+CCTV3,https://cntv.lat/tv/zb.php?auth=231122&id=cctv3
+CCTV4,https://cntv.lat/tv/zb.php?auth=231122&id=cctv4
+CCTV5,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5
+CCTV5P,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5p
+CCTV6,https://cntv.lat/tv/zb.php?auth=231122&id=cctv6
