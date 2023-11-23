@@ -41,6 +41,7 @@ CHC高清电影频道,
 山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/01844f0432-0-0-87e86e69b1c4e70fce94dec662c955b8/index.m3u8
 河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
 河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
+河南卫视,http://61.163.111.107/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=158cda83efdee550e4443e0e88d15085&wsTime=1700752338&wsSession=771a8b533c70609042b5ba3e-170074350267326&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/a3c0c8c526-0-0-adc37837c7891ad48b0927a2e551bc3f/index.m3u8
@@ -103,7 +104,8 @@ CHC高清电影频道,
 
 
 河南地方,#genre#
-河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
+河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
+河南卫视,http://61.163.111.107/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=158cda83efdee550e4443e0e88d15085&wsTime=1700752338&wsSession=771a8b533c70609042b5ba3e-170074350267326&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
 河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=a3aa96c6aa8cf6efcf51547f20ab572c&wsTime=1700747837&wsSession=83355f507eadd2242616eaeb-170074214657374&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
 河南民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
 河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
