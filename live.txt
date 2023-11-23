@@ -25,7 +25,7 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 卫视频道,#genre#
 
 河南地方,#genre#
-河南都市，http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
+河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
 河南卫视,http://gmxw.7766.org:808/hls/51/index.m3u8
 成都街头,https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
