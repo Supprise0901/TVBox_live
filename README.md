@@ -2,7 +2,7 @@
 
 在线源订阅地址：
 
-https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
+https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
 
 此资源需软件支持多仓
 
