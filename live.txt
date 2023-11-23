@@ -62,13 +62,14 @@ CNC英文,http://39.137.49.76:8080/PLTV/88888910/224/3221225693/index.m3u8
 山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/01844f0432-0-0-87e86e69b1c4e70fce94dec662c955b8/index.m3u8
 河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
+辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/a3c0c8c526-0-0-adc37837c7891ad48b0927a2e551bc3f/index.m3u8
 
 
 河南地方,#genre#
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
-河南公共频道,https://2a01x53c0xffeex0x0x0x0x22.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=dd80e0a12c2709cbb31e12cfcc9ef5d9&wsTime=1700731327&wsSession=0722c3243a4ec9a015bc5949-170071828001096&wsIPSercert=146bda7c6529fb7537db6fa58c61f9fa&wsiphost=local&wsBindIP=1
-
-河南卫视,http://gmxw.7766.org:808/hls/51/index.m3u8
-成都街头,https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
+河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=2ed22ab9a007623641d5b67b240ddc81&wsTime=1700734328&wsSession=83355f507eadd2242616eaeb-170072030726597&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=2ed22ab9a007623641d5b67b240ddc81&wsTime=1700734328&wsSession=83355f507eadd2242616eaeb-170072030726597&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=4fe849de4c3771d8a28941cadc36b53c&wsTime=1700744833&wsSession=83355f507eadd2242616eaeb-170073078187978&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
 
 
