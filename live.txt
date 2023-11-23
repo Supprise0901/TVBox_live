@@ -63,13 +63,24 @@ CNC英文,http://39.137.49.76:8080/PLTV/88888910/224/3221225693/index.m3u8
 山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/01844f0432-0-0-87e86e69b1c4e70fce94dec662c955b8/index.m3u8
 河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/a3c0c8c526-0-0-adc37837c7891ad48b0927a2e551bc3f/index.m3u8
+东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=6b2eb75269a7ca7bae22e3e9286a6bdf&volcTime=1700817985
+
 
 
 河南地方,#genre#
-河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
-河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=2ed22ab9a007623641d5b67b240ddc81&wsTime=1700734328&wsSession=83355f507eadd2242616eaeb-170072030726597&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
-河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=2ed22ab9a007623641d5b67b240ddc81&wsTime=1700734328&wsSession=83355f507eadd2242616eaeb-170072030726597&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
-河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=4fe849de4c3771d8a28941cadc36b53c&wsTime=1700744833&wsSession=83355f507eadd2242616eaeb-170073078187978&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
 河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
+河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=2ed22ab9a007623641d5b67b240ddc81&wsTime=1700734328&wsSession=83355f507eadd2242616eaeb-170072030726597&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=2ed22ab9a007623641d5b67b240ddc81&wsTime=1700734328&wsSession=83355f507eadd2242616eaeb-170072030726597&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+河南民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
+河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
+河南法制频道,http://61.163.111.57/tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=72f93d3aa2df07034b0ee73e583723c9&wsTime=1700744833&wsSession=64eee4b45a14df2d33b7cee5-170073138192602&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+河南电视剧频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=67160ffbe7875e3285e57d74740c68ef&wsTime=1700744833&wsSession=83355f507eadd2242616eaeb-170073141974675&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+河南新闻频道,http://61.163.111.112/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=564919a05f376046bbd28723050910cc&wsTime=1700744833&wsSession=5e6910f8d4a1722b515be9bf-170073146170084&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+精彩中原,
+http://61.163.111.114/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=627de34bd82f4d1dc2c48d7d0616eb71&wsTime=1700744833&wsSession=f641313adc85e692fb2cb3e9-170073149702156&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
+
+
+
+
 
 
