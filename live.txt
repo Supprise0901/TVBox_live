@@ -32,9 +32,16 @@ CCTV14,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3
 CCTV15,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
 CNC中文,http://39.137.49.76:8080/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文,http://39.137.49.76:8080/PLTV/88888910/224/3221225693/index.m3u8
-CHC动作电影频道,
 CHC家庭影院频道,http://113.207.84.197/session/1e920762-89fd-11ee-a43e-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/2/a48k_zho/index.m3u8
-CHC高清电影频道,
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC家庭影院,http://219.140.210.177:4022/rtp/239.69.1.243:11100
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://219.140.210.177:4022/rtp/239.69.1.242:11094
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC高清电影,http://219.140.210.177:4022/rtp/239.69.1.241:11088
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
 卫视频道,#genre#
 山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
