@@ -44,6 +44,7 @@ CHC高清电影频道,
 河南卫视,http://61.163.111.107/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=158cda83efdee550e4443e0e88d15085&wsTime=1700752338&wsSession=771a8b533c70609042b5ba3e-170074350267326&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
+辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/a3c0c8c526-0-0-adc37837c7891ad48b0927a2e551bc3f/index.m3u8
 东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=6b2eb75269a7ca7bae22e3e9286a6bdf&volcTime=1700817985
 湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
@@ -57,7 +58,6 @@ CHC高清电影频道,
 北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 天津卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
 天津卫视,
-辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 吉林卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
 江西卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
 江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170074052473992&token=57c91b18eac29a8b233e1d090b6decd7
