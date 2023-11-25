@@ -79,7 +79,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 云南卫视,
 四川卫视,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
 四川卫视,
-广东卫视,https://ip4024712375.mobgslb.tbcache.com/tcdn.itouchtv.cn/live/gdws.m3u8?t_token=d8579e34a7487c363b795643211c16b0-82m%2FCri9mDkgETJ4VlhugV95%2F5oZtZrVlaVfMBUw%2F5FzX9r5pXV48zobgd7FBF6IZo3SQA5r%2BB6gfRbFrnJokMBfuhaPcfTbenaLMt70DrASn%2BLkLU6Muw%2F8BCT2CqQclNu0wXwwFT8A%2BcCU%2Bpqm%2BsKh0ct%2FneFQACer37s8uvYAVplXOZicgGE0AWFNMiM1tSx9boLDqr09LVJ0Gf0lB%2F3DLCQCNH59T0ZTIjHFGqLLZNIy8svLFmX144YP4Bgux62t4BY4zRVokKu1g5EMV4eVOPhm%2BaS4V%2FJCeriWcAVgFxO4lriQdBmmSez9v1l8fX5VKy6Pw0opJJ%2B7Ujl0PKu%2B2zpNf%2FXUmdKskfZS8OcKLU5esBaobNfRFqvf6WXb
+广东卫视,https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=5ecfecaa7ef7e1ec82f99337a4df0b41-iHjrGQ5zPVTk%2BqbeQ%2BWN84fGIGPxymaFC6cmZb8ivXtLWu1WEeS2Jv%2FkcFnj2hU0kyHp9eAtK8XvOj%2Bsb9eA96IyhkVmV8zYg92EpQ8laMEw%2FfGNHXzG5WlOSA%2BEHLFQRwJ%2F951SinuTKJfK90Cq8y9cXvpj%2B%2BBM9pAkVKP6OjFgBMuiJx5W8y1x7on1OaVtwD4GuHc0UcsMJOWLU0ZuITALeLlhErduCUamB0olfXDazmeKS%2FQFci6NI%2BMGnSxVu%2FEP8i6ZSXBscEImRdlRbZFXyhI%2FqDNqfAza3OFE%2Bvh%2B44Fz%2FOxBgmWccm6VbjydMjrKkarxxdcAk6p16hPvhg1XMPFyznKJJHMOuDa5t8pFpmSvwEop3l6Zk9FglSIJAimAeEj5BjJqDgWOHPcLdQ%3D%3D
 广西卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226681/1.m3u8
 广西卫视,https://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8
 深圳卫视,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
