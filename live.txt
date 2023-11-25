@@ -113,19 +113,18 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 河南地方,#genre#
 河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
-河南卫视,http://61.163.111.107/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=158cda83efdee550e4443e0e88d15085&wsTime=1700752338&wsSession=771a8b533c70609042b5ba3e-170074350267326&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
-河南公共频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=a3aa96c6aa8cf6efcf51547f20ab572c&wsTime=1700747837&wsSession=83355f507eadd2242616eaeb-170074214657374&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
-河南民生频道,http://61.163.111.114/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=523bf48f2514fc0e0670ce682d41acf8&wsTime=1700752338&wsSession=f641313adc85e692fb2cb3e9-170074373958942&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
+河南公共频道,http://media.hndyjyfw.gov.cn/live/jz-henangonggong/live.m3u8
+河南民生频道,http://61.163.111.114/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=523bf48f2514fc0e0670ce682d41acf8&wsTime=1700892076&wsSession=f641313adc85e692fb2cb3e9-170074373958942&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
 河南民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
-河南都市频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5dbb3b9ecb49bcbd0b0f1c8e2cbdad23&wsTime=1700746334&wsSession=83355f507eadd2242616eaeb-170074369740640&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
+河南都市频道,
 河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
-河南法制频道,http://61.163.111.57/tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=72f93d3aa2df07034b0ee73e583723c9&wsTime=1700744833&wsSession=64eee4b45a14df2d33b7cee5-170073138192602&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
-河南电视剧频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=67160ffbe7875e3285e57d74740c68ef&wsTime=1700744833&wsSession=83355f507eadd2242616eaeb-170073141974675&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
-河南新闻频道,http://61.163.111.112/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=564919a05f376046bbd28723050910cc&wsTime=1700744833&wsSession=5e6910f8d4a1722b515be9bf-170073146170084&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
-精彩中原,http://61.163.111.114/tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=627de34bd82f4d1dc2c48d7d0616eb71&wsTime=1700744833&wsSession=f641313adc85e692fb2cb3e9-170073149702156&wsIPSercert=07a6a6814db02004b59bdcebd669dc7d&wsiphost=local&wsBindIP=1
-梨园频道,http://61.163.111.108/tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=07b1b7cc4ce31749a66c48b677e64a4c&wsTime=1700746334&wsSession=83355f507eadd2242616eaeb-170074208336446&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
-河南新农村频道,http://61.163.111.57/tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=a7fea55cb5c4ee0fa2d7973ffd851861&wsTime=1700746334&wsSession=64eee4b45a14df2d33b7cee5-170074218850516&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
-河南国际频道,http://61.163.111.106/tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=596adffc777f50c04f7acce78eca9450&wsTime=1700744833&wsSession=69228eb61f00e91bb3bc1f77-170074222699561&wsIPSercert=6d8b7a4854bd2d149f249b42dedd19e2&wsiphost=local&wsBindIP=1
+河南法制频道,
+河南电视剧频道,
+河南新闻频道,
+精彩中原,
+梨园频道,
+河南新农村频道,
+河南国际频道,
 
 🇭🇰港台｜优选,#genre#
 藕断丝连,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-PE4gUogNfRyAM.mp4
