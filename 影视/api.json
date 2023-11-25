@@ -1,7 +1,7 @@
 {"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb7969bd05d5b60186f82017a116b2c8",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
+	[{"key":"豆瓣","name":"Panda_ʕ͡تʔ","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"弹幕","name":"弹幕","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	{"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
 	{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
