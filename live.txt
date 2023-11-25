@@ -119,7 +119,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 河南民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
 河南都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5aca3c2e66a79fb1f117f70979ca9b51&wsTime=1700905580
 河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
-河南法制频道,http://tv4b.hndt.com/tv/bad89dde017f10009e72dbcb00000000_transios/playlist.m3u8?tokenendtime=1700905580&tokenhash=aGlQGE0uQeLbo3YGoxEKeoLQ_7puuAQeMpWc4A239pnE1I2DPVe4EhhrbhR22fnx&tokenstarttime=1700891180
+河南法制频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=a0009f9d424337773217ecb2ee02cb23&wsTime=1700905580
 河南电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=e52d96950068f4bfaf6497c71df57bbf&wsTime=1700905580
 河南新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=5d87bc323bac78252c3ab8b303785c11&wsTime=1700905580
 精彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=482d684a2704c139bb59558f27324a4f&wsTime=1700905580
