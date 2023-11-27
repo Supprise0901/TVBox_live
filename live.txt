@@ -113,23 +113,20 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 
 河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=dd4e76703454a0d93d78826c940d32ae&wsTime=1701075331
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=8f5146b9f7e7ec6a24e09ebd7b3c09b1&wsTime=1701075331
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=f19b9dfcd40cdb587690332dd7843821&wsTime=1701075331
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=f67a22d149156bb1f32b2a2242b79c15&wsTime=1701075331
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=ae15d30191e242ff500b953e04cddd74&wsTime=1701075331
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=3aa1edd64e6d0ecbd8d38b3c477ae863&wsTime=1701075331
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=e92259c7423774b439bb38523f620990&wsTime=1701075331
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=f2df5f79695e77874cf726e8a4108fe3&wsTime=1701075331
-河南国际,http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=8169fdfeed44b5544b7cba9b92ec8270&wsTime=1701075331
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=d54417817594b79c4bc36dfd4bc6dc38&wsTime=1701075331
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=06baa5aae9c68fbdf1c552f5d5835268&wsTime=1701075331
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=d45e10b7ffc203cd3db9112e6a6f3e44&wsTime=1701075331
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=bd8776c3b675b6881044d2245602f741&wsTime=1701075331
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=04c83907c45b65e9bded19c2a31890ea&wsTime=1701075331
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=b8121fe7573dcccb7043912277c73e34&wsTime=1701075331
-国学频道,http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=8d9f29e9ebe6ce5d4f72544e2a42f00b&wsTime=1701075331
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=544ebdffce311511994e0045aaf223b5&wsTime=1701075331
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0feb925a61a11eb6f1f0570d5e6ba5d8&wsTime=1701087334
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c9e464ea06136c55b31e6f129d101c12&wsTime=1701087334
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=4b95fafc5162c5d8acd9cac4e931a27a&wsTime=1701087334
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=a333d4199a05e524c98c53ff792aabf4&wsTime=1701087334
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=e8449dad8fc32c2ed32ddc9ea4739b52&wsTime=1701087334
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=1b588d4fd94ce9a4a3c1ab2e1e05bd4d&wsTime=1701087334
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=86d280323861eeaff3d1e5aa82c4e283&wsTime=1701087334
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=e8a83545c90502d8960bbfdcfdc8751e&wsTime=1701087334
+河南国际,http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=846ba83b97cea569f35457be5be4be94&wsTime=1701087334
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=7de0c7f53a74d6d20c637a05b3befb82&wsTime=1701087334
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=eb9145e42377c56550d470eeb84cb791&wsTime=1701087334
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=81c6000f24cae1c1e322e7f44184831f&wsTime=1701087334
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=5b7dcac4b5d681c744e7feed478bc2aa&wsTime=1701087334
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=57c6618507b7714ef7edc9d6ed879c81&wsTime=1701087334
 
 河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
 民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
