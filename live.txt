@@ -114,8 +114,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 河南地方,#genre#
 河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
-河南民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
-河南都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
+民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
+都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 
 
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=dd4e76703454a0d93d78826c940d32ae&wsTime=1701075331
