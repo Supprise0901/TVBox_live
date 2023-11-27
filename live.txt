@@ -113,11 +113,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 
 河南地方,#genre#
-河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
-民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
-都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
-
-
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=dd4e76703454a0d93d78826c940d32ae&wsTime=1701075331
 新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=8f5146b9f7e7ec6a24e09ebd7b3c09b1&wsTime=1701075331
 都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=f19b9dfcd40cdb587690332dd7843821&wsTime=1701075331
@@ -136,7 +131,10 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 国学频道,http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=8d9f29e9ebe6ce5d4f72544e2a42f00b&wsTime=1701075331
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=544ebdffce311511994e0045aaf223b5&wsTime=1701075331
 
-进程已结束,退出代码0
+河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
+民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
+都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
+公共频道,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
 
 
 🇭🇰港台｜优选,#genre#
