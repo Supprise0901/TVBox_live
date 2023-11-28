@@ -5,7 +5,6 @@ with open('video_data.txt', 'r', encoding='utf-8') as file:
     data_json = file.read()
     data = json.loads(data_json)
 
-
 # Extracting name and video_streams values
 with open('live.txt', 'w') as f:
     for entry in data:
