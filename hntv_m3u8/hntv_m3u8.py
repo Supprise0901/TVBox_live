@@ -8,7 +8,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 
 # 要保存的文件名和内容
-file_name = "live.txt"
+file_name = "hntv_m3u8.txt"
 
 # 构造完整的文件路径
 file_path = os.path.join(parent_dir, file_name)
@@ -20,7 +20,7 @@ with open('video_data.txt', 'r', encoding='utf-8') as file:
 
 # Extracting name and video_streams values
 with open(file_name, 'w') as f:
-    # f.write('河南地方,#genre#\n')
+    f.write('河南地方,#genre#\n')
     for entry in data:
         name = entry.get("name", "")
         video_streams = entry.get("video_streams", "")
