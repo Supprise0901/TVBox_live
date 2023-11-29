@@ -1,11 +1,2 @@
-河南卫视,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?&encrypt=
-河南卫视,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-350/index.m3u8?&encrypt=
-河南卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
-河南卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://jltpc.x3322.net:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视,http://gmxw.7766.org:808/hls/51/index.m3u8
-河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视,http://122.224.153.162:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
-河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
-河南卫视,http://218.17.196.234:9901/tsfile/live/0139_1.m3u8
+河南公共,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+河南公共,http://api2.52tb.xyz/info?id=504&token=20230218htjgzi
