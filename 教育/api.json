@@ -1,4 +1,4 @@
-{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;6f9184e4ed57b4b5395c21e7cc01842d",
+{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;71f99cf2129197c0f31c85ab77934467",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"兔小贝","name":"儿童启蒙","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
