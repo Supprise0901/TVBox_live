@@ -2,7 +2,6 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 import re
 from bs4 import BeautifulSoup
-import threading
 
 
 def validate_m3u8_url(url):
@@ -20,7 +19,7 @@ def validate_m3u8_url(url):
 
 
 # 检测有效链接，并写入m3u8_url.txt
-def detectLinks(m3u8_list):
+def detectLinks(m3u8_list, name):
     # 多线程测试m3u8的链接有效性
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = [executor.submit(validate_m3u8_url, m3u8_url) for m3u8_url in m3u8_list]
@@ -32,10 +31,11 @@ def detectLinks(m3u8_list):
     # 检测的valid_m3u8_link列表，保存到m3u8_url.txt文本中
     with open('m3u8_url.txt', 'w', encoding='utf-8') as file:
         for valid_url in valid_m3u8_link:
-            file.write(f'{valid_url}\n')
+            file.write(f'{name},{valid_url}\n')
 
 
 if __name__ == '__main__':
+
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
     }
@@ -46,7 +46,7 @@ if __name__ == '__main__':
         print(i)
         params = {
             'page': i,
-            "s": "CCTV"
+            "s": "CCTV1"
         }
         response = requests.get(url, headers=headers, params=params, verify=False)
         print(response)
@@ -66,9 +66,10 @@ if __name__ == '__main__':
                 m3u8_list.append(extracted_url)
             else:
                 print("URL extraction failed.")
+    print(m3u8_list)
 
     # 检测m3u8url是否有效，将有效url增加到列表
     valid_m3u8_link = []
-    detectLinks(m3u8_list)
+    detectLinks(m3u8_list, name='cctv1')
 
 
