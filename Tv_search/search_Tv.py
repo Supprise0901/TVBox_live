@@ -21,6 +21,7 @@ def validate_m3u8_url(url):
 
 # 检测有效链接，并写入m3u8_url.txt
 def detectLinks(m3u8_list):
+    # 多线程测试m3u8的链接有效性
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = [executor.submit(validate_m3u8_url, m3u8_url) for m3u8_url in m3u8_list]
 
@@ -28,7 +29,7 @@ def detectLinks(m3u8_list):
         for future in futures:
             future.result()
 
-    # print(valid_m3u8_link)
+    # 检测的valid_m3u8_link列表，保存到m3u8_url.txt文本中
     with open('m3u8_url.txt', 'w', encoding='utf-8') as file:
         for valid_url in valid_m3u8_link:
             file.write(f'{valid_url}\n')
@@ -70,14 +71,4 @@ if __name__ == '__main__':
     valid_m3u8_link = []
     detectLinks(m3u8_list)
 
-    # with ThreadPoolExecutor(max_workers=5) as executor:
-    #     futures = [executor.submit(validate_m3u8_url, m3u8_url) for m3u8_url in m3u8_list]
-    #
-    #     # Wait for all tasks to complete
-    #     for future in futures:
-    #         future.result()
-    #
-    # # print(valid_m3u8_link)
-    # with open('m3u8_url.txt', 'w', encoding='utf-8') as file:
-    #     for valid_url in valid_m3u8_link:
-    #         file.write(f'{valid_url}\n')
+
