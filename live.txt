@@ -859,6 +859,8 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 北京｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230945/1.m3u8
 北京｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231010/1.m3u8
 北京｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231010/1.m3u8
+北京｜新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1276
+北京｜文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 北京｜卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 北京｜卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8?
 北京｜卡酷少儿,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
@@ -1048,6 +1050,8 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 贵州｜卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
 贵州｜卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
 贵州｜卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
+贵州｜贵州2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
+贵州｜贵州3,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226125/1/index.m3u8?fmt=ts2hls
 贵州｜松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 
 海南｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
@@ -1371,6 +1375,12 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 吉林｜延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 吉林｜龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+吉林｜德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
+吉林｜珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+吉林｜靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+吉林｜龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+吉林｜汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
 江苏｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230915/1.m3u8
 江苏｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230573/1.m3u8
