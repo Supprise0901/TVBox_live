@@ -53,7 +53,7 @@ def validate_m3u8_url(url):
         if response.status_code == 200:
             valid_m3u8_link.append(url)
             print(f"{url}\nM3U8链接有效")
-
+            response.close()
     except requests.exceptions.RequestException as e:
         print(f"Error: {e}")
         # return False
