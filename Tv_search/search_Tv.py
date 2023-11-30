@@ -2,6 +2,7 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 import re
 from bs4 import BeautifulSoup
+import os
 
 
 def validate_m3u8_url(url):
@@ -10,6 +11,7 @@ def validate_m3u8_url(url):
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         if response.status_code == 200:
+            # 有效链接增加到valid_m3u8_link列表
             valid_m3u8_link.append(url)
             print(f"{url}\nM3U8链接有效")
 
@@ -29,7 +31,7 @@ def detectLinks(m3u8_list, name):
             future.result()
 
     # 检测的valid_m3u8_link列表，保存到m3u8_url.txt文本中
-    with open('m3u8_url.txt', 'w', encoding='utf-8') as file:
+    with open(os.path.join('tv', f'{name}.txt'), 'w', encoding='utf-8') as file:
         for valid_url in valid_m3u8_link:
             file.write(f'{name},{valid_url}\n')
 
@@ -46,7 +48,7 @@ if __name__ == '__main__':
         print(i)
         params = {
             'page': i,
-            "s": "CCTV1"
+            "s": "浙江卫视"
         }
         response = requests.get(url, headers=headers, params=params, verify=False)
         print(response)
@@ -70,6 +72,6 @@ if __name__ == '__main__':
 
     # 检测m3u8url是否有效，将有效url增加到列表
     valid_m3u8_link = []
-    detectLinks(m3u8_list, name='cctv1')
+    detectLinks(m3u8_list, name='浙江卫视')
 
 
