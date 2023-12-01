@@ -1,4 +1,4 @@
-{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb7969bd05d5b60186f82017a116b2c8",
+{"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;ca7e41241f063166fd831cb3813fde01",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"网络直播","name":"网络直播","type":3,"api":"./js/drpy.min.js","ext":"./js/JustLive.js"},
@@ -14,7 +14,7 @@
 	{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "lives":
-	[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live_test.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "ijk":
 	[{"group":"软解码","options":
 		[{"category":4,"name":"opensles","value":"0"},
