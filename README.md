@@ -6,4 +6,15 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehous
 
 此资源需软件支持多仓
 
-云盘资源需要登录：云盘｜首页→云盘｜登录
+增加电视台搜索
+
+判断验证有效电视源，
+
+在线直播源订阅地址：
+
+https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt
+
+
+
+
+

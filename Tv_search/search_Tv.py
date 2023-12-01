@@ -4,11 +4,8 @@ import re
 from bs4 import BeautifulSoup
 import os
 import threading
-# 消除由urllib3库生成的警告，即在不验证SSL证书的情况下访问HTTPS网站
-import urllib3
 import mer_urls
 import sys
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 import time
 
 
@@ -27,9 +24,9 @@ def get_url(name):
         "search": name,
         "Submit": " "
     }
-    response = requests.post(url, headers=headers, data=data, verify=False)
-    response.close()
-    print(response)
+    with requests.Session() as session:
+        response = session.post(url, headers=headers, data=data, verify=False)
+        print(response)
     # print(response.text)
     soup = BeautifulSoup(response.text, 'html.parser')
     # Find the div with class "m3u8"
@@ -49,20 +46,26 @@ def get_url(name):
     return m3u8_list
 
 
-def validate_m3u8_url(url):
+def validate_m3u8_url(url, name):
     try:
         # 发送HTTP请求获取M3U8文件内容
-        response = requests.get(url, timeout=2)
-        response.close()
-        response.raise_for_status()
-        if response.status_code == 200:
-            valid_m3u8_link.append(url)
-            print(f"{url}\nM3U8链接有效")
+        with requests.get(url, timeout=10) as response:
+            response.raise_for_status()
+            if response.status_code == 200:
+                valid_m3u8_link.append(url)
+                print(f"{url}\n{name}M3U8链接有效")
+                return url
 
     # except requests as e:
     except requests.exceptions.RequestException as e:
-        print(f"{url}\nError无效链接")
-        # return False
+        result = f"{url}\nError: {name} 无效链接. Exception: {e}"
+        print(result)
+        return result
+    except Exception as e:
+        # 处理其他异常，例如超时
+        result = f"{url}\nError: {name} 其他异常. Exception: {e}"
+        print(result)
+        return result
 
 
 # 检测有效链接，并写入m3u8_url.txt
@@ -75,16 +78,22 @@ def detectLinks(name, m3u8_list, TV_name):
     # 单线程测试m3u8的链接有效性
     thread = []
     for m3u8_url in m3u8_list:
-        t = threading.Thread(target=validate_m3u8_url, args=(m3u8_url,))
+        t = threading.Thread(target=validate_m3u8_url, args=(m3u8_url, name,))
+        t.setDaemon(True)  # 设置为守护线程,确保在主线程退出时，所有子线程都会被强制终止
         t.start()
         thread.append(t)
     # 等待所有线程完成
     for t in thread:
-        print(f"Waiting for thread {t} to finish")
-        t.join()
-        # validate_m3u8_url(m3u8_url)
+        try:
+            print(f"Waiting for thread {t} to finish")
+            t.join(timeout=5)  # 等待线程超时
+        except Exception as e:
+            print(f"Thread {t} raised an exception: {e}")
     # 检测的valid_m3u8_link列表，保存到m3u8_url.txt文本中
     time.sleep(10)
+    # 判断TV_names列表中的文件夹是否存在
+    if not os.path.exists(f'{TV_name}'):
+        os.makedirs(f'{TV_name}')
     with open(os.path.join(f'{TV_name}', f'{name}.txt'), 'w', encoding='utf-8') as file:
         for valid_url in valid_m3u8_link:
             file.write(f'{name},{valid_url}\n')
@@ -103,8 +112,9 @@ if __name__ == '__main__':
         pass
     tv_dict = {}
     valid_m3u8_link = []
+    # 可以新增txt文本，增加需要的电视台，将文本文件增加入列表
     TV_names = ['🇨🇳央视频道', '卫视频道', '🇭🇰港台']
-    # TV_names = ['卫视频道', '🇭🇰港台']
+    # TV_names = ['🇭🇰港台']
     for TV_name in TV_names:
         # 读取文件并逐行处理
         with open(f'{TV_name}.txt', 'r', encoding='utf-8') as file:

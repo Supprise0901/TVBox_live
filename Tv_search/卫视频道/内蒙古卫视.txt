@@ -1,8 +1,0 @@
-内蒙古卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/350/index.m3u8?&encrypt=
-内蒙古卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
-内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
-内蒙古卫视,http://gmxw.7766.org:808/hls/60/index.m3u8
-内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
-内蒙古卫视,http://218.17.196.234:9901/tsfile/live/0109_1.m3u8
-内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
-内蒙古卫视,http://61.169.37.218:9901/tsfile/live/0117_1.m3u8?key=txiptv

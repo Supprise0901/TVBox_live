@@ -10,7 +10,6 @@ parent_dir = os.path.dirname(current_directory)
 output_file_path = os.path.join(parent_dir, 'live.txt')
 
 
-
 def mer_links(tv):
     # 获取文件夹中的所有 txt 文件
     txt_files = [f for f in os.listdir(os.path.join(current_directory, f'{tv}'))]
