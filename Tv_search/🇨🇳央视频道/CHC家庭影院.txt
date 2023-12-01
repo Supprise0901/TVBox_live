@@ -1,0 +1,2 @@
+CHC家庭影院,http://111.20.40.166/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8

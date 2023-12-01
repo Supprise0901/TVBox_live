@@ -1,0 +1,2 @@
+CHC动作电影,http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0

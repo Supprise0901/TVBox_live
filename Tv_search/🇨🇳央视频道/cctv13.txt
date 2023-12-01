@@ -1,0 +1,17 @@
+cctv13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/350/index.m3u8?&encrypt=
+cctv13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+cctv13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?&encrypt=
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+cctv13,http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
+cctv13,http://61.169.37.218:9901/tsfile/live/0013_1.m3u8?key=txiptv
+cctv13,http://cfss.cc/api/ysp/cctv13.m3u8
+cctv13,http://cfss.cc/ds/bst.php?id=Cf-14

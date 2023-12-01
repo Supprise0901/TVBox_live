@@ -27,7 +27,7 @@ with open('live.txt', 'w', encoding='utf-8') as f:
 with open('live.txt', 'r', encoding='utf-8') as f:
     hntx_text = f.read()
 
-with open('live_base.txt', 'r', encoding='utf-8') as f:
+with open(file_path, 'r', encoding='utf-8') as f:
     base_text = f.read()
 
 # 将新内容写入原始文本文件

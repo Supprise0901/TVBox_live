@@ -1,0 +1,8 @@
+华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/150/index.m3u8?&encrypt=
+华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/50/index.m3u8?&encrypt=
+华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/50/index.m3u8?&encrypt=
+华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/75/index.m3u8?&encrypt=
+华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/150/index.m3u8?&encrypt=
+华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/75/index.m3u8?&encrypt=
+华视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156391
+华视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156391&extension=ts

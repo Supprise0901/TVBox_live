@@ -1,0 +1,11 @@
+cctv14,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
+cctv14,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv14/1000/index.m3u8?&encrypt=
+cctv14,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv14/350/index.m3u8?&encrypt=
+cctv14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?&encrypt=
+cctv14,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=
+cctv14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?&encrypt=
+cctv14,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8?key=txiptv
+cctv14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/350/index.m3u8?&encrypt=
+cctv14,http://gmxw.7766.org:808/hls/32/index.m3u8
+cctv14,http://122.224.153.162:9901/tsfile/live/0014_1.m3u8?key=txiptv
+cctv14,http://61.169.37.218:9901/tsfile/live/0014_1.m3u8?key=txiptv

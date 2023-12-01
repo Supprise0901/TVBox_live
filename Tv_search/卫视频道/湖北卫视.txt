@@ -1,0 +1,7 @@
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/hubei/350/index.m3u8?&encrypt=
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?&encrypt=
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/350/index.m3u8?&encrypt=
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/hubei/1000/index.m3u8?&encrypt=
+湖北卫视,http://58.220.219.14:9901/tsfile/live/0132_1.m3u8?key=txiptv
+湖北卫视,http://61.169.37.218:9901/tsfile/live/0122_1.m3u8?key=txiptv

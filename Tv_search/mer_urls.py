@@ -4,14 +4,17 @@ import os
 current_directory = os.getcwd()
 
 # 设置合并后的文件路径
-output_file_path = os.path.join(current_directory, 'live.txt')
+# output_file_path = os.path.join(current_directory, 'live.txt')
+# 构造上级目录的路径
+parent_dir = os.path.dirname(current_directory)
+output_file_path = os.path.join(parent_dir, 'live.txt')
+
 
 
 def mer_links(tv):
     # 获取文件夹中的所有 txt 文件
     txt_files = [f for f in os.listdir(os.path.join(current_directory, f'{tv}'))]
     print(txt_files)
-
     # 打开合并后的文件，使用 'a' 模式以追加的方式写入
     with open(output_file_path, 'a', encoding='utf-8') as output_file:
         output_file.write(f'{tv},#genre#' + '\n')
@@ -30,3 +33,4 @@ def mer_links(tv):
                 output_file.write('\n')
 
     print(f'Merged content from {len(txt_files)} files into {output_file_path}')
+
