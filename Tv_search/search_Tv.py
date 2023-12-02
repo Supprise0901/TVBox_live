@@ -1,4 +1,3 @@
-from concurrent.futures import ThreadPoolExecutor, wait
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -70,12 +69,6 @@ def validate_m3u8_url(url, name):
 
 # 检测有效链接，并写入m3u8_url.txt
 def detectLinks(name, m3u8_list, TV_name):
-    # 多线程测试m3u8的链接有效性
-    # with ThreadPoolExecutor(max_workers=5) as executor:
-    #     futures = [executor.submit(validate_m3u8_url, m3u8_url) for m3u8_url in m3u8_list]
-    #     # 等待所有任务完成
-    #     wait(futures)
-
     thread = []
     for m3u8_url in m3u8_list:
         t = threading.Thread(target=validate_m3u8_url, args=(m3u8_url, name,))
