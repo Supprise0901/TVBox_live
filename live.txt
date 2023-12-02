@@ -18,18 +18,17 @@
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=52abcf687e8552b019e045403364c0c6&wsTime=1701520840
 
 
-河南卫视1,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
-河南卫视2,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?&encrypt=
-河南卫视3,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视4,http://122.224.153.162:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视5,http://gmxw.7766.org:808/hls/51/index.m3u8
-河南卫视6,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
-河南卫视7,http://218.17.196.234:9901/tsfile/live/0139_1.m3u8
+河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
+河南卫视,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?&encrypt=
+河南卫视,http://122.224.153.162:9901/tsfile/live/0139_1.m3u8?key=txiptv
+河南卫视,http://gmxw.7766.org:808/hls/51/index.m3u8
+河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
+河南卫视,http://218.17.196.234:9901/tsfile/live/0139_1.m3u8
 
 民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
 都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 都市频道,http://113.117.74.28:8081/hls/68/index.m3u8
-公共频道1,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+
 公共频道2,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 公共频道3,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 公共频道4,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
@@ -45,31 +44,27 @@
 公共频道14,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 公共频道15,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 公共频道16,http://stream.smntv.cn/smtv2/sd/live.m3u8
-公共频道17,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+
 公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-公共频道19,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 公共频道20,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
-公共频道21,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
-公共频道22,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
+公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
+公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 
 新闻频道1,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 新闻频道2,http://222.179.155.21:1935/ch1.m3u8
 新闻频道3,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 新闻频道4,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 新闻频道5,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
-新闻频道6,http://222.179.155.21:1935/ch2.m3u8
-新闻频道7,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
+新闻频道5,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
 新闻频道8,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-新闻频道9,http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-新闻频道10,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
 新闻频道11,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+新闻频道11,http://live.wjyanghu.com/live/CH1.m3u8
 新闻频道12,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-新闻频道13,http://live.wjyanghu.com/live/CH1.m3u8
 新闻频道14,https://live.wjyanghu.com/live/CH2.m3u8
 新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-新闻频道16,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 新闻频道18,http://live.sfrmt.com:85/live/zhpd.m3u8
-新闻频道19,http://lived.dmqhyadmin.com/ds/sd/live.m3u8?zzhed
 新闻频道20,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 新闻频道21,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
