@@ -17,7 +17,7 @@ with open('video_data.txt', 'r', encoding='utf-8') as file:
 
 # Extracting name and video_streams values
 with open('live.txt', 'w', encoding='utf-8') as f:
-    f.write('河南地方,#genre#\n')
+    f.write('🇨🇳河南地方,#genre#\n')
     for entry in data:
         name = entry.get("name", "")
         video_streams = entry.get("video_streams", "")

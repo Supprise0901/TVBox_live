@@ -1,0 +1,14 @@
+凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
+凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
+凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
+凤凰资讯,http://gxdl-lhs.8866.org:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,http://103.45.68.47/gy/gy563/xsj.php?id=phtv-info
+凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+凤凰资讯,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156407&extension=ts

@@ -1,0 +1,17 @@
+天津卫视,http://hlsbkmgsplive.miguvideo.com/wd-tianjinhd-350/index.m3u8?&encrypt=
+天津卫视,http://hlsbkmgsplive.miguvideo.com/wd-tianjinhd-1200/index.m3u8?&encrypt=
+天津卫视,http://hlsbkmgsplive.miguvideo.com/wd-tianjinwssd-350/index.m3u8?&encrypt=
+天津卫视,http://hlsbkmgsplive.miguvideo.com/wd-tianjinwssd-600/index.m3u8?&encrypt=
+天津卫视,http://218.13.170.98:9901/tsfile/live/1008_1.m3u8
+天津卫视,http://hlsbkmgsplive.miguvideo.com/wd-tianjinhd-600/index.m3u8?&encrypt=
+天津卫视,http://58.220.219.14:9901/tsfile/live/0135_1.m3u8?key=txiptv
+天津卫视,http://gmxw.7766.org:808/hls/42/index.m3u8
+天津卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226191/1.m3u8
+天津卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
+天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
+天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009186/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
+天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000003475/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3
+天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000001000030788/1.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=3
+天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=3
+天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265026/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3
+天津卫视,http://61.169.37.218:9901/tsfile/live/0138_1.m3u8?key=txiptv

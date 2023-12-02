@@ -1,0 +1,13 @@
+河北卫视,http://218.13.170.98:9901/tsfile/live/1016_1.m3u8
+河北卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/hebei/1000/index.m3u8?&encrypt=
+河北卫视,http://58.220.219.14:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://gmxw.7766.org:808/hls/54/index.m3u8
+河北卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.17.196.234:9901/tsfile/live/0117_1.m3u8
+河北卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226442/1.m3u8
+河北卫视,http://122.224.153.162:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/hebei/350/index.m3u8?&encrypt=
+河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
+河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+河北卫视,http://61.169.37.218:9901/tsfile/live/0139_1.m3u8?key=txiptv

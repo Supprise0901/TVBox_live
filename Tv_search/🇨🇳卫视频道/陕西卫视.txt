@@ -1,0 +1,17 @@
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/350/index.m3u8?&encrypt=
+陕西卫视,http://218.13.170.98:9901/tsfile/live/0136_1.m3u8
+陕西卫视,http://gmxw.7766.org:808/hls/58/index.m3u8
+陕西卫视,http://222.71.90.218:8888/newlive/live/hls/45/live.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
+陕西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
+陕西卫视,http://222.175.159.226:808/hls/202365/index.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
+陕西卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226444/1.m3u8
+陕西卫视,http://218.17.196.234:9901/tsfile/live/0136_1.m3u8
+陕西卫视,http://122.224.153.162:9901/tsfile/live/0136_1.m3u8?key=txiptv
+陕西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
+陕西卫视,http://api2.52tb.xyz/info?id=47&token=20230326xflvzc
+陕西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040017/1.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=3
+陕西卫视,http://61.169.37.218:9901/tsfile/live/0116_1.m3u8?key=txiptv
+陕西卫视,http://58.220.219.14:9901/tsfile/live/0120_7.m3u8?key=txiptv

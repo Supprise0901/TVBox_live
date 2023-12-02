@@ -2,9 +2,6 @@ import os
 
 # 获取当前工作目录
 current_directory = os.getcwd()
-
-# 设置合并后的文件路径
-# output_file_path = os.path.join(current_directory, 'live.txt')
 # 构造上级目录的路径
 parent_dir = os.path.dirname(current_directory)
 output_file_path = os.path.join(parent_dir, 'live.txt')

@@ -105,8 +105,8 @@ if __name__ == '__main__':
         pass
     tv_dict = {}
     valid_m3u8_link = []
-    # 可以新增txt文本，增加需要的电视台，将文本文件增加入列表
-    TV_names = ['🇨🇳央视频道', '卫视频道', '🇭🇰港台']
+    # 遍历当前文件下的txt文件,提取文件名
+    TV_names = [os.path.splitext(f)[0] for f in os.listdir(current_directory) if f.endswith(".txt")]
     # TV_names = ['🇭🇰港台']
     for TV_name in TV_names:
         # 读取文件并逐行处理

@@ -1,0 +1,4 @@
+中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03

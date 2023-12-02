@@ -4,7 +4,7 @@
 
 https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/warehouse.txt
 
-此资源需软件支持多仓
+此资源借助PizazzGY的仓库，新增互联网有效直播源检索
 
 增加电视台搜索
 
