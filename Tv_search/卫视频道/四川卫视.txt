@@ -1,8 +1,9 @@
-四川卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/sichuanTV/350/index.m3u8?&encrypt=
+四川卫视,http://218.13.170.98:9901/tsfile/live/1011_1.m3u8
 四川卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/sichuanTV/1000/index.m3u8?&encrypt=
-四川卫视,http://61.169.37.218:9901/tsfile/live/0131_1.m3u8?key=txiptv
+四川卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/sichuanTV/350/index.m3u8?&encrypt=
 四川卫视,http://218.17.196.234:9901/tsfile/live/0123_1.m3u8
-四川卫视,http://gmxw.7766.org:808/hls/50/index.m3u8
-四川卫视,http://58.220.219.14:9901/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,http://122.224.153.162:9901/tsfile/live/0123_1.m3u8?key=txiptv
+四川卫视,http://58.220.219.14:9901/tsfile/live/0123_1.m3u8?key=txiptv
+四川卫视,http://61.169.37.218:9901/tsfile/live/0131_1.m3u8?key=txiptv
+四川卫视,http://gmxw.7766.org:808/hls/50/index.m3u8
 四川卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0

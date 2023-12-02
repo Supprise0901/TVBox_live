@@ -1,7 +1,9 @@
+东方卫视,http://218.13.170.98:9901/tsfile/live/1010_1.m3u8
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwssd/350/index.m3u8?&encrypt=
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwssd/600/index.m3u8?&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/350/index.m3u8?&encrypt=
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?&encrypt=
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwssd/600/index.m3u8?&encrypt=
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwssd/350/index.m3u8?&encrypt=
 东方卫视,http://61.169.37.218:9901/tsfile/live/0107_1.m3u8?key=txiptv
+东方卫视,http://cfss.cc/api/ysp/dfws.m3u8
