@@ -426,9 +426,6 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 贵州卫视,http://120.196.232.23:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=c53b2f9d1700734912
 青海卫视,http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226696/1.m3u8
-三沙卫视,http://stream3.hnntv.cn/ssws/sd/live.m3u8?_upt=22e12ef01700748854
-凤凰卫视中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
-凤凰卫视资讯台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
 
 
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
