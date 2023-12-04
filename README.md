@@ -12,6 +12,10 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehous
 
 此资源借助PizazzGY的仓库
 
+tvbox下载地址
+
+https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVbox/main/Release/app-release.apk
+
 
 
 
