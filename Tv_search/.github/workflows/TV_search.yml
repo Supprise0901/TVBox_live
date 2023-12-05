@@ -26,6 +26,5 @@ jobs:
 
     - name: Run Tv_search script
       run: |
-        cd Tv_search
         python search_Tv.py
 
