@@ -16,7 +16,9 @@ tvbox软件下载地址
 
 https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVbox/main/Release/app-release.apk
 
+## 访客数
 
+![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_Fetch/count.svg)
 
 
 
