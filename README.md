@@ -18,7 +18,7 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVbox/main/Rel
 
 ## 访客数
 
-![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_Fetch/count.svg)
+![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
 
 
 
