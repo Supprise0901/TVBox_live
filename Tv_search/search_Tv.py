@@ -90,6 +90,7 @@ def detectLinks(name, m3u8_list, TV_name):
     with open(os.path.join(f'{TV_name}', f'{name}.txt'), 'w', encoding='utf-8') as file:
         for valid_url in valid_m3u8_link:
             file.write(f'{name},{valid_url}\n')
+        print(f'-----{name}----有效源写入完成！！！------')
         valid_m3u8_link.clear()
         sys.stdout.flush()
 

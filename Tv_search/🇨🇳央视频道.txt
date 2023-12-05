@@ -14,8 +14,6 @@ CCTV12
 CCTV13
 CCTV14
 CCTV15
-CNC中文
-CNC英文
 CHC家庭影院
 CHC动作电影
 CHC高清电影
