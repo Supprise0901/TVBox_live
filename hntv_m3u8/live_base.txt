@@ -315,24 +315,19 @@ CHC高清电影,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/liv
 浙江卫视,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
 东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=18d4de897e5aaf1343062c67c3d52bce&volcTime=1700826112
 江苏卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
-江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=15f105811700799691
 山东卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-山东卫视,http://l1.weihai.tv:8081/hls/oK0gP1n8es.m3u8
 河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
 辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
-东方卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
 东方卫视,https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=6b2eb75269a7ca7bae22e3e9286a6bdf&volcTime=1700817985
 安徽卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
 重庆卫视,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,http://113.207.84.197/session/5982d20e-89f6-11ee-a43e-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/chongqingHD/__op/default/__f/1/a48k/index.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1700735460&sign=c6cca8acef6c8e23ec4ea7fe30677300
 北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 天津卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
-吉林卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
+吉林卫视,http://183.66.196.98:9901/tsfile/live/0116_1.m3u8
 江西卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
 江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170074052473992&token=57c91b18eac29a8b233e1d090b6decd7
 黑龙江卫视,http://120.196.232.24:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
@@ -435,10 +430,8 @@ CHC高清电影,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/liv
 
 厦门卫视,http://gmxw.7766.org:808/hls/17/index.m3u8
 
-吉林卫视,http://stream1.jlntv.cn/jlws/sd/live.m3u8
 吉林卫视,http://sxz.zccatv.cn:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-吉林卫视,http://183.66.196.98:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
 吉林卫视,http://49.235.110.121:9090/daili/小果.php?id=jlwsH265_4000&Cf.m3u8
 吉林卫视,http://61.169.37.218:9901/tsfile/live/0135_1.m3u8?key=txiptv
