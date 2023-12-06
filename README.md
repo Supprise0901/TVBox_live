@@ -14,7 +14,7 @@ Tvbox的一个可以处理多源的版本:  [下载地址apk](https://mirror.ghp
 
 * 软件来源于[mlabalabala](https://github.com/mlabalabala/box)的仓库，自定义GITHUB加速站，多仓多线路的处理逻辑
 
-## 访客数
+## 浏览数
 
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
 
