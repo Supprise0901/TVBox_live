@@ -1,8 +1,8 @@
-贵州卫视,http://183.66.196.98:9901/tsfile/live/0120_1.m3u8
+贵州卫视,http://sxz.zccatv.cn:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://hlsbkmgsplive.miguvideo.com/wd-guizhouwssd-350/index.m3u8?&encrypt=
 贵州卫视,http://hlsbkmgsplive.miguvideo.com/wd-guizhouwssd-600/index.m3u8?&encrypt=
-贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8
+贵州卫视,http://183.66.196.98:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://58.220.219.14:9901/tsfile/live/0120_1.m3u8?key=txiptv
-贵州卫视,http://gmxw.7766.org:808/hls/49/index.m3u8
-贵州卫视,http://sxz.zccatv.cn:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://49.235.110.121:9090/daili/小果.php?id=gzwsH265_4000&Cf.m3u8
+贵州卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
+贵州卫视,http://218.13.170.98:9901/tsfile/live/1014_1.m3u8

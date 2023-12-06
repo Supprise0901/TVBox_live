@@ -1,13 +1,14 @@
 广东卫视,http://sxz.zccatv.cn:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://183.66.196.98:9901/tsfile/live/0125_1.m3u8
-广东卫视,http://49.235.110.121:9090/daili/小果.php?id=gdwsH265_4000&Cf.m3u8
-广东卫视,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
 广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
 广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?&encrypt=
 广东卫视,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
+广东卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/guangdong/350/index.m3u8?&encrypt=
 广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws450/350/index.m3u8?&encrypt=
 广东卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/guangdong/1000/index.m3u8?&encrypt=
 广东卫视,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/350/index.m3u8?&encrypt=
-广东卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/guangdong/350/index.m3u8?&encrypt=
 广东卫视,http://cfss.cc/api/ysp/gdws.m3u8
 广东卫视,http://61.169.37.218:9901/tsfile/live/1006_1.m3u8?key=txiptv
+广东卫视,http://49.235.110.121:9090/daili/小果.php?id=gdwsH265_4000&Cf.m3u8
+广东卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
+广东卫视,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
