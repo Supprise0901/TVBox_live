@@ -835,10 +835,131 @@ CHC高清电影,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/liv
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 
+🏕海外频道,#genre#
+BBC,http://198.16.100.90:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
+BBC,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+BBC,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
+BBC,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+BBC,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+BBC,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5101074616/50/index.m3u8?&encrypt=
+BBC,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5101074616/75/index.m3u8?&encrypt=
+BBC,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+BBC,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+BBC,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+BBC,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30580
+BBC,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176796
+
+俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+俄罗斯,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+俄罗斯,http://185.186.142.16/streams.rs.m3u8
+
+新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?$3M1280x720
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+新加坡,http://198.16.100.90:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
+新加坡,http://50.7.137.106:8080/AXN/index.m3u8?token=test
+新加坡,http://210.210.155.37/session/b86f93a4-b2c6-11ed-8b6a-b82a72d63267/uq2663/h/h29/index10.m3u8
+
+日本,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+日本,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本,https://stream3.shopch.jp/HLS/master.m3u8
+日本,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+日本,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+日本,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+日本,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156401
+日本,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+泰国,http://news1.live14.com/stream/news1_hi.m3u8
+泰国,http://news1.live14.com/stream/news1_hi.m3u8
+泰国,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+泰国,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰国,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+泰国,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰国,http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+泰国,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
+
+美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
+美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
+美国,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+美国,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+美国,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+美国,http://live.cgtn.com/1000/prog_index.m3u8
+美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
+美国,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+美国,https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+美国,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+美国,http://62.210.209.138:41000/movie/v52/v43/6863.mp4
+美国,http://210.210.155.37/uq2663/h/h152/index2.m3u8
+美国,http://pull.dayuntongzhou.com/live/tztv.m3u8
+美国,http://62.210.209.138:41000/movie/v52/v43/6863.mp4
+美国,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156401&extension=ts
+
+越南,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+越南,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+越南,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+越南,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+越南,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+越南,https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+越南,http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+越南,http://210.210.155.35/dr9445/h/h16/02.m3u8
+越南,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+越南,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+韩国,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+韩国,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+韩国,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+韩国,https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
+韩国,https://vd3.bdstatic.com/mda-mknba5i60je0d2dn/sc/cae_h264/1637654844357830568/mda-mknba5i60je0d2dn.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
 
 
-
-海外频道,#genre#
 
 📼 百视电影,#genre#
 百视电影HD1,https://bp-caster.bestv.com.cn/88/3/video.m3u8
