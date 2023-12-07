@@ -1,10 +1,12 @@
-# TVBox自用资源
+# TVBox自用直播源
 
 互联网直播源检索，判断验证提取有效直播源：
 
 在线直播源订阅地址： [live](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt)
 
 * 地址说明，一台多源，资源的快慢与宽带运营线路有关，建议将线路选择调整为5秒，日常卡顿会及时切换到高速源，进行直播观看
+
+# 合格的搬运工
 
 在线多仓影视源订阅地址：  [origin](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/warehouse.txt)
 

@@ -1,8 +1,0 @@
-重庆卫视,http://sxz.zccatv.cn:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://49.235.110.121:9090/daili/小果.php?id=cqwsH265_4000&Cf.m3u8
-重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
-重庆卫视,http://61.169.37.218:9901/tsfile/live/0114_1.m3u8?key=txiptv
-重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/350/index.m3u8?&encrypt=
-重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel56/index.m3u8
-重庆卫视,http://218.13.170.98:9901/tsfile/live/1012_1.m3u8
