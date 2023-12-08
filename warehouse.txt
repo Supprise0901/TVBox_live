@@ -1,7 +1,8 @@
 {"urls":
 	[
 	{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/Fetch/main/tvbox.json","name":"Panda"},
-	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supprise0901/Fetch/main/tvbox/影视.json","name":"panda_影视"},
+	{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/Fetch/main/tvbox/影视.json","name":"panda_影视"},
+	{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/zyzyzy523/api/main/lives.json","name":"Panda_ʕ͡تʔ"},
 	{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"},
 	{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"},
 	{"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/api.json","name":"体育"},
