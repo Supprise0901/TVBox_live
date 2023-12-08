@@ -1,0 +1,12 @@
+CCTV10,http://sxz.zccatv.cn:9901/tsfile/live/0010_1.m3u8
+CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
+CCTV10,http://61.169.37.218:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?&encrypt=
+CCTV10,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv10/350/index.m3u8?&encrypt=
+CCTV10,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv10/1000/index.m3u8?&encrypt=
+CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/350/index.m3u8?&encrypt=
+CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV10,http://cfss.cc/api/ysp/cctv10.m3u8
+CCTV10,http://218.13.170.98:9901/tsfile/live/0010_1.m3u8

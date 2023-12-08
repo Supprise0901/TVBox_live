@@ -1,0 +1,12 @@
+CCTV8,http://sxz.zccatv.cn:9901/tsfile/live/0008_1.m3u8
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
+CCTV8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/350/index.m3u8?&encrypt=
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?&encrypt=
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv8/600/index.m3u8?&encrypt=
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv8/350/index.m3u8?&encrypt=
+CCTV8,http://61.169.37.218:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV8,http://218.13.170.98:9901/tsfile/live/0008_1.m3u8
+CCTV8,http://183.66.196.98:9901/tsfile/live/0008_1.m3u8
