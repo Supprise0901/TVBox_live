@@ -138,9 +138,6 @@
 北京卫视,http://183.66.196.98:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://cfss.cc/api/ysp/bjws.m3u8
 
-
-吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-吉林卫视,http://stream1.jlntv.cn/jlws/sd/live.m3u8
 吉林卫视,http://sxz.zccatv.cn:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
 吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/350/index.m3u8?&encrypt=
