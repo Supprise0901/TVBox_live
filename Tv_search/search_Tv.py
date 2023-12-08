@@ -83,7 +83,7 @@ def detectLinks(name, m3u8_list, TV_name):
         except Exception as e:
             print(f"Thread {t} raised an exception: {e}")
     # 检测的valid_m3u8_link列表，保存到m3u8_url.txt文本中
-    time.sleep(10)
+    time.sleep(5)
     # 判断TV_names列表中的文件夹是否存在
     if not os.path.exists(f'{TV_name}'):
         os.makedirs(f'{TV_name}')
