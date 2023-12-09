@@ -9,7 +9,7 @@
 ### 本地版直播源检测工具
 
 * 适配本地网络运营的有效直播源检索提取工具
-* [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVbox/main/local_find/find_source.rar)
+* [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/local_find/find_source.rar)
 
 ### 合格的搬运工
 
