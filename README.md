@@ -17,7 +17,7 @@
 
 * 此资源借助[PizazzGY](https://github.com/PizazzGY/TVBox_warehouse)的仓库
 
-Tvbox的一个可以处理多源的版本:  [下载地址apk](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVbox/main/Release/app-release.apk)
+Tvbox的一个可以处理多源的版本:  [下载地址apk](https://mirror.ghproxy.com/raw.githubusercontent.com/mlabalabala/box/main/Release/app-release.apk)
 
 * 软件来源于[mlabalabala](https://github.com/mlabalabala/box)的仓库，自定义GITHUB加速站，多仓多线路的处理逻辑
 
