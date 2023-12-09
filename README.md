@@ -30,6 +30,7 @@ Tvbox的一个可以处理多源的版本:  [下载地址apk](https://mirror.ghp
 ### 浏览量
 
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
+![Visitor's Count](views.svg)
 
 
 

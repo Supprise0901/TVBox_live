@@ -1,0 +1,22 @@
+name: Update Views
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update Views Count
+        run: echo $(curl -s https://api.github.com/repos/Supprise0901/TVBox_warehouse | jq -r '.watchers_count') > views.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add views.txt
+          git commit -m "Update views count [skip ci]"
+          git push
