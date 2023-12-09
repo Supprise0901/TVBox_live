@@ -1,6 +1,6 @@
-# TVBox自用直播源
+# TVBox直播源
 
-互联网直播源检索，判断验证提取有效直播源：
+一切源于网络，互联网直播源检索，判断验证提取有效直播源：
 
 在线直播源订阅地址： [live](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt)
 
