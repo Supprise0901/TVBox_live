@@ -14,7 +14,7 @@ jobs:
         run: echo $(curl -s https://api.github.com/repos/Supprise0901/TVBox_warehouse | jq -r '.watchers_count') > views.txt
 
       - name: Update README
-        run: sed -i 's~!\[Visitor's Count\](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)~![Visitor's Count](views.svg)~' README.md
+        run: sed -i "s~!\[Visitor's Count\](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)~![Visitor's Count](views.svg)~" README.md
 
       - name: Commit and push changes
         run: |
