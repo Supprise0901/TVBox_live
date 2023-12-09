@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update Views Count
-        run: echo $(curl -s https://api.github.com/repos/Supprise0901/TVBox_warehouse | jq -r '.watchers_count') > views.txt
+        run: echo $(curl -s https://api.github.com/repos/your-username/your-repo-name | jq -r '.watchers_count') > views.txt
 
       - name: Update README
         run: sed -i "s~!\[Visitor's Count\](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)~![Visitor's Count](views.svg)~" README.md
@@ -22,4 +22,4 @@ jobs:
           git config --global user.email 'actions@github.com'
           git add views.txt README.md
           git commit -m "Update views count [skip ci]"
-          git push
+          git push origin HEAD
