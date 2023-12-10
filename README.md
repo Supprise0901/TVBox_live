@@ -13,6 +13,8 @@
 
 ### 合格的搬运工
 
+在线单仓影视源订阅地址：  [single](https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json)
+
 在线多仓影视源订阅地址：  [origin](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/warehouse.txt)
 
 * 此资源借助[PizazzGY](https://github.com/PizazzGY/TVBox_warehouse)的仓库
