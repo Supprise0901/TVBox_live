@@ -1,0 +1,14 @@
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
+甘肃卫视,http://183.66.196.98:9901/tsfile/live/0141_1.m3u8
+甘肃卫视,http://49.235.110.121:9090/daili/小果.php?id=gsws_4000&Cf.m3u8
+甘肃卫视,http://61.169.37.218:9901/tsfile/live/0119_1.m3u8?key=txiptv
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/350/index.m3u8?&encrypt=
+甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040021/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=3
+甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226240/1.m3u8
+甘肃卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
+甘肃卫视,http://sxz.zccatv.cn:9901/tsfile/live/0141_1.m3u8
+甘肃卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001298/1.m3u8
+甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3
+甘肃卫视,http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv
+甘肃卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel57/index.m3u8

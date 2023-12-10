@@ -1,0 +1,16 @@
+山西卫视,http://183.66.196.98:9901/tsfile/live/0118_1.m3u8
+山西卫视,http://sxz.zccatv.cn:9901/tsfile/live/0118_1.m3u8
+山西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shanxi/1000/index.m3u8?&encrypt=
+山西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shanxi/350/index.m3u8?&encrypt=
+山西卫视,http://61.169.37.218:9901/tsfile/live/0123_1.m3u8?key=txiptv
+山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
+山西卫视,http://218.17.196.234:9901/tsfile/live/0118_1.m3u8
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+山西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
+山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
+山西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
+山西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040023/1.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
+山西卫视,http://58.220.219.14:9901/tsfile/live/0118_1.m3u8?key=txiptv
+山西卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel54/index.m3u8
+山西卫视,http://49.235.110.121:9090/daili/小果.php?id=sxws42_4000&Cf.m3u8
