@@ -1,7 +1,4 @@
-CHC高清电影,http://49.235.110.121:9090/daili/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
 CHC高清电影,http://sxz.zccatv.cn:9901/tsfile/live/1079_1.m3u8
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC高清电影,http://49.235.110.121:9090/daili/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
 CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC高清电影,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8

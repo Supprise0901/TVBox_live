@@ -1,4 +1,2 @@
-CHC家庭影院,http://sxz.zccatv.cn:9901/tsfile/live/1077_1.m3u8
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 CHC家庭影院,http://49.235.110.121:9090/daili/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
+CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
