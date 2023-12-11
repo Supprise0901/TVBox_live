@@ -1,34 +1,26 @@
 
-河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
 河南卫视,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?&encrypt=
-河南卫视,http://122.224.153.162:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视,http://gmxw.7766.org:808/hls/51/index.m3u8
-河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
-河南卫视,http://218.17.196.234:9901/tsfile/live/0139_1.m3u8
+河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
+河南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226614/1.m3u8
+河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000017925/1.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
+河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
+河南卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
 
-民生频道,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
-都市频道,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
 都市频道,http://113.117.74.28:8081/hls/68/index.m3u8
 
 公共频道2,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
-公共频道3,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 公共频道4,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 公共频道5,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 公共频道6,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 公共频道7,http://live2.scmstv.cn/ggpd/sd/live.m3u8
-公共频道8,http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 公共频道9,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
 公共频道10,http://stream.zztvzd.com/3/sd/live.m3u8
-公共频道11,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-公共频道12,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
-公共频道13,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
 公共频道14,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-公共频道15,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 公共频道16,http://stream.smntv.cn/smtv2/sd/live.m3u8
-
 公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
-公共频道20,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
 公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
 公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 
@@ -41,13 +33,11 @@
 新闻频道8,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 新闻频道11,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
 新闻频道11,http://live.wjyanghu.com/live/CH1.m3u8
-新闻频道12,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 新闻频道14,https://live.wjyanghu.com/live/CH2.m3u8
 新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-新闻频道18,http://live.sfrmt.com:85/live/zhpd.m3u8
 新闻频道20,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
-新闻频道21,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
 
 🇨🇳卫视频道,#genre#
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
@@ -511,12 +501,8 @@ CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,http://cfss.cc/api/ysp/cctv5.m3u8
 CCTV5,http://cfss.cc/api/ysp/cctv5p.m3u8
 
-CCTV6,http://121.27.126.41:808/hls/106/index.m3u8
 CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
 CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?&encrypt=
-CCTV6,http://121.27.126.41:808/hls/6/index.m3u8
-CCTV6,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/cctv6/350/index.m3u8?&encrypt=
-CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/350/index.m3u8?&encrypt=
 CCTV6,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=
 CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?&encrypt=
 CCTV6,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
