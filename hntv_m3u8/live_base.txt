@@ -7,6 +7,19 @@
 河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
 河南卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
 
+河南都市,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
+河南都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
+河南民生,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
+河南民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
+河南电视剧,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41104/index.m3u8
+河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+河南郑州新闻综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
+河南移动,http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+梨园频道,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
+
 都市频道,http://113.117.74.28:8081/hls/68/index.m3u8
 
 公共频道2,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
@@ -1254,14 +1267,9 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 河南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
 河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 河南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001222/1.m3u8
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001222/1.m3u8
 河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
 安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1547,18 +1555,6 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 云南卫视,http://111.20.35.103:6610/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=00
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 云南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8
-河南都市,http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
-河南都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
-河南民生,http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
-河南民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
-河南电视剧,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41104/index.m3u8
-河南公共,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
-河南郑州新闻综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
-河南移动,http://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8
-武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
-梨园频道,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
