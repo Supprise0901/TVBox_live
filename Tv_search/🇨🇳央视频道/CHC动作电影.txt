@@ -1,6 +1,4 @@
-CHC动作电影,http://tv6.blcu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/59799779bf-0-0-46589e4cd4a185d126f36ac81a80255f/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://pi.0472.org/tv/cbn.php?id=chcdzdyHD

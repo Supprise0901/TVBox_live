@@ -1,6 +1,5 @@
 明珠台,http://103.45.68.47/gy/gy563/xsj.php?id=pearl
-明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2309081833
 明珠台,https://pi.0472.org/tv/mzt.php?auth=230918
 明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,https://pi.0472.org/tv/mzt.php?auth=2309081833
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts

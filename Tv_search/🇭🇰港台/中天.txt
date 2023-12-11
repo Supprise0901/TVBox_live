@@ -1,9 +1,5 @@
-中天,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-中天,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-中天,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-中天,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-中天,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-中天,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+中天,http://211.72.65.236:8541/.m3u8
+中天,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 中天,http://81.69.20.196/mqlive.m3u8?ip=60.250.216.209:1888&id=live1675
 中天,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
+中天,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8

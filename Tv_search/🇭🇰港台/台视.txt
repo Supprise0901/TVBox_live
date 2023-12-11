@@ -1,11 +1,11 @@
-台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台视,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156392&extension=ts
 台视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156398&extension=ts
