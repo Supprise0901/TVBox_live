@@ -3342,7 +3342,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 
 🎞️电影联通线路,#genre#
-虎牙-周星星,http://43.138.170.29:35455/huya/24470631
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -3360,8 +3359,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 女神金电影,http://epg.112114.xyz/douyu/747764
 贝爷影厅1,http://epg.112114.xyz/douyu/252802
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
-霍格影片,http://epg.112114.xyz/douyu/8814650
-可乐电影,http://43.138.170.29:35455/huya/24396428
 可乐电影,http://epg.112114.xyz/douyu/20415
 冰冰经典电影,http://epg.112114.xyz/douyu/74374
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
@@ -3370,7 +3367,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 林林影院,http://epg.112114.xyz/douyu/9652323
 漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
-变种人电影,http://43.138.170.29:35455/huya/11602075
 变种人电影,http://epg.112114.xyz/douyu/9651304
 华语电影,http://epg.112114.xyz/douyu/3928
 怀旧90,http://epg.112114.xyz/douyu/9275635
@@ -3383,9 +3379,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 连续剧3,http://epg.112114.xyz/douyu/5689514
 连续剧4,http://epg.112114.xyz/douyu/7476264
 连续剧5,http://epg.112114.xyz/douyu/4396972
-游戏解说,http://epg.112114.xyz/douyu/805235
 斗鱼小品,http://epg.112114.xyz/douyu/3980787
-斗鱼动画,http://epg.112114.xyz/douyu/7528160
+斗鱼直播,http://epg.112114.xyz/douyu/11915926
 斗鱼电影1,http://epg.112114.xyz/douyu/2935323
 斗鱼电影1,http://epg.112114.xyz/douyu/3485629
 斗鱼电影2,http://epg.112114.xyz/douyu/7459925
@@ -3393,10 +3388,9 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 斗鱼电影4,http://epg.112114.xyz/douyu/4246519
 斗鱼电影5,http://epg.112114.xyz/douyu/7116591
 斗鱼电影6,http://epg.112114.xyz/douyu/6776615
-斗鱼电影8,http://epg.112114.xyz/douyu/4290711
-斗鱼电影9,http://epg.112114.xyz/douyu/7655471
 斗鱼电影9,http://epg.112114.xyz/douyu/6566671
-斗鱼电影10,http://epg.112114.xyz/douyu/8475821
+斗鱼电影9,http://epg.112114.xyz/douyu/7655471
+斗鱼电影11,http://epg.112114.xyz/douyu/8475821
 斗鱼电影11,http://epg.112114.xyz/douyu/338759
 斗鱼电影12,http://epg.112114.xyz/douyu/2793084
 斗鱼电影13,http://epg.112114.xyz/douyu/5067952
@@ -3407,9 +3401,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 斗鱼电影18,http://epg.112114.xyz/douyu/7314294
 斗鱼电影19,http://epg.112114.xyz/douyu/6582435
 斗鱼电影20,http://epg.112114.xyz/douyu/323876
-斗鱼电影20,http://43.138.170.29:35455/huya/11352894
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
-斗鱼电影HD1,http://43.138.170.29:35455/huya/11279251
 斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
 斗鱼电影HD2,http://epg.112114.xyz/douyu/10240553
 斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
@@ -3431,30 +3423,27 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 斗鱼电影HD20,http://epg.112114.xyz/douyu/10395991
 斗鱼电影HD21,http://epg.112114.xyz/douyu/10395986
 斗鱼电影HD22,http://epg.112114.xyz/douyu/252802
-斗鱼电影HD23,http://epg.112114.xyz/douyu/ 6079455
 斗鱼电影HD24,http://epg.112114.xyz/douyu/315131
 斗鱼电影HD25,http://epg.112114.xyz/douyu/8945323
 斗鱼电影HD26,http://epg.112114.xyz/douyu/2516864
 斗鱼电影HD27,http://epg.112114.xyz/douyu/248753
+斗鱼电影HD28,http://epg.112114.xyz/douyu/ 6079455
 斗鱼电影HD28,http://epg.112114.xyz/douyu/4332
 斗鱼电影HD29,http://epg.112114.xyz/douyu/9651304
 斗鱼电影HD30,http://epg.112114.xyz/douyu/9650887
-斗鱼电影HD31,http://epg.112114.xyz/douyu/8814650
 斗鱼电影HD32,http://epg.112114.xyz/douyu/10240510
 斗鱼电影HD33,http://epg.112114.xyz/douyu/52787
 斗鱼电影HD34,http://epg.112114.xyz/douyu/8985415
-斗鱼电影HD35,http://epg.112114.xyz/douyu/1165374
 斗鱼电影HD36,http://epg.112114.xyz/douyu/1735337
 斗鱼电影HD37,http://epg.112114.xyz/douyu/6537888
 斗鱼电影HD38,http://epg.112114.xyz/douyu/6003761
 斗鱼电影HD39,http://epg.112114.xyz/douyu/9683979
 斗鱼电影HD40,http://epg.112114.xyz/douyu/1226741
-斗鱼电影HD41,http://epg.112114.xyz/douyu/59612
-斗鱼电影HD42,http://epg.112114.xyz/douyu/925724
 斗鱼搞笑HD1,http://epg.112114.xyz/douyu/9220456
+斗鱼搞笑HD3,http://43.138.170.29:35455/huya/11602075
 斗鱼搞笑HD3,http://epg.112114.xyz/douyu/9067836
+斗鱼搞笑HD4,http://epg.112114.xyz/douyu/59612
 斗鱼搞笑HD4,http://epg.112114.xyz/douyu/9817729
-斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 中国环球电视,http://bp-caster.bestv.com.cn/513/1/video.m3u8
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
@@ -3465,8 +3454,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 大太平洋,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
 地球脉动第一季,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
-生命脉动,http://43.138.170.29:35455/huya/11601981
 生命脉动,http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
+生命脉动,http://epg.112114.xyz/douyu/8737695
 美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 美丽中国自然,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
@@ -3476,7 +3465,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 梵净山,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 远方的家,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8
-
 
 
 🌍海外频道,#genre#
