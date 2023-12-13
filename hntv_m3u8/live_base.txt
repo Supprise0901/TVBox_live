@@ -3379,6 +3379,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 连续剧3,http://epg.112114.xyz/douyu/5689514
 连续剧4,http://epg.112114.xyz/douyu/7476264
 连续剧5,http://epg.112114.xyz/douyu/4396972
+小品,http://epg.112114.xyz/douyu/9817729
 斗鱼小品,http://epg.112114.xyz/douyu/3980787
 斗鱼直播,http://epg.112114.xyz/douyu/11915926
 斗鱼电影1,http://epg.112114.xyz/douyu/2935323
@@ -3387,7 +3388,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 斗鱼电影3,http://epg.112114.xyz/douyu/431460
 斗鱼电影4,http://epg.112114.xyz/douyu/4246519
 斗鱼电影5,http://epg.112114.xyz/douyu/7116591
-斗鱼电影6,http://epg.112114.xyz/douyu/6776615
+斗鱼小品6,http://epg.112114.xyz/douyu/9817716
 斗鱼电影9,http://epg.112114.xyz/douyu/6566671
 斗鱼电影9,http://epg.112114.xyz/douyu/7655471
 斗鱼电影11,http://epg.112114.xyz/douyu/8475821
