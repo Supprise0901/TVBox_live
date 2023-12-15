@@ -11,7 +11,6 @@
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 梨园频道,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
 
-都市频道,http://113.117.74.28:8081/hls/68/index.m3u8
 
 公共频道2,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 公共频道4,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
