@@ -1,21 +1,21 @@
 🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5892966c7f508032e4dd6f88a34e23d3&wsTime=1702633523
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=ea4f00d9abb69c67430b92443a8f3900&wsTime=1702633523
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=0b713be97a5f4c01e121e0e080b0ae98&wsTime=1702633523
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=178f2177353c4f784e3e3bf31844cddb&wsTime=1702633523
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=a010f5b2164a62f96ae7a0c94f356152&wsTime=1702633523
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=aeb30c6df392f0ac9b653a831c77700c&wsTime=1702633523
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ff07b527da8cb6bbae5a5010780a9b1c&wsTime=1702633523
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=c595d7c34d3e41f2c2667336324d8f15&wsTime=1702633523
-河南国际,http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=088c79e460a80848c9061e00d25bdb86&wsTime=1702633523
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=c8eb41cfc55d90d67355628d0e350f03&wsTime=1702633523
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=f3df04a846defe24269648176c6e7684&wsTime=1702633523
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=b743d8e70329e9790778ab230f3825be&wsTime=1702633523
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=57a1797e630b36ae2f53accb8bc3acdb&wsTime=1702633523
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=3ba7c00f319f510abcf8e4af25eafd82&wsTime=1702633523
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=d892eefe82a56e8803d19c2ad0f6629f&wsTime=1702633523
-国学频道,http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=b386e1d988b8e29fb6bfe8d466a45d51&wsTime=1702633523
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=17bf13a5499914e25897f5b2b27dbc9f&wsTime=1702633523
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3a3f122b9d20a1bdbbed2042e684620d&wsTime=1702821315
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=e8750a724ec1158a335391cfbb04a6f1&wsTime=1702821315
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=072e903ee22774beb7390b8f7356532b&wsTime=1702821315
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=cc3aa8f64891755454622857f2a9b1bb&wsTime=1702821315
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=4c8ba7daad5bb9d51b16bb87561b3588&wsTime=1702821315
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=9de33f76add2aa07a6192bc3d9a764e0&wsTime=1702821315
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=601eff7cba01cbf3ffb4df4dde3b2d9c&wsTime=1702821315
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=dbda1c797e35c52add2657c85f098471&wsTime=1702821315
+河南国际,http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=798da204b54ae46f89c8df918a702faa&wsTime=1702821315
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=254a28921e75c9bfd0645ecc36cea417&wsTime=1702821315
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=e9f6cd71a8c17ae25194510ad27af0e4&wsTime=1702821315
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=9a70b12325d4c7b36b68f255de34c40b&wsTime=1702821315
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=eb0e96d97b0e788ebfe0775e00d45ff1&wsTime=1702821315
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=029679984882490442fab971737be611&wsTime=1702821315
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=6f9d9a17d47d5ccd4f2a9c7d87601097&wsTime=1702821315
+国学频道,http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=660a1065c8ad31be6d1e62e7f1359fff&wsTime=1702821315
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=2a683d11c8a191266edc30ee1207afa5&wsTime=1702821315
 
 
 河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
@@ -28,36 +28,6 @@
 
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
-梨园频道,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
-
-
-公共频道2,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
-公共频道4,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-公共频道5,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
-公共频道6,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-公共频道7,http://live2.scmstv.cn/ggpd/sd/live.m3u8
-公共频道9,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
-公共频道10,http://stream.zztvzd.com/3/sd/live.m3u8
-公共频道14,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
-公共频道16,http://stream.smntv.cn/smtv2/sd/live.m3u8
-公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
-公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
-公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
-
-新闻频道1,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-新闻频道2,http://222.179.155.21:1935/ch1.m3u8
-新闻频道3,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
-新闻频道4,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
-新闻频道5,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
-新闻频道5,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
-新闻频道8,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-新闻频道11,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
-新闻频道11,http://live.wjyanghu.com/live/CH1.m3u8
-新闻频道14,https://live.wjyanghu.com/live/CH2.m3u8
-新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-新闻频道20,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 
 🇨🇳卫视频道,#genre#
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
@@ -318,9 +288,6 @@
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 
 深圳卫视,http://111.225.92.130:8800/hls/44/index.m3u8
-深圳卫视,http://222.134.57.82:8154/tsfile/live/0126_1.m3u8
-深圳卫视,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
-深圳卫视,http://61.169.37.218:9901/tsfile/live/0124_1.m3u8?key=txiptv
 深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://222.240.82.92:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
@@ -388,12 +355,12 @@
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 贵州卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
 
-辽宁卫视,http://111.225.92.130:8800/hls/36/index.m3u8
-辽宁卫视,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
-辽宁卫视,http://61.169.37.218:9901/tsfile/live/0132_1.m3u8?key=txiptv
+
 辽宁卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226209/1.m3u8
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
 辽宁卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
+辽宁卫视,http://111.225.92.130:8800/hls/36/index.m3u8
+辽宁卫视,http://61.169.37.218:9901/tsfile/live/0132_1.m3u8?key=txiptv
 辽宁卫视,http://222.134.57.82:8154/tsfile/live/0121_1.m3u8
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001945/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=3
@@ -403,8 +370,7 @@
 辽宁卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
 辽宁卫视,http://218.13.170.98:9901/tsfile/live/0121_1.m3u8
 
-重庆卫视,http://222.134.57.82:8154/tsfile/live/0142_1.m3u8
-重庆卫视,http://111.225.92.130:8800/hls/47/index.m3u8
+
 重庆卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226551/1.m3u8
 重庆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025797/1.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3
@@ -412,6 +378,8 @@
 重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
 重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
 重庆卫视,http://61.169.37.218:9901/tsfile/live/0114_1.m3u8?key=txiptv
+重庆卫视,http://222.134.57.82:8154/tsfile/live/0142_1.m3u8
+重庆卫视,http://111.225.92.130:8800/hls/47/index.m3u8
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel56/index.m3u8
 
