@@ -1,5 +1,1 @@
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-CHC家庭影院,http://vod.cctv.cn/cms/2018-09-11/CCTV15_2m_20180911133010794-16889_video_1-001.mp4
-CHC家庭影院,http://pi.0472.org/tv/cbn.php?id=chcjtyyHD

@@ -1,9 +1,2 @@
-CCTV4,http://222.134.57.82:8154/tsfile/live/0004_1.m3u8
+CCTV4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
-CCTV4,http://159.75.85.63:5679/cctv4k.php
-CCTV4,http://159.75.85.63:5679/cctv4k.php
-CCTV4,http://159.75.85.63:5679/cctv4k.php
-CCTV4,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV4,https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-CCTV4,http://cfss.cc/api/ysp/cctv4.m3u8
-CCTV4,http://cfss.cc/api/ysp/cctv4k.m3u8

@@ -1,15 +1,4 @@
 吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-吉林卫视,http://111.225.92.130:8800/hls/51/index.m3u8
-吉林卫视,http://222.134.57.82:8154/tsfile/live/0116_1.m3u8
-吉林卫视,http://stream1.jlntv.cn/jlws/playlist.m3u8
-吉林卫视,http://gmxw.7766.org:808/hls/10/index.m3u8
-吉林卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226440/1.m3u8
-吉林卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
+吉林卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040013/1.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3
-吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
-吉林卫视,http://stream1.jlntv.cn/jlws/sd/live.m3u8
-吉林卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
-吉林卫视,http://61.169.37.218:9901/tsfile/live/0135_1.m3u8?key=txiptv
-吉林卫视,http://58.220.219.14:9901/tsfile/live/0116_1.m3u8?key=txiptv
-吉林卫视,http://218.13.170.98:9901/tsfile/live/0116_1.m3u8
+吉林卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226440/1.m3u8

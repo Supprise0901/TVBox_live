@@ -1,17 +1,1 @@
-民视,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民视,http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-民视,http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8
-民视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156392

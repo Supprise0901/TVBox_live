@@ -39,20 +39,64 @@ def get_url(name):
             extracted_url = url_match.group(1)
             print(extracted_url)
             m3u8_list.append(extracted_url)
-        # else:
-        #     print("URL extraction failed.")
     return m3u8_list
+
+
+def download_m3u8(url):
+    try:
+        # 下载M3U8文件
+        response = requests.get(url, timeout=5)
+        response.raise_for_status()  # 检查请求是否成功
+    except requests.exceptions.Timeout as e:
+        print(f"{url}\nError: 请求超时. Exception: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"{url}\nError: 请求异常. Exception: {e}")
+    else:
+        m3u8_content = response.text
+        # 解析M3U8文件，获取视频片段链接
+        lines = m3u8_content.split('\n')
+        segments = [line.strip() for line in lines if line and not line.startswith('#')]
+
+        # 下载指定数量的视频片段并计算下载速度
+        total_size = 0
+        total_time = 0
+        for i, segment in enumerate(segments[:3]):
+            start_time = time.time()
+            segment_url = url.rsplit('/', 1)[0] + '/' + segment
+            response = requests.get(segment_url)
+            end_time = time.time()
+
+            # 将视频片段保存到本地
+            with open('speed.ts', 'ab') as f:
+                f.write(response.content)
+
+            # 计算下载速度
+            segment_size = len(response.content)
+            segment_time = end_time - start_time
+            segment_speed = segment_size / segment_time / (1024 * 1024)  # 转换为MB/s
+
+            total_size += segment_size
+            total_time += segment_time
+
+            # print(f"Downloaded segment {i + 1}/3: {segment_speed:.2f} MB/s")
+
+        # 计算平均下载速度
+        average_speed = total_size / total_time / (1024 * 1024)  # 转换为MB/s
+        print(f"Average Download Speed: {average_speed:.2f} MB/s")
+        if average_speed >= 1:
+            return url
 
 
 def validate_m3u8_url(url, name):
     try:
         # 发送HTTP请求获取M3U8文件内容
-        with requests.get(url, timeout=10) as response:
+        with requests.get(url, timeout=5) as response:
             response.raise_for_status()
             if response.status_code == 200:
-                valid_m3u8_link.append(url)
-                print(f"{url}\n{name}M3U8链接有效")
-                return url
+                if download_m3u8(url):
+                    valid_m3u8_link.append(url)
+                    print(f"{url}\n{name}M3U8链接有效")
+                    return url
 
     # except requests as e:
     except requests.exceptions.RequestException as e:
@@ -146,3 +190,4 @@ if __name__ == '__main__':
         # 合并m3u8链接
         mer_links(TV_name)
         tv_dict.clear()
+    os.remove('speed.ts')
