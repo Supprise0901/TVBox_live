@@ -83,7 +83,9 @@ def download_m3u8(url):
         # 计算平均下载速度
         average_speed = total_size / total_time / (1024 * 1024)  # 转换为MB/s
         print(f"Average Download Speed: {average_speed:.2f} MB/s")
-        if average_speed >= 1:
+        with open('speed.ts', 'wb') as file:
+            pass
+        if average_speed >= 0.5:
             return url
 
 
