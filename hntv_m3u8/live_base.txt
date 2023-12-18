@@ -1,15 +1,3 @@
-
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
-河南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226614/1.m3u8
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000017925/1.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
-河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
-河南卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
-
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
-
 🇨🇳卫视频道,#genre#
 
 东南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1803,3 +1791,6 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
+
+
+
