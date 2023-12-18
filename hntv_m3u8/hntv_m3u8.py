@@ -32,7 +32,8 @@ with open('live_base.txt', 'r', encoding='utf-8') as f:
 
 # 将新内容写入原始文本文件
 with open(file_path, 'w', encoding='utf-8') as file:
-    content_text = hntx_text + '\n' + base_text
+    # content_text = hntx_text + '\n' + base_text
+    content_text = base_text + '\n' + hntx_text
     file.write(content_text)
 
 
