@@ -177,12 +177,9 @@
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
 🇨🇳央视频道,#genre#
-CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-CCTV1,http://tvpull.dxhmt.cn/tv/11481-3.m3u8
-CCTV1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=3
+CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 
 CCTV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
