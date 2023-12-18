@@ -42,7 +42,7 @@ def get_url(name):
     return m3u8_list
 
 
-def download_m3u8(url):
+def download_m3u8(url, initial_url=None):
     try:
         # 下载M3U8文件
         response = requests.get(url, timeout=5)
@@ -56,6 +56,9 @@ def download_m3u8(url):
         # 解析M3U8文件，获取视频片段链接
         lines = m3u8_content.split('\n')
         segments = [line.strip() for line in lines if line and not line.startswith('#')]
+        if len(segments) == 1:
+            # 在递归调用时传递 initial_url 参数
+            return download_m3u8(segments[0], initial_url=initial_url if initial_url is not None else url)
 
         # 下载指定数量的视频片段并计算下载速度
         total_size = 0
@@ -83,10 +86,10 @@ def download_m3u8(url):
         # 计算平均下载速度
         average_speed = total_size / total_time / (1024 * 1024)  # 转换为MB/s
         print(f"Average Download Speed: {average_speed:.2f} MB/s")
-        with open('speed.ts', 'wb') as file:
+        with open('speed.ts', 'wb') as f:
             pass
         if average_speed >= 1:
-            return url
+            return initial_url if initial_url is not None else url
 
 
 def validate_m3u8_url(url, name):
@@ -164,15 +167,15 @@ def mer_links(tv):
     print(f'Merged content from {len(txt_files)} files into {output_file_path}')
 
 
-def re_dup():
+def re_dup(filepath):
     from collections import OrderedDict
     # 读取文本文件
-    with open('live.txt', 'r', encoding='utf-8') as file:
+    with open(filepath, 'r', encoding='utf-8') as file:
         lines = file.readlines()
     # 保持原始顺序的去重
     unique_lines_ordered = list(OrderedDict.fromkeys(lines))
     # 将去重后的内容写回文件
-    with open('live.txt', 'w', encoding='utf-8') as file:
+    with open(filepath, 'w', encoding='utf-8') as file:
         file.writelines(unique_lines_ordered)
 
 
@@ -188,8 +191,8 @@ if __name__ == '__main__':
     tv_dict = {}
     valid_m3u8_link = []
     # 遍历当前文件下的txt文件,提取文件名
-    TV_names = [os.path.splitext(f)[0] for f in os.listdir(current_directory) if f.endswith(".txt")]
-    # TV_names = ['single']
+    # TV_names = [os.path.splitext(f)[0] for f in os.listdir(current_directory) if f.endswith(".txt")]
+    TV_names = ['🇭🇰港台']
     for TV_name in TV_names:
         # 读取文件并逐行处理
         with open(f'{TV_name}.txt', 'r', encoding='utf-8') as file:
@@ -204,5 +207,6 @@ if __name__ == '__main__':
         # 合并m3u8链接
         mer_links(TV_name)
         tv_dict.clear()
+    time.sleep(3)
     os.remove('speed.ts')
-    re_dup()  # 直播源去重
+    re_dup(output_file_path)  # 直播源去重
