@@ -78,14 +78,14 @@ def download_m3u8(url):
             total_size += segment_size
             total_time += segment_time
 
-            # print(f"Downloaded segment {i + 1}/3: {segment_speed:.2f} MB/s")
+            print(f"Downloaded segment {i + 1}/3: {segment_speed:.2f} MB/s")
 
         # 计算平均下载速度
         average_speed = total_size / total_time / (1024 * 1024)  # 转换为MB/s
         print(f"Average Download Speed: {average_speed:.2f} MB/s")
         with open('speed.ts', 'wb') as file:
             pass
-        if average_speed >= 0.5:
+        if average_speed >= 1:
             return url
 
 
@@ -177,7 +177,7 @@ if __name__ == '__main__':
     valid_m3u8_link = []
     # 遍历当前文件下的txt文件,提取文件名
     TV_names = [os.path.splitext(f)[0] for f in os.listdir(current_directory) if f.endswith(".txt")]
-    # TV_names = ['央视']
+    # TV_names = ['single']
     for TV_name in TV_names:
         # 读取文件并逐行处理
         with open(f'{TV_name}.txt', 'r', encoding='utf-8') as file:
