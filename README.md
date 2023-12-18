@@ -9,6 +9,7 @@
 ### 本地版直播源分类合并、检索、验证有效源，提取工具
 
 * 适配本地网络运营的有效直播源检索提取工具
+* 直播源去重，增加直播流播放速度测试
 * [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/local_find/find_source.rar)
 
 
