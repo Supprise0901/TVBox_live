@@ -164,6 +164,18 @@ def mer_links(tv):
     print(f'Merged content from {len(txt_files)} files into {output_file_path}')
 
 
+def re_dup():
+    from collections import OrderedDict
+    # 读取文本文件
+    with open('live.txt', 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+    # 保持原始顺序的去重
+    unique_lines_ordered = list(OrderedDict.fromkeys(lines))
+    # 将去重后的内容写回文件
+    with open('live.txt', 'w', encoding='utf-8') as file:
+        file.writelines(unique_lines_ordered)
+
+
 if __name__ == '__main__':
     # 获取当前工作目录
     current_directory = os.getcwd()
@@ -193,3 +205,4 @@ if __name__ == '__main__':
         mer_links(TV_name)
         tv_dict.clear()
     os.remove('speed.ts')
+    re_dup()  # 直播源去重
