@@ -1729,29 +1729,24 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 
 🌍海外频道,#genre#
 
-亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-亚洲,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 俄罗斯,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 俄罗斯,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+华盛顿DC,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+华盛顿DC,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+华盛顿DC,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+华盛顿DC,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-半岛电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+
 半岛电视台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-半岛电视台,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-半岛电视台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛电视台,http://live.cztv.cc:85/live/ggpd.m3u8
-半岛电视台,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+欧洲巴尔干-体育,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 
 
 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1766,22 +1761,15 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-欧洲,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-欧洲,https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
-欧洲,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-欧洲,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-欧洲,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-欧洲,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+EZTV2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+EZTV6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+EZTV1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 
-
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
 美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-美国,http://live.cgtn.com/1000/prog_index.m3u8
+MyTime movie,http://live.cgtn.com/1000/prog_index.m3u8
 美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
 美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 
-
-半岛电视台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
