@@ -1766,10 +1766,9 @@ EZTV6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d4
 EZTV1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-MyTime movie,http://live.cgtn.com/1000/prog_index.m3u8
-美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
-美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
-美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+MyTime moive,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
+MyTime moive,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
+
 
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
