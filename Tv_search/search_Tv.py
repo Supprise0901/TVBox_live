@@ -88,6 +88,7 @@ def download_m3u8(url, initial_url=None):
         print(f"Average Download Speed: {average_speed:.2f} MB/s")
         with open('speed.ts', 'wb') as f:
             pass
+        # 速度阈值，默认1MB/s
         if average_speed >= 1:
             return initial_url if initial_url is not None else url
 
@@ -138,7 +139,10 @@ def detectLinks(name, m3u8_list, TV_name):
     with open(os.path.join(f'{TV_name}', f'{name}.txt'), 'w', encoding='utf-8') as file:
         for valid_url in valid_m3u8_link:
             file.write(f'{name},{valid_url}\n')
-        print(f'-----{name}----有效源写入完成！！！------')
+        if len(self.valid_m3u8_link) == 0:
+            print(f'-----{name}----无效源或速度慢，已抛弃！！！------')
+        else:
+            print(f'-----{name}----有效源写入完成！！！------')
         valid_m3u8_link.clear()
         sys.stdout.flush()
 
