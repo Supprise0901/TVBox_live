@@ -121,7 +121,7 @@ def detectLinks(name, m3u8_list, TV_name):
     thread = []
     for m3u8_url in m3u8_list:
         t = threading.Thread(target=validate_m3u8_url, args=(m3u8_url, name,))
-        t.setDaemon(True)  # 设置为守护线程,确保在主线程退出时，所有子线程都会被强制终止
+        t.Daemon = True  # 设置为守护线程,确保在主线程退出时，所有子线程都会被强制终止
         t.start()
         thread.append(t)
     # 等待所有线程完成
