@@ -42,11 +42,13 @@ def get_url(name):
     return m3u8_list
 
 
-def download_m3u8(url, initial_url=None):
+def download_m3u8(url, name, initial_url=None):
     try:
         # 下载M3U8文件
-        response = requests.get(url, timeout=5)
-        response.raise_for_status()  # 检查请求是否成功
+        with requests.get(url, timeout=5) as response:
+            response.raise_for_status()
+        # response = requests.get(url, timeout=5)
+        # response.raise_for_status()  # 检查请求是否成功
     except requests.exceptions.Timeout as e:
         print(f"{url}\nError: 请求超时. Exception: {e}")
     except requests.exceptions.RequestException as e:
@@ -58,7 +60,7 @@ def download_m3u8(url, initial_url=None):
         segments = [line.strip() for line in lines if line and not line.startswith('#')]
         if len(segments) == 1:
             # 在递归调用时传递 initial_url 参数
-            return download_m3u8(segments[0], initial_url=initial_url if initial_url is not None else url)
+            return download_m3u8(segments[0], name, initial_url=initial_url if initial_url is not None else url)
 
         # 下载指定数量的视频片段并计算下载速度
         total_size = 0
@@ -70,7 +72,7 @@ def download_m3u8(url, initial_url=None):
             end_time = time.time()
 
             # 将视频片段保存到本地
-            with open('speed.ts', 'ab') as f:
+            with open('speed.ts', 'wb') as f:
                 f.write(response.content)
 
             # 计算下载速度
@@ -85,11 +87,13 @@ def download_m3u8(url, initial_url=None):
 
         # 计算平均下载速度
         average_speed = total_size / total_time / (1024 * 1024)  # 转换为MB/s
-        print(f"Average Download Speed: {average_speed:.2f} MB/s")
-        with open('speed.ts', 'wb') as f:
+        # print(f"Average Download Speed: {average_speed:.2f} MB/s")
+        print(f"---{name}---平均速度: {average_speed:.2f} MB/s")
+        with open('speed.ts', 'wb'):
             pass
         # 速度阈值，默认1MB/s
         if average_speed >= 1:
+            valid_m3u8_link.append(initial_url if initial_url is not None else url)
             return initial_url if initial_url is not None else url
 
 
@@ -99,10 +103,9 @@ def validate_m3u8_url(url, name):
         with requests.get(url, timeout=5) as response:
             response.raise_for_status()
             if response.status_code == 200:
-                if download_m3u8(url):
-                    valid_m3u8_link.append(url)
-                    print(f"{url}\n{name}M3U8链接有效")
-                    return url
+                valid_m3u8_link.append(url)
+                print(f"{url}\n{name}M3U8链接有效")
+                return url
 
     # except requests as e:
     except requests.exceptions.RequestException as e:
@@ -120,7 +123,10 @@ def validate_m3u8_url(url, name):
 def detectLinks(name, m3u8_list, TV_name):
     thread = []
     for m3u8_url in m3u8_list:
-        t = threading.Thread(target=validate_m3u8_url, args=(m3u8_url, name,))
+        # 测试链接有效性
+        # t = threading.Thread(target=validate_m3u8_url, args=(m3u8_url, name,))
+        # 测试链接速度
+        t = threading.Thread(target=download_m3u8, args=(m3u8_url, name,))
         t.Daemon = True  # 设置为守护线程,确保在主线程退出时，所有子线程都会被强制终止
         t.start()
         thread.append(t)
@@ -130,16 +136,16 @@ def detectLinks(name, m3u8_list, TV_name):
             print(f"Waiting for thread {t} to finish")
             t.join(timeout=5)  # 等待线程超时
         except Exception as e:
-            print(f"Thread {t} raised an exception: {e}")
+            print(f"Thread {t.name} raised an exception: {e}")
     # 检测的valid_m3u8_link列表，保存到m3u8_url.txt文本中
-    time.sleep(5)
+    time.sleep(10)
     # 判断TV_names列表中的文件夹是否存在
     if not os.path.exists(f'{TV_name}'):
         os.makedirs(f'{TV_name}')
     with open(os.path.join(f'{TV_name}', f'{name}.txt'), 'w', encoding='utf-8') as file:
         for valid_url in valid_m3u8_link:
             file.write(f'{name},{valid_url}\n')
-        if len(self.valid_m3u8_link) == 0:
+        if len(valid_m3u8_link) == 0:
             print(f'-----{name}----无效源或速度慢，已抛弃！！！------')
         else:
             print(f'-----{name}----有效源写入完成！！！------')
@@ -196,7 +202,7 @@ if __name__ == '__main__':
     valid_m3u8_link = []
     # 遍历当前文件下的txt文件,提取文件名
     # TV_names = [os.path.splitext(f)[0] for f in os.listdir(current_directory) if f.endswith(".txt")]
-    TV_names = ['🇭🇰港台']
+    TV_names = ['🇨🇳卫视频道']
     for TV_name in TV_names:
         # 读取文件并逐行处理
         with open(f'{TV_name}.txt', 'r', encoding='utf-8') as file:
@@ -211,6 +217,6 @@ if __name__ == '__main__':
         # 合并m3u8链接
         mer_links(TV_name)
         tv_dict.clear()
-    time.sleep(3)
+    time.sleep(5)
     os.remove('speed.ts')
     re_dup(output_file_path)  # 直播源去重
