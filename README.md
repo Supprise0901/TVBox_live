@@ -4,9 +4,7 @@
 
 在线直播源订阅地址： [live](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/live.txt)
 
-* 地址说明，一台多源，资源的快慢与宽带运营线路有关，建议将线路选择调整为10/15秒，等待适配网络源，日常卡顿会及时切换到高速源，进行直播观看
-* 建议使用不易跳播的Tvbox软件，发现有些对直播源的播放不是很友好
-* 直播源首次使用，部分网络m3u8的前三个视频流需要一定的时间加载
+* 地址说明，一台多源，资源的快慢与宽带运营线路有关，建议将线路选择调整为5/10秒，等待适配网络源，日常卡顿会及时切换到高速源，进行直播观看
 * 建议打开路由器ipv6地址，大部分高速直播地址都是ipv6;单独ipv4地址，使用本地版工具提取直播源
 
 ### 本地版直播源分类合并、检索、验证有效源，提取工具
@@ -17,9 +15,7 @@
 * [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_warehouse/main/local_find/find_source.rar)
 
 ### Tvbox软件下载
-* 项目地址，[mlabalabala/box](https://github.com/mlabalabala/box)
 * TVBox 简易修改 多源版本 支持安卓4.4
-* 使用过程中发现该版本对直播源比较友好，不易跳播
 *  [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/mlabalabala/box/main/Release/app-release.apk)
 
 #

@@ -168,7 +168,7 @@ if __name__ == '__main__':
 
     speed = input('请直接回车确定或输入阈值:  ')
     if speed == '':
-        speed = 0.5
+        speed = 0.7
     else:
         speed = float(speed)
     # 获取当前工作目录
