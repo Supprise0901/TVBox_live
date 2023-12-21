@@ -96,7 +96,7 @@ def download_m3u8(url, name, initial_url=None):
         # print(f"---{name}---平均速度: {average_speed:.2f} MB/s")
 
         # 速度阈值，默认1MB/s
-        if average_speed >= 0.5:
+        if average_speed >= speed:
             valid_url = initial_url if initial_url is not None else url
             if not os.path.exists(f'{TV_name}'):
                 os.makedirs(f'{TV_name}')
@@ -107,7 +107,6 @@ def download_m3u8(url, name, initial_url=None):
             return
 
 
-# 检测有效链接，并写入m3u8_url.txt
 def detectLinks(name, m3u8_list):
     thread = []
     for m3u8_url in m3u8_list:
@@ -162,6 +161,16 @@ def re_dup(filepath):
 
 
 if __name__ == '__main__':
+    print('说明：\n'
+          '速度阈值默认为0.5\n'
+          '阈值越大，直播流速度越快，检索出的直播流数量越少\n'
+          '建议日常阈值最小0.3，能够满足日常播放流不卡顿\n')
+
+    speed = input('请直接回车确定或输入阈值:  ')
+    if speed == '':
+        speed = 0.5
+    else:
+        speed = float(speed)
     # 获取当前工作目录
     current_directory = os.getcwd()
     # 构造上级目录的路径
