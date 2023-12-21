@@ -5,20 +5,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bac95de7017f10003b15149a00000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=2tL1MOHBw7vT3rEu46sqOc24JaqMI6KXS416dU8PpTXsfyAfFgEAuWR-Myb1k8dt&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bac95de7017f10003b15149a00000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=UZPhDKs_Ep6vLc0eCbHgn7UiEJkAyaejYd4LTNY3gAcCq8Xe_ufMR1ZTgmrXCqUZ&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=121b4dac7229d8231fc2c6f6f7240eb9&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=bb4f312b7dbfec644a84b3679a1b7ace&wsTime=1703148929"
         ],
         "article_id": "1171598733381603328",
         "compere_str": "",
         "name": "河南卫视",
         "logo": "",
-        "time": "07:37-08:32",
-        "live": "梨园春天天看",
+        "time": "12:32-18:30",
+        "live": "阳光剧场：宰相刘罗锅",
         "cid": 145
     },
     {
@@ -27,20 +27,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/badd9458017f10006224bb8100000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=WZqG91oSY5Ro3i6l8qWn3FUVJ4RRwjqnRTb63moZUxNqdJY8RAEBbjJaRmjB70Ni&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/badd9458017f10006224bb8100000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=dU2L864NWMEKjzA-gFkqrYFlTR77jQWAuihRwJtcAxl9UvvwkaqlaCvVTfodYIQ7&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=164c9b12ecee6567c233f7b235958082&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=d571292a954d75ba2065b66806ee473c&wsTime=1703148929"
         ],
         "article_id": "1171600967817367552",
         "compere_str": "",
         "name": "新闻频道",
         "logo": "",
-        "time": "08:00-08:30",
-        "live": "河南新闻联播",
+        "time": "12:30-13:15",
+        "live": "米字写成记",
         "cid": 149
     },
     {
@@ -49,20 +49,20 @@
         "hotline": "0371-65732233",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bacab67f017f1000a711b6f000000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=ku98-KrcAaniGmPAcPpeB_r9jpl_96El_NINmpF0Css39INYY3cY_I1EIEuhbDkv&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bacab67f017f1000a711b6f000000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=Chle3nemMWNoK4LLgEZ0b9p4OOEkLldP5cFp8Pyxw59EdSBExgyXcs95_4yH-WKq&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=65e64e8fc916e6998e5f9c124c7158ce&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=2710b0e2ee4aed0121487f5e0333a9fe&wsTime=1703148929"
         ],
         "article_id": "1165831199944478720",
         "compere_str": "",
         "name": "都市频道",
         "logo": "",
-        "time": "07:00-08:40",
-        "live": "精品剧场：你是我的生命",
+        "time": "12:15-12:55",
+        "live": "打鱼晒网",
         "cid": 141
     },
     {
@@ -71,20 +71,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bad2ac12017f1000a71b1ba300000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=7eCvJF9UyVyUam0IEONz_2-sEDkGkDBUuGNhFcg5VgmBbpXmZZCqVsAlxs9WWNhY&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bad2ac12017f1000a71b1ba300000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=ss1LkxnDGIWTCcR7fcbG4f5Oyj-onafpYYzVuwxmYrKye2ThmJ9ODwf99V8nJO9G&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=ae3a96259bebe4adbe82457893fe42b4&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=f080ed635f1a17ac737af3db22fc1b65&wsTime=1703148929"
         ],
         "article_id": "1171600806525407232",
         "compere_str": "",
         "name": "民生频道",
         "logo": "",
-        "time": "08:15-08:45",
-        "live": "乐淘天下（1）",
+        "time": "10:45-13:10",
+        "live": "大象直播间（午间）",
         "cid": 146
     },
     {
@@ -93,20 +93,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bad89dde017f10009e72dbcb00000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=RXu1CcQ-4qd8Cq9sBymVwIZbUIur2rO6yPNTaMTF6IpPx6YNAC9ryk0U98yxpeJE&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bad89dde017f10009e72dbcb00000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=BhIxKf37XBqGYfIqWz-egvzRwoRZz1rExfN19pAzgzGEPm0q49qj5t6T3sqv_lC8&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=f3aded2f5226219dea95211cba307cbf&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=7f2ce30e32cd709105db35ffdbbf4c61&wsTime=1703148929"
         ],
         "article_id": "1171600859029704704",
         "compere_str": "",
         "name": "法治频道",
         "logo": "",
-        "time": "07:30-12:10",
-        "live": "经典剧场  长城红",
+        "time": "12:30-13:00",
+        "live": "拜托啦律师精编",
         "cid": 147
     },
     {
@@ -115,20 +115,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/badf76ba017f10004a0aa5d800000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=9COuKmbjLigeecBvC7DlYuDihhMn0_6ll5DssFpT2hef3-34iwLKEEYegwvzxDcV&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/badf76ba017f10004a0aa5d800000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=wOFjVXeDY3XXMQ7RuoBtgxzNuZesmQl1pOoXIGY839l0hbcEgR3lwy_Ls4EMKK7F&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=452589c30d9716a7b89acb0cb0a5ce80&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=938afbc868d18736036cb37e4f2dd4e3&wsTime=1703148929"
         ],
         "article_id": "1171601390351552512",
         "compere_str": "",
         "name": "公共频道",
         "logo": "",
-        "time": "08:10-08:50",
-        "live": "健康家园",
+        "time": "12:20-13:20",
+        "live": "百姓调解午间版",
         "cid": 151
     },
     {
@@ -137,20 +137,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae03b36017f100063d6eeb200000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=5aH-qjXZt20i5GjZyu3Ow5XELsv1Cbyu1lHdokl_yLtAd0GU3qxj0Pwyb8GuBMgB&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae03b36017f100063d6eeb200000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=q8oj1wM5Twxh6gcQDTngj9uI3eiE2wQhx4Rn9EOoKGjU6jd1ZJwtT6r8z0CQrQJ_&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=d07ca3f524ad275bef99f211b5ac64fa&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=a3faa8a23eefca3320ac052db17d0a99&wsTime=1703148929"
         ],
         "article_id": "1171601494357708800",
         "compere_str": "",
         "name": "河南乡村频道",
         "logo": "",
-        "time": "08:00-09:20",
-        "live": "经典剧场",
+        "time": "12:00-13:50",
+        "live": "乡村放映室",
         "cid": 152
     },
     {
@@ -159,20 +159,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/badc7b7d017f1000e68a815300000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=KdrWaKXtB4da8BRahY8hRNsiiuOFY8Q-qgZgEWhkJs2n2aje20MaJHsy5CTI2Rbe&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/badc7b7d017f1000e68a815300000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=eht9MnXWezRBuxzots9DGN__02yRUamnjDbDl3Xj2yxPcyFsUFSDgSAnWBG0GeQd&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1442db1fea5d16362c578baf581f47a1&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=0eb432c7c7b21fd277eba7124b53a4c0&wsTime=1703148929"
         ],
         "article_id": "1171600916399394816",
         "compere_str": "",
         "name": "电视剧频道",
         "logo": "",
-        "time": "06:00-09:15",
-        "live": "时光剧场：一个强盗都不留",
+        "time": "10:45-13:55",
+        "live": "等着我",
         "cid": 148
     },
     {
@@ -181,20 +181,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae11cd6017f100068c4efdb00000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=mCUVuXjO2fUy0FDb8Ki6ZM7MEX1SewWoZpr9vS98u1qH7ujMnRWlRVAyudfX9yTQ&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae11cd6017f100068c4efdb00000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=jUgH42g4IwYjZttr9lgejFfMEXM28Mwnnxre2-KRyvKpgmFan9bAcW4Yt-XZcQB1&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=f33ca27db2c0b87c8383a834af856d36&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=c12d1d00aeb91e1bb8b9a5e6017e3bad&wsTime=1703148929"
         ],
         "article_id": "1171601560845815808",
         "compere_str": "",
         "name": "河南国际",
         "logo": "",
-        "time": "08:12-09:22",
-        "live": "武林风",
+        "time": "12:53-13:13",
+        "live": "看见河南",
         "cid": 153
     },
     {
@@ -203,20 +203,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae1f7fa017f1000653e18e300000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=SuP2SiotZFfsRVuM5AqGTbp-Tdy0guHuNHpT8m9Q-F52hpiX8J2badpJNNlHi75o&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae1f7fa017f1000653e18e300000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=6Y67_U_5Ek0mohwB7Fb1ztKqYaiOO-bXzY5177fSGXYIiq24PVOPa9or6olhZaaV&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=0d33fe69cb03b61286428211e4852f3c&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=df28f3c50da2a1fc177ebafb086a281d&wsTime=1703148929"
         ],
         "article_id": "1171601638192975872",
         "compere_str": "",
         "name": "梨园频道",
         "logo": "",
-        "time": "06:20:00-08:34:00",
-        "live": "戏说经典",
+        "time": "10:48:00-13:03:00",
+        "live": "南腔北调",
         "cid": 154
     },
     {
@@ -225,20 +225,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae2d2f3017f100029903c9600000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=jSmfFyqSljxD-5a3wAAnlsIGTn1N79WjbTqNGvsTjl0DEeBZRibRQ8j0oJ8_dWMC&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae2d2f3017f100029903c9600000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=QTwMDc8XLTsJ3a8T0sJDwoC0pLNoFdM6fkq6tQf-1dl2y1xHW3-XZKpg_-Tn1QFV&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=16c3d8095cf37b46e13ea3c8a488a45b&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=2dc3fcccb825b785718cf00365cd1f9e&wsTime=1703148929"
         ],
         "article_id": "1171601747098079232",
         "compere_str": "",
         "name": "文物宝库",
         "logo": "",
-        "time": "08:00-08:40",
-        "live": "华豫之门",
+        "time": "12:40-13:10",
+        "live": "老家的味道 ",
         "cid": 155
     },
     {
@@ -247,20 +247,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae3a368017f10009d27197900000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=e43PhZgok3hehiKjPAFrj5tUSZTW9XUn957BZbGuo-GwDyDNzyBHTQ5zGMXGx9cm&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae3a368017f10009d27197900000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=l2DA9FQ47atWJbi0FeKhTHWrjV9KGDmOXk5CwiIovWvgrgOHMEofzzRHeZbfTNQ5&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=aa182413c24357581a58be2867336baf&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=291349c1633d647f9e9ee725bdb83ec8&wsTime=1703148929"
         ],
         "article_id": "1171601802953625600",
         "compere_str": "",
         "name": "武术频道",
         "logo": "",
-        "time": "08:10-09:00",
-        "live": "武观天下：功夫少林",
+        "time": "12:50-15:30",
+        "live": "巅峰擂台特约之：ONE冠军赛",
         "cid": 156
     },
     {
@@ -269,20 +269,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae47d6d017f100037f57fb400000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=bM0jJxnZHRSGZ3L7SpdgHTgfcEP1HQVYqB1YppihW2FuJY3yrJGcjuDFU3N8Ki-m&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae47d6d017f100037f57fb400000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=0fob9Q-CmrarcoygFyCkxSsaUe_kn94AY_OAZqXwjxSDzhaipxyhQ236sHW3d4Z7&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "睛彩中原频道是经国家新闻出版广电总局相关部门批准，由河南广播电视台领导，河南大象融媒体集团管理的面向全省播出的电视频道。频道以“传承文明、服务生活”为宗旨，立足“文化为核，娱乐为壳，寓教于乐”的总体定位，主要为观众提供国学文化、生活服务、影视剧、微电影等节目内容。\n睛彩中原频道树立“坚定文化自信，传承中华美德，记录伟大时代”的发展目标，打造贴近群众、深入生活的精彩节目形式和内容，让文明薪火相传，让真情温暖人间，让中原更加出彩。\n频道收视覆盖河南全境18个地市、108个县区，近三千万家庭，通过河南有线电视网、河南IPTV、河南DTMB无线电视网、河南微信直播平台等多渠道、多网络立体播出。",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=949e68aca229ef79f21c1c01a6470a5c&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=0e824bbefb349379aa7f15a16957352b&wsTime=1703148929"
         ],
         "article_id": "1171601893676421120",
         "compere_str": "",
         "name": "睛彩中原",
         "logo": "",
-        "time": "08:00-09:20",
-        "live": "美好剧场《绝密543》",
+        "time": "11:20-15:30",
+        "live": "河南有好戏",
         "cid": 157
     },
     {
@@ -291,20 +291,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae59ebf017f100041a0327900000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=lcFZZaWHBvTZypme1YpOEaztWfaKUyVpvCNYwtP0LRzxyMnO9JKZfYTjPpNcJTpt&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae59ebf017f100041a0327900000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=MrcGG1dRf9O0TCEmqCft789kKkaDEMl3IIR0yT0RvSOjwK8lhf9KGaZ4zA0VnImQ&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=075c4d518c978a8d87f89b915c4d189d&wsTime=1703132423"
+            "https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=b6051d44c06d00b72859fabec01e56c6&wsTime=1703148929"
         ],
         "article_id": "1183569710814466048",
         "compere_str": "",
         "name": "移动戏曲频道",
         "logo": "",
-        "time": "07:20-09:30",
-        "live": "戏苑百家",
+        "time": "10:30-13:00",
+        "live": "大戏点播",
         "cid": 163
     },
     {
@@ -313,20 +313,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bae75df1017f10004035414100000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=oF2lEaVFPxkF__OrufnSl4lYVHHUPOebAgEEscHrusIg1-hF6xLSCLYgx_rF9EFh&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bae75df1017f10004035414100000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=UTG04FihE1R6nEayS6a_ZMVX-M4Pv5uTvmjnWdaWJNGnFSXTSeg5rVcUAKcN4K4D&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=612f455812fee26f080be10f666771e7&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=db2c2f37194d3c94bdf240608277ca13&wsTime=1703148929"
         ],
         "article_id": "",
         "compere_str": "",
         "name": "象视界",
         "logo": "",
-        "time": "08:00:00-09:00:00",
-        "live": "中国节日节气奇妙游精选9",
+        "time": "12:00:00-13:00:00",
+        "live": "中国节日节气奇妙游精选4",
         "cid": 183
     },
     {
@@ -335,20 +335,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/6570db4d018410000abeea6500000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=hgDyKafzTnmPcDR8TV3IX142PQHB2nr5f_AuLq10-iDF1J2d4-z4fRSyz2FC3YNf&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/6570db4d018410000abeea6500000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=jG_ZqxpcjFCYMrS971WYnFsAAnyUGJf3488Gd_NL-QWWWGV455NPS4UqRq377_U8&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=882d7b3fe6e57cd8a3cbb160ad27b5b4&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=dbb6613d6420a14f422b70c5b4c1179c&wsTime=1703148929"
         ],
         "article_id": "",
         "compere_str": "",
         "name": "国学频道",
         "logo": "",
-        "time": "08:04-08:22",
-        "live": "诗情画意04",
+        "time": "12:54-13:06",
+        "live": "经典赏析",
         "cid": 194
     },
     {
@@ -357,20 +357,20 @@
         "hotline": "",
         "FM": "",
         "streams": [
-            "http://tv4b.hndt.com/tv/bade96d6017f1000f32f147d00000000_transios/playlist.m3u8?tokenendtime=1703132423&tokenhash=DW-PGcfAZxsyR7v567weV7XVJiod2OraVKHRz3obh6kYjMQ6BPlOycxQEeS6eHqT&tokenstarttime=1703118023"
+            "http://tv4b.hndt.com/tv/bade96d6017f1000f32f147d00000000_transios/playlist.m3u8?tokenendtime=1703148929&tokenhash=ibxHsPYdlxtp2lj30Ig2uzM6o3fYBmUfTYY7HZcGH17BfXvk4UMpdZSDwgvGu7Ga&tokenstarttime=1703134529"
         ],
         "isprograms": 1,
         "description": "",
         "interact": "0",
         "video_streams": [
-            "http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=232c018a0d864b292d242a4024dd3687&wsTime=1703132423"
+            "http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d342c0c797c09a5818e9c158fa397233&wsTime=1703148929"
         ],
         "article_id": "1171601038256508928",
         "compere_str": "",
         "name": "欢腾购物",
         "logo": "",
-        "time": "08:00:00-08:40:00",
-        "live": "欢腾购物-上午优选商品",
+        "time": "12:40:00-13:20:00",
+        "live": "欢腾购物-下午精选商品",
         "cid": 150
     }
 ]
