@@ -167,7 +167,7 @@ if __name__ == '__main__':
           '建议日常阈值最小0.3，能够满足日常播放流不卡顿\n')
     speed = input('请直接回车确定或输入阈值:  ')
     if speed == '':
-        speed = 0.7
+        speed = 1
     else:
         speed = float(speed)
     # 获取当前工作目录
