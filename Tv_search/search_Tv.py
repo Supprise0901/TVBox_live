@@ -181,7 +181,7 @@ if __name__ == '__main__':
     tv_dict = {}
     # 遍历当前文件下的txt文件,提取文件名
     TV_names = [os.path.splitext(f)[0] for f in os.listdir(current_directory) if f.endswith(".txt")]
-    # TV_names = ['test']
+    # TV_names = ['🇭🇰港台']
     for TV_name in TV_names:
         # 删除历史测试记录，防止文件追加写入
         if os.path.exists(TV_name):
