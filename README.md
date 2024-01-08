@@ -12,7 +12,7 @@
 * 适配本地网络运营的高效直播源检索提取工具
 * 12/18 直播源去重，增加直播流播放速度测试 
 * 12/21 新增速度测试阈值
-* 12/24 origin直播源txt文件转化为统一编码
+* 12/24 origin直播源txt文件转化为统一编码（txt编码UTF-8会转换乱码，手动另存为编码UTF-8）
 * 12/28 新增网络直播源下载本地；
 * [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/local_find/find_source.rar)
 
