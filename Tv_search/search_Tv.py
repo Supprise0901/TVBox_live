@@ -26,6 +26,7 @@ def get_url(name):
         response = session.post(url, headers=headers, data=data, verify=False)
         print(response)
     # print(response.text)
+    time.sleep(2)
     soup = BeautifulSoup(response.text, 'html.parser')
     # Find the div with class "m3u8"
     m3u8_divs = soup.find_all('div', class_='m3u8')
