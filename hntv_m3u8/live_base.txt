@@ -24,9 +24,6 @@
 厦门卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-吉林卫视,http://stream1.jlntv.cn/jlws/sd/live.m3u8
-吉林卫视,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 吉林卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
 北京卫视,http://58.19.13.92:9901/tsfile/live/1017_1.m3u8
@@ -57,7 +54,6 @@
 广东卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000031076/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-广西卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 广西卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030417/1.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=3
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
