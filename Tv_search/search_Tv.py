@@ -166,11 +166,12 @@ if __name__ == '__main__':
           '速度阈值默认为0.8\n'
           '阈值越大，直播流速度越快，检索出的直播流数量越少\n'
           '建议日常阈值最小0.3，能够满足日常播放流不卡顿\n')
-    speed = input('请直接回车确定或输入阈值:  ')
-    if speed == '':
-        speed = 1
-    else:
-        speed = float(speed)
+    # speed = input('请直接回车确定或输入阈值:  ')
+    # if speed == '':
+    #     speed = 1
+    # else:
+    #     speed = float(speed)
+    speed = 0.8
     # 获取当前工作目录
     current_directory = os.getcwd()
     # 构造上级目录的路径
