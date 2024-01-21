@@ -325,8 +325,7 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 斗鱼搞笑HD3,http://epg.112114.xyz/douyu/9067836
 斗鱼搞笑HD4,http://epg.112114.xyz/douyu/59612
 斗鱼搞笑HD4,http://epg.112114.xyz/douyu/9817729
-中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-中国环球电视,http://bp-caster.bestv.com.cn/513/1/video.m3u8
+
 
 🌍海外频道,#genre#
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
