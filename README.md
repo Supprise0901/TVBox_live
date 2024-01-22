@@ -7,6 +7,13 @@
 * 地址说明，一台多源，资源的快慢与宽带运营线路有关，建议将线路选择调整为5/10秒，等待适配网络源，日常卡顿会及时切换到高速源，进行直播观看
 * 建议打开路由器ipv6地址，网络检索的高速直播地址大部分都是ipv6；ipv4地址，建议使用本地版工具提取直播源
 
+### 安卓盒子电视直播软件下载
+* 电视直播壳子，需自定义直播源；
+* 使用方法，安装后打开软件，遥控器菜单键或长按屏幕，调出列表，选择接口设置，节目地址，填入直播源地址[live](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt)，返回；重启软件
+* 菜单列表中，频道管理，可以屏蔽失效的节目（屏蔽功能点赞）
+* 秒换台，速度快，流畅至极；
+*  [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/local_find/DIYP.apk)
+
 ### 本地版直播源分类合并、检索、验证高效源，提取工具
 
 * 适配本地网络运营的高效直播源检索提取工具
@@ -16,9 +23,7 @@
 * 12/28 新增网络直播源下载本地；
 * [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/local_find/find_source.rar)
 
-### Tvbox软件下载
-* TVBox 简易修改 多源版本 支持安卓4.4
-*  [下载地址](https://mirror.ghproxy.com/raw.githubusercontent.com/mlabalabala/box/main/Release/app-release.apk)
+
 
 #
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
