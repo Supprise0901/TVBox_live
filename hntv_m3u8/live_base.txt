@@ -227,6 +227,7 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 经典小品,http://epg.112114.xyz/douyu/9067836
 情景喜剧,http://epg.112114.xyz/douyu/3980787
 华语经典,http://epg.112114.xyz/douyu/434971
+华语电影,http://epg.112114.xyz/douyu/3928
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐华语,http://epg.112114.xyz/douyu/85894
 吃奶滴虫,http://epg.112114.xyz/douyu/263824
@@ -236,6 +237,8 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 周星驰电影,http://epg.112114.xyz/douyu/122402
 刘德华电影1,http://epg.112114.xyz/douyu/2516864
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
+经典武侠,http://epg.112114.xyz/douyu/4246519
+那些年的经典,http://epg.112114.xyz/douyu/1274132
 林正英电影1,http://epg.112114.xyz/douyu/218859
 林正英电影2,http://epg.112114.xyz/douyu/7356023
 女神金电影,http://epg.112114.xyz/douyu/747764
@@ -243,28 +246,22 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
 电影欧美,http://epg.112114.xyz/douyu/20415
 冰冰经典电影,http://epg.112114.xyz/douyu/74374
-奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
 林林影院,http://epg.112114.xyz/douyu/9826611
-漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 变种人电影,http://epg.112114.xyz/douyu/9651304
-华语电影,http://epg.112114.xyz/douyu/3928
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
-经典电视剧,http://epg.112114.xyz/douyu/7459925
-连续剧1,http://epg.112114.xyz/douyu/4549169
-连续剧2,http://epg.112114.xyz/douyu/7623292
-连续剧4,http://epg.112114.xyz/douyu/7476264
-看剧,http://epg.112114.xyz/douyu/431460
-经典武侠,http://epg.112114.xyz/douyu/4246519
-武侠剧,http://epg.112114.xyz/douyu/7655471
 欧美大片,http://epg.112114.xyz/douyu/2793084
-那些年的经典,http://epg.112114.xyz/douyu/1274132
-師落,http://epg.112114.xyz/douyu/6582435
 小宇60帧,http://epg.112114.xyz/douyu/323876
 4K HDR,http://epg.112114.xyz/douyu/9249162
 喜剧电影专场,http://epg.112114.xyz/douyu/9292492
-王大锤情怀,http://epg.112114.xyz/douyu/9220456
 恐怖影片,http://43.138.170.29:35455/huya/11602075
+師落,http://epg.112114.xyz/douyu/6582435
+经典电视剧,http://epg.112114.xyz/douyu/7459925
+连续剧1,http://epg.112114.xyz/douyu/4549169
+连续剧2,http://epg.112114.xyz/douyu/7623292
+连续剧3,http://epg.112114.xyz/douyu/7476264
+看剧,http://epg.112114.xyz/douyu/431460
+武侠剧,http://epg.112114.xyz/douyu/7655471
 
 🌍海外频道,#genre#
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
