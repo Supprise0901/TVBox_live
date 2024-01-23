@@ -222,10 +222,7 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 
 🎞️电影联通线路,#genre#
-赵本山小品,http://epg.112114.xyz/douyu/9817716
-宋小宝小品,http://epg.112114.xyz/douyu/9817729
-经典小品,http://epg.112114.xyz/douyu/9067836
-情景喜剧,http://epg.112114.xyz/douyu/3980787
+
 华语经典,http://epg.112114.xyz/douyu/434971
 华语电影,http://epg.112114.xyz/douyu/3928
 吃米滴虫,http://epg.112114.xyz/douyu/315457
@@ -256,6 +253,10 @@ NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw261
 喜剧电影专场,http://epg.112114.xyz/douyu/9292492
 恐怖影片,http://43.138.170.29:35455/huya/11602075
 師落,http://epg.112114.xyz/douyu/6582435
+赵本山小品,http://epg.112114.xyz/douyu/9817716
+宋小宝小品,http://epg.112114.xyz/douyu/9817729
+经典小品,http://epg.112114.xyz/douyu/9067836
+情景喜剧,http://epg.112114.xyz/douyu/3980787
 经典电视剧,http://epg.112114.xyz/douyu/7459925
 连续剧1,http://epg.112114.xyz/douyu/4549169
 连续剧2,http://epg.112114.xyz/douyu/7623292
