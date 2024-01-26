@@ -12,8 +12,8 @@
 * 使用方法，安装后打开软件，遥控器菜单键或长按屏幕，调出列表，选择接口设置，节目地址，填入直播源地址[live](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt)，返回；重启软件
 * 菜单列表中，频道管理，可以屏蔽失效的节目（屏蔽功能点赞）
 * 秒换台，速度快，流畅至极；
-*  [DIYP](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/local_find/DIYP.apk)
-*  [电视家](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/local_find/电视家.apk)
+*  [DIYP 下载](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/local_find/DIYP.apk)
+*  [电视家 下载](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/local_find/电视家.apk)
 
 ### 本地版直播源分类合并、检索、验证高效源，提取工具
 
