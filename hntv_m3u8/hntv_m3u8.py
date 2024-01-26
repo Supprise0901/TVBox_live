@@ -1,5 +1,6 @@
-import json
+﻿import json
 import os
+import time
 
 # 获取当前脚本所在目录
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -39,5 +40,6 @@ with open(file_path, 'w', encoding='utf-8') as file:
     content_text = base_text + '\n' + hntx_text
     file.write(content_text)
 
+time.sleep(1)
 
 
