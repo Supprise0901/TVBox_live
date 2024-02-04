@@ -19,8 +19,8 @@ with open('video_data.txt', 'r', encoding='utf-8') as file:
 # Extracting name and video_streams values
 with open('live.txt', 'w', encoding='utf-8') as f:
     f.write('🇨🇳河南地方,#genre#\n')
-    f.write('河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3\n'
-            '河南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226614/1.m3u8\n'
+    f.write('河南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\n'
+            '河南卫视,http://221.2.146.228:8888/newlive/live/hls/37/live.m3u8\n'
             '梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ\n')
     for entry in data:
         name = entry.get("name", "")
