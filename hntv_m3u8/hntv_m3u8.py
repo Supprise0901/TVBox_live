@@ -20,7 +20,6 @@ with open('video_data.txt', 'r', encoding='utf-8') as file:
 with open('live.txt', 'w', encoding='utf-8') as f:
     f.write('🇨🇳河南地方,#genre#\n')
     f.write('河南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\n'
-            '河南卫视,http://221.2.146.228:8888/newlive/live/hls/37/live.m3u8\n'
             '梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ\n')
     for entry in data:
         name = entry.get("name", "")

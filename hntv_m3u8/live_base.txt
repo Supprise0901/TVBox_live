@@ -28,7 +28,6 @@
 江苏卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 河北卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 河南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-河南卫视,http://221.2.146.228:8888/newlive/live/hls/37/live.m3u8
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com

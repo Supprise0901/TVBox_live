@@ -28,7 +28,6 @@
 江苏卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 河北卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 河南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-河南卫视,http://221.2.146.228:8888/newlive/live/hls/37/live.m3u8
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -162,7 +161,6 @@ MyTime movie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 埃及 Mokameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
 🇨🇳河南地方,#genre#
 河南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-河南卫视,http://221.2.146.228:8888/newlive/live/hls/37/live.m3u8
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=8f787b398664c7a97ea54ffd4b8f31c6&wsTime=1707065412
 新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=3cdae61614484096f96d9adf465ffdfb&wsTime=1707065412
