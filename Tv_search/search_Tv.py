@@ -21,25 +21,30 @@ def get_url(name):
         "search": name,
         "Submit": " "
     }
-    with requests.Session() as session:
-        response = session.post(url, headers=headers, data=data, verify=False)
-        print(response)
-    # print(response.text)
-    time.sleep(2)
-    # 将 HTML 转换为 Element 对象
-    root = etree.HTML(response.text)
-    result_divs = root.xpath("//div[@class='result']")
+    try:
+        with requests.Session() as session:
+            response = session.post(url, headers=headers, data=data, verify=False)
+            print(response)
+        # print(response.text)
+        time.sleep(5)
+        # 将 HTML 转换为 Element 对象
+        root = etree.HTML(response.text)
+        result_divs = root.xpath("//div[@class='result']")
 
-    # 打印提取到的 <div class="result"> 标签
-    m3u8_list = []
-    for div in result_divs:
-        # 如果要获取标签内的文本内容
-        # print(etree.tostring(div, pretty_print=True).decode())
-        for element in div.xpath(".//tba"):
-            if element.text is not None:
-                m3u8_list.append(element.text)
-                print(element.text)
-    return m3u8_list
+        # 打印提取到的 <div class="result"> 标签
+        m3u8_list = []
+        for div in result_divs:
+            # 如果要获取标签内的文本内容
+            # print(etree.tostring(div, pretty_print=True).decode())
+            for element in div.xpath(".//tba"):
+                if element.text is not None:
+                    m3u8_list.append(element.text)
+                    print(element.text)
+        return m3u8_list
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error: 请求异常. Exception: {e}")
+        return
 
 
 def download_m3u8(url, name, initial_url=None):
@@ -162,7 +167,7 @@ def re_dup(filepath):
 
 if __name__ == '__main__':
     print('说明：\n'
-          '速度阈值默认为0.8\n'
+          '速度阈值默认为1\n'
           '阈值越大，直播流速度越快，检索出的直播流数量越少\n'
           '建议日常阈值最小0.3，能够满足日常播放流不卡顿\n')
     # speed = input('请直接回车确定或输入阈值:  ')
