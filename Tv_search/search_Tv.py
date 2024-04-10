@@ -22,11 +22,11 @@ def get_url(name):
         "Submit": " "
     }
     try:
+        time.sleep(5)
         with requests.Session() as session:
             response = session.post(url, headers=headers, data=data, verify=False)
             print(response)
         # print(response.text)
-        time.sleep(5)
         # 将 HTML 转换为 Element 对象
         root = etree.HTML(response.text)
         result_divs = root.xpath("//div[@class='result']")
