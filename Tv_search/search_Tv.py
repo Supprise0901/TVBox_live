@@ -38,8 +38,8 @@ def get_url(name):
             # print(etree.tostring(div, pretty_print=True).decode())
             for element in div.xpath(".//tba"):
                 if element.text is not None:
-                    m3u8_list.append(element.text)
-                    print(element.text)
+                    m3u8_list.append(element.text.strip())
+                    print(element.text.strip())
         return m3u8_list
 
     except requests.exceptions.RequestException as e:
