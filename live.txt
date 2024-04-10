@@ -2,9 +2,7 @@
 东南卫视, http://iptv123.msns.cn:9901/tsfile/live/0137_1.m3u8
 
 厦门卫视, http://60.174.40.117:9901/tsfile/live/0129_1.m3u8
-吉林卫视, http://stream1.jlntv.cn/jlws/sd/live.m3u8
-吉林卫视, http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-吉林卫视, https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
 吉林卫视, http://61.182.33.218:8000/hls/35/index.m3u8
 山东卫视, https://live.sjsrm.com/bjsjs/sd/live.m3u8
 山东卫视, http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
