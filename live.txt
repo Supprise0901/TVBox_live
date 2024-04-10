@@ -1,11 +1,7 @@
 🇨🇳卫视频道,#genre#
 东南卫视, http://iptv123.msns.cn:9901/tsfile/live/0137_1.m3u8
-
 厦门卫视, http://60.174.40.117:9901/tsfile/live/0129_1.m3u8
-
 吉林卫视, http://61.182.33.218:8000/hls/35/index.m3u8
-山东卫视, https://live.sjsrm.com/bjsjs/sd/live.m3u8
-山东卫视, http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 山东卫视, https://epg.pw/stream/6e0b6e5fe80e21289c27ceeafced6800e23f6c48ade127aa20eb2712aebd2b2a.m3u8
 山西卫视, http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
