@@ -17,16 +17,10 @@
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视, http://stream.qhbtv.com/qhws/sd/live.m3u8
 🇨🇳央视频道,#genre#
-CCTV1, http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
-CCTV1, http://121.235.191.182:12999/hls/1/index.m3u8
 CCTV1, http://182.122.73.120:8089/hls/1/index.m3u8
-CCTV1, http://14.19.199.43:8089/hls/32/index.m3u8
+CCTV1, http://121.235.191.182:12999/hls/1/index.m3u8
 CCTV1, http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV1, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV1, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV1, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-
 CCTV2, http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV2, http://fxgm.fxjf.work:19901/tsfile/live/0002_1.m3u8
 CCTV2, http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -50,6 +44,7 @@ CCTV13, http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV13, http://14.19.199.43:8089/hls/32/index.m3u8
 CCTV13, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV14, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV16, http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CHC家庭影院, http://59.44.192.82:65000/hls/30/index.m3u8
 CHC家庭影院, http://123.187.46.90:65000/hls/30/index.m3u8
 CHC高清电影, http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
