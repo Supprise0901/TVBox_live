@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json",
+            "url": "https://voapi.451460.xyz",
             "name": "影视"
         },
         {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/Fetch/main/tvbox/影视.json",
+            "url": "https://api.451460.xyz",
             "name": "panda_影视"
         },
         {
