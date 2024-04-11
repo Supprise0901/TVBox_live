@@ -1,8 +1,8 @@
 ﻿🛰️电视直播,#genre#
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东方卫视,http://123.163.114.224:85/tsfile/live/0107_1.m3u8
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+东方卫视,http://123.163.114.224:85/tsfile/live/0107_1.m3u8
 北京卫视,http://61.182.33.218:8000/hls/19/index.m3u8
 
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
