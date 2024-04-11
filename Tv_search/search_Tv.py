@@ -6,40 +6,77 @@ import time
 import sys
 
 
+# def get_url(name):
+#     headers = {
+#         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+#     }
+#     url = "http://tonkiang.us/"
+#     # 获取两页的m3u8链接
+#     # params = {
+#     #     "page": 1,
+#     #     "s": name
+#     # }
+#     # response = requests.get(url, headers=headers, params=params, verify=False)
+#     data = {
+#         "search": name,
+#         "Submit": " "
+#     }
+#     try:
+#         time.sleep(5)
+#         with requests.Session() as session:
+#             response = session.post(url, headers=headers, data=data, verify=False)
+#             print(response)
+#         # print(response.text)
+#         # 将 HTML 转换为 Element 对象
+#         root = etree.HTML(response.text)
+#         result_divs = root.xpath("//div[@class='result']")
+#
+#         # 打印提取到的 <div class="result"> 标签
+#         m3u8_list = []
+#         for div in result_divs:
+#             # 如果要获取标签内的文本内容
+#             # print(etree.tostring(div, pretty_print=True).decode())
+#             for element in div.xpath(".//tba"):
+#                 if element.text is not None:
+#                     m3u8_list.append(element.text.strip())
+#                     print(element.text.strip())
+#         return m3u8_list
+#
+#     except requests.exceptions.RequestException as e:
+#         print(f"Error: 请求异常. Exception: {e}")
+#         return
 def get_url(name):
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
     }
+
     url = "http://tonkiang.us/"
-    # 获取两页的m3u8链接
-    # params = {
-    #     "page": 1,
-    #     "s": name
-    # }
-    # response = requests.get(url, headers=headers, params=params, verify=False)
+    # 电视台名字搜索
     data = {
-        "search": name,
+        "search": f"{name}",
         "Submit": " "
     }
     try:
-        time.sleep(5)
-        with requests.Session() as session:
-            response = session.post(url, headers=headers, data=data, verify=False)
-            print(response)
-        # print(response.text)
-        # 将 HTML 转换为 Element 对象
-        root = etree.HTML(response.text)
-        result_divs = root.xpath("//div[@class='result']")
-
-        # 打印提取到的 <div class="result"> 标签
+        res = requests.get(url, headers=headers, data=data, verify=False)
+        cookie = res.cookies
+        # 搜索页数
         m3u8_list = []
-        for div in result_divs:
-            # 如果要获取标签内的文本内容
-            # print(etree.tostring(div, pretty_print=True).decode())
-            for element in div.xpath(".//tba"):
-                if element.text is not None:
-                    m3u8_list.append(element.text.strip())
-                    print(element.text.strip())
+        for i in range(5):
+            url = f"http://tonkiang.us/?page={i + 1}&s={name}"
+            time.sleep(10)
+            response = requests.get(url, headers=headers, cookies=cookie, verify=False)
+            # print(response.text)
+            # 将 HTML 转换为 Element 对象
+            root = etree.HTML(response.text)
+            result_divs = root.xpath("//div[@class='result']")
+            # 打印提取到的 <div class="result"> 标签
+            for div in result_divs:
+                # 如果要获取标签内的文本内容
+                # print(etree.tostring(div, pretty_print=True).decode())
+                for element in div.xpath(".//tba"):
+                    if element.text is not None:
+                        m3u8_list.append(element.text.strip())
+                        print(element.text.strip())
         return m3u8_list
 
     except requests.exceptions.RequestException as e:
@@ -193,7 +230,7 @@ if __name__ == '__main__':
         # 删除历史测试记录，防止文件追加写入
         if os.path.exists(TV_name):
             import shutil
-
+            # 删除文件夹及其内容
             try:
                 shutil.rmtree(TV_name)
                 print(f"Folder '{TV_name}' deleted successfully.")
