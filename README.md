@@ -2,7 +2,9 @@
 
 一切源于网络，检索，分类验证提取高效直播源：
 
-在线直播源订阅地址： [live](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt)
+精选直播源订阅地址： [live](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt)
+
+全部直播源订阅地址： [live_all](https://mirror.ghproxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live_all.txt)
 
 * 地址说明，一台多源，资源的快慢与宽带运营线路有关，建议将线路选择调整为5/10秒，等待适配网络源，日常卡顿会及时切换到高速源，进行直播观看
 * 需要打开ipv6地址，网络检索的高速直播地址大部分都是ipv6；ipv4地址，建议使用本地版工具提取直播源
