@@ -81,7 +81,9 @@ CCTV2,http://120.211.119.222:8899/hls/2/index.m3u8
 CCTV2,http://121.27.126.129:809/hls/2/index.m3u8
 CCTV7,https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8
 CCTV8,http://113.15.185.237:8181/tsfile/live/0008_1.m3u8
-CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+CCTV10 科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV10 科教,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
+CCTV10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11 戏曲,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11 戏曲,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
