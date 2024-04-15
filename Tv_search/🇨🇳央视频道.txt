@@ -14,6 +14,6 @@ CCTV12
 CCTV13
 CCTV14
 CCTV15
-CHC家庭影院
-CHC动作电影
-CHC高清电影
+家庭影院
+动作电影
+高清电影

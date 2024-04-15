@@ -61,9 +61,9 @@ def get_url(name):
         cookie = res.cookies
         # 搜索页数
         m3u8_list = []
-        for i in range(5):
+        for i in range(3):
             url = f"http://tonkiang.us/?page={i + 1}&s={name}"
-            time.sleep(10)
+            time.sleep(3)
             response = requests.get(url, headers=headers, cookies=cookie, verify=False)
             # print(response.text)
             # 将 HTML 转换为 Element 对象
@@ -203,10 +203,10 @@ def re_dup(filepath):
 
 
 if __name__ == '__main__':
-    print('说明：\n'
-          '速度阈值默认为1\n'
-          '阈值越大，直播流速度越快，检索出的直播流数量越少\n'
-          '建议日常阈值最小0.3，能够满足日常播放流不卡顿\n')
+    # print('说明：\n'
+    #       '速度阈值默认为1\n'
+    #       '阈值越大，直播流速度越快，检索出的直播流数量越少\n'
+    #       '建议日常阈值最小0.3，能够满足日常播放流不卡顿\n')
     # speed = input('请直接回车确定或输入阈值:  ')
     # if speed == '':
     #     speed = 1
@@ -225,7 +225,7 @@ if __name__ == '__main__':
     # 遍历当前文件下的txt文件,提取文件名
     TV_names = [os.path.splitext(f)[0] for f in os.listdir(current_directory) if f.endswith(".txt")]
     # '🇭🇰港台'  '🇨🇳卫视频道'  '🇨🇳央视频道'
-    # TV_names = ['🇨🇳卫视频道']
+    # TV_names = ['🇨🇳央视频道','🇭🇰港台']
     for TV_name in TV_names:
         # 删除历史测试记录，防止文件追加写入
         if os.path.exists(TV_name):
