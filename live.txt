@@ -196,6 +196,7 @@ CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰香港,http://50.7.238.114:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
