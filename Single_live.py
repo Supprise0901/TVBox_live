@@ -24,9 +24,9 @@ def get_url(name, num_pages=1):
         m3u8_list = []
         for i in range(num_pages):
             print(f"正在搜索第{i+1}页...")
-            time.sleep(10)
+            time.sleep(3)
             url = f"http://tonkiang.us/?page={i + 1}&s={name}"
-            response = requests.get(url, headers=headers, cookies=cookie, verify=False)
+            response = requests.po(url, headers=headers, data=data, cookies=cookie, verify=False)
             # print(response.text)
             # 将 HTML 转换为 Element 对象
             root = etree.HTML(response.text)

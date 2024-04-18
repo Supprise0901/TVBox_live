@@ -59,12 +59,13 @@ def get_url(name):
     try:
         res = requests.get(url, headers=headers, data=data, verify=False)
         cookie = res.cookies
+        time.sleep(3)
         # 搜索页数
         m3u8_list = []
         for i in range(3):
             url = f"http://tonkiang.us/?page={i + 1}&s={name}"
             time.sleep(3)
-            response = requests.get(url, headers=headers, cookies=cookie, verify=False)
+            response = requests.post(url, headers=headers, data=data, cookies=cookie, verify=False)
             # print(response.text)
             # 将 HTML 转换为 Element 对象
             root = etree.HTML(response.text)
