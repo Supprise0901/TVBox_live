@@ -239,7 +239,7 @@ if __name__ == '__main__':
         time.sleep(1)
         if not os.path.exists(TV_name):
             os.makedirs(TV_name)
-        # 读取文件并逐行处理
+        # 读取文件并逐行处理ls
         with open(f'{TV_name}.txt', 'r', encoding='utf-8') as file:
             names = [line.strip() for line in file]
             for name in names:
