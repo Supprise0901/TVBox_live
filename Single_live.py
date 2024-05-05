@@ -30,7 +30,7 @@ def get_url(name, num_pages=1):
             # print(response.text)
             # 将 HTML 转换为 Element 对象
             root = etree.HTML(response.text)
-            result_divs = root.xpath("//div[@class='result']")
+            result_divs = root.xpath("//div[@class='resultplus']")
             # 打印提取到的 <div class="result"> 标签
             for div in result_divs:
                 # 如果要获取标签内的文本内容
@@ -142,7 +142,7 @@ def re_dup(filepath):
 
 if __name__ == '__main__':
     # 下载速度阈值，默认1MB/s
-    speed = 0.6
+    speed = 0.9
     # 获取当前工作目录
     current_directory = os.getcwd()
     output_file_path = os.path.join(current_directory, 'Single_live.txt')

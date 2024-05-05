@@ -69,7 +69,7 @@ def get_url(name):
             # print(response.text)
             # 将 HTML 转换为 Element 对象
             root = etree.HTML(response.text)
-            result_divs = root.xpath("//div[@class='result']")
+            result_divs = root.xpath("//div[@class='resultplus']")
             # 打印提取到的 <div class="result"> 标签
             for div in result_divs:
                 # 如果要获取标签内的文本内容
