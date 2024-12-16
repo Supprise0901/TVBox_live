@@ -221,40 +221,39 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 
 🇭🇰港台,#genre#
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
-大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+大爱,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+林正英②,http://live.nctv.top/6688/yy.php?id=1453996620
+林正英①,http://live.nctv.top/6688/yy.php?id=1354932444
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-aktv/tvbs-1,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-aktv/tvbs,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-aktv/channel8hd,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-aktv/channeluhd,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-aktv/null-13,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-aktv/null-15,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-aktv/null-10,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-aktv/null-12,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-aktv/null-9,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-aktv/null-8,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-aktv/null-11,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-aktv/null-18,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-aktv/hk-1,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-aktv2/now,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-aktv/null-4,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-aktv2/now-1,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-aktv3/dw,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-aktv3/france24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-aktv2/null-1,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-aktv2/null,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-aktv3/lovenaturehd,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-aktv3/kix,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-aktv3/thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-aktv3/nhk,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-aktv3/null-3,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-aktv3/rockaction,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-aktv3/null,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-aktv3/zoomoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+韩国劲舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv5iohQYo__u7rAY.mp4
+伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+俄罗斯中文台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+越南ANTV电视台,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+新加坡英语电视台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
+蒙古-HHGZ,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+俄罗斯IGITV电视台,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+TVPRO,http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+RUTV,http://92.50.128.180/utv/1358/index.m3u8
+ShansonTV(Opt-2),http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+TVBRICS(ENG),http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+TVBRICS(CN),http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
+漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+RT,https://hls.rt.com/hls/rtdru360.m3u8
+KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
