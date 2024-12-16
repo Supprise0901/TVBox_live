@@ -226,7 +226,6 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 林正英②,http://live.nctv.top/6688/yy.php?id=1453996620
 林正英①,http://live.nctv.top/6688/yy.php?id=1354932444
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
@@ -239,7 +238,6 @@ GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 越南ANTV电视台,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 新加坡英语电视台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
-蒙古-HHGZ,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 俄罗斯IGITV电视台,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 TVPRO,http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
