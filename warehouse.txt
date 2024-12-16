@@ -1,0 +1,32 @@
+{
+    "urls": [
+        {
+            "url": "https://api.451460.xyz/",
+            "name": "panda_影视"
+        },
+        {
+            "url": "https://voapi.451460.xyz/",
+            "name": "影视"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "tvbox"
+        },
+        {
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json",
+            "name": "oktv"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/zyzyzy523/api/main/lives.json",
+            "name": "zyzyzy"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv/",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/anaer_meow.json",
+            "name": "搞机大师"
+        }
+    ]
+}

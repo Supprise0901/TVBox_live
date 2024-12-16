@@ -1,0 +1,5 @@
+requests~=2.31.0
+beautifulsoup4~=4.11.2
+selenium~=4.25.0
+flask~=3.0.2
+lxml~=5.2.1
