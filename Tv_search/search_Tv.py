@@ -10,9 +10,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from proxyTest import get_valid_proxies
 
 
 def get_url(name):
+    # proxy = get_valid_proxies()  # 增加代理
     user_agents = [
         'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0',
@@ -38,6 +40,7 @@ def get_url(name):
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument(f"user-agent={user_agent}")
+    # chrome_options.add_argument(f"--proxy-server={proxy}")  # 增加代理
 
     # 设置ChromeDriver
     driver = webdriver.Chrome(options=chrome_options)
