@@ -195,12 +195,28 @@ def mer_links(tv):
 
 
 def re_dup(filepath):
-    from collections import OrderedDict
     # 读取文本文件
     with open(filepath, 'r', encoding='utf-8') as file:
         lines = file.readlines()
-    # 保持原始顺序的去重
-    unique_lines_ordered = list(OrderedDict.fromkeys(lines))
+
+    # 过滤掉包含 'null' 的行
+    filtered_lines = [line for line in lines if 'null' not in line]
+
+    # 使用字典来去重，键为 URL，值为完整行内容
+    unique_lines = {}
+
+    for line in filtered_lines:
+        # 分割行内容，以获取 URL（假设 URL 位于行的第二部分）
+        parts = line.strip().split(',')
+        if len(parts) == 2:
+            channel_name, url = parts[0].strip(), parts[1].strip()
+            # 如果 URL 还没有被记录，添加到字典中
+            if url not in unique_lines:
+                unique_lines[url] = line
+
+    # 获取去重后的行（保留第一次出现的顺序）
+    unique_lines_ordered = list(unique_lines.values())
+
     # 将去重后的内容写回文件
     with open(filepath, 'w', encoding='utf-8') as file:
         file.writelines(unique_lines_ordered)
