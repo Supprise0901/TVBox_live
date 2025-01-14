@@ -5,7 +5,7 @@
             "name": "panda_影视"
         },
         {
-            "url": "https://voapi.451460.xyz/",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/Supprise0901/api/main/api.json",
             "name": "影视"
         },
         {
@@ -13,7 +13,7 @@
             "name": "tvbox"
         },
         {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/2hacc/TVBox/main/oktv.json",
             "name": "oktv"
         },
         {
@@ -25,7 +25,7 @@
             "name": "饭太硬"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/anaer_meow.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/anaer_meow.json",
             "name": "搞机大师"
         }
     ]
