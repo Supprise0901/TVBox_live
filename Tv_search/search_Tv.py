@@ -194,6 +194,19 @@ def mer_links(tv):
     print(f'Merged content from {len(txt_files)} files into {output_file_path}')
 
 
+def re_dup_ordered(filepath):
+    from collections import OrderedDict
+    # 读取文本文件
+    with open(filepath, 'r', encoding='utf-8') as file:
+        lines = file.readlines()
+    # 保持原始顺序的去重
+    unique_lines_ordered = list(OrderedDict.fromkeys(lines))
+    # 将去重后的内容写回文件
+    with open(filepath, 'w', encoding='utf-8') as file:
+        file.writelines(unique_lines_ordered)
+    print('-----直播源去重完成！------')
+
+
 def re_dup(filepath):
     # 读取文本文件
     with open(filepath, 'r', encoding='utf-8') as file:
@@ -280,6 +293,7 @@ if __name__ == '__main__':
     time.sleep(10)
     os.remove('video.ts')
     # 直播源去重
-    re_dup(output_file_path)
+    # re_dup(output_file_path)
+    re_dup_ordered(output_file_path)
 
     sys.exit()
