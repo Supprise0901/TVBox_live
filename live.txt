@@ -1,62 +1,23 @@
 
 🇨🇳卫视频道,#genre#
-星空卫视,https://stream1.freetv.fun/a9c09c04bf7f0ccc71744697c26feb67743da281eaee48022c606b179d97fb81.m3u8
 内蒙古卫视,https://stream1.freetv.fun/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8
-大湾区卫视,https://stream1.freetv.fun/f8e0ebc17c330fb1f1993f67b3df12c2967c9aeb697ad56adae5613211babe42.ctv
-山东教育卫视,https://stream1.freetv.fun/937e058851a971d9fd8d28bb2385a9024ef1a5403646d5bb4360d4a9b409d4ec.ctv
-康巴卫视,https://stream1.freetv.fun/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.ctv
-藏语卫视,https://stream1.freetv.fun/fb2f95302f5cc333287a7d446db430905aef6dd9fe00bb49530bcdb682100931.ctv
-陕西卫视,https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
-青海卫视,https://stream1.freetv.fun/fad5348a9b285c835736b9f812f4785acff0120fc543ca59063b87dca13e7229.m3u8
-广东卫视,https://stream1.freetv.fun/a4681773a1aabcd1382a65ecd908aac6d2c779309402b963b787dd9ac257e8a0.m3u8
-湖北卫视,https://stream1.freetv.fun/f159656e972aa17ba9ff4e974713a0f92b152108582d298455b0bed215d2427b.m3u8
-贵州卫视,https://stream1.freetv.fun/902bf1b0febec739ab71abb790e136417a9c7686e81cfa97705dfe0ae0afda28.ctv
-农林卫视,https://stream1.freetv.fun/4509b28aa6870b6723880c39a01a00ab539461605d227f22a85ba3d105592ad9.m3u8
-兵团卫视,https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8
-陕西卫视,https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
-亚太第一卫视,http://play2.one-tv.com/live/onetv.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=90771a491736935607
+兵团卫视,https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8
 延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
-西藏卫视,http://183.66.15.146:60901/tsfile/live/0111_1.m3u8
-星空卫视_(576p),http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 🇨🇳央视频道,#genre#
-CHCO-TV,https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
-CCTV1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2024春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV★移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+CNTV,https://pi.0472.org/chc/jt.m3u8$LR•IPV4『线路11』
+CNTV,https://pi.0472.org/chc/dz.m3u8$LR•IPV4『线路11』
 
 🇨🇳影视地方,#genre#
-CHC家庭影院,https://stream1.freetv.fun/chc-jia-ting-ying-yuan-1.ctv
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8$LR•IPV4『线路11』
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8$LR•IPV4『线路11』
-CHC影迷电影,https://stream1.freetv.fun/chc-gao-qing-dian-ying-1.ctv
-影视娱乐,https://stream1.freetv.fun/6c326adb5bc41e369dc27e92cbaa66e9b8917b6a5ed8f294ca830bf31f25a197.m3u8
-四川影视文艺,https://stream1.freetv.fun/725078e0cd94d4317254909335711d242eba8dd2618a3cbac4af4de410284b62.ctv
-哈尔滨影视,https://stream1.freetv.fun/27ca757fe87af150a2076d7f659619d05a24d65e3656f9a85c93a162adf7ab1c.m3u8
-杭州影视,https://stream1.freetv.fun/800fd0ead5c486765b6f9b63b7809499adbb910b65bdc6a0855b8f45283213cc.ctv
-江苏影视,https://stream1.freetv.fun/3509a815e44cd426a5105ed642bb3b9929eea20b8c837aece1b4857550b09a9d.ctv
 新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-浙江影视,https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-万州影视文艺,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-万州影视,http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
-美亚电影,http://ku9.fr.to/smt.php?id=meiyamovie_twn
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-新疆｜石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-万州影视文艺频道,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 周星驰电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
-影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-泰州三套影视娱乐,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
-烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 电影大卫贝肯倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 林正英电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 电影昆塔反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -67,7 +28,7 @@ HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 电影绝色狂花之龙迹神宫,https://cdn16.yzzy-tv-cdn.com/20230510/4888_37a72eb5/index.m3u8
 电影辣警狂花第1部,https://cdn13.yzzy-tv-cdn.com/20230322/18321_a967b574/index.m3u8
 电影辣警狂花第3部,https://cdn15.yzzy-tv-cdn.com/20230329/4852_2724c586/index.m3u8
-广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
+
 
 🇭🇰港台,#genre#
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
