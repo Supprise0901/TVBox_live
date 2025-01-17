@@ -4,6 +4,19 @@
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=90771a491736935607
 兵团卫视,https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8
 延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+翡翠台港,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB赛马,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 
 🇨🇳央视频道,#genre#
 2024春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
