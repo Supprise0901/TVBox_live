@@ -1,27 +1,49 @@
 🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4a245bb793bc7660b3561ad8879393ec&wsTime=1737214530
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=0d028c7174fbf55a5e044a6a1d998f5c&wsTime=1737214530
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=29083c68dbbf647eec7c8f323de0d75d&wsTime=1737214530
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=095926f0c246f2ace83a05f20bf36030&wsTime=1737214530
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=e252b0cd964456c46fbca14e401ed3c7&wsTime=1737214530
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=4d4c35c2a7a04484f11393b6d9e6ed39&wsTime=1737214530
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=0323317a2dbba4e8f429db79eefa9c70&wsTime=1737214530
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=d846d4d7449b9af122e5ab7d8a4390c0&wsTime=1737214530
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=7deb71550468f5ba7abe0c6c0f19cdd4&wsTime=1737214530
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=364fb9f8da28b734886b646f8ce83b8e&wsTime=1737214530
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=05936f97683ef21599b2c9de2fefbee3&wsTime=1737214530
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=0a1140d7df96a26c1203843cd69fad07&wsTime=1737214530
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=1454552fe41f0a0e6e8b01a283ca5872&wsTime=1737214530
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=b54c1dc8b827cfccc2f41112bf6d0d5c&wsTime=1737214530
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=9d9ff40ae6c42156cefe57696ac5361c&wsTime=1737214530
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=4ddf6329b90bfef80e652715d8d5ea00&wsTime=1737214530
-🇨🇳🛰️移动线路,#genre#
-凤凰卫视中文台,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://202.168.187.208:9089/tsfile/live/1009_1.m3u8#https://k44991.kylintv.tv/live/pxna_iphone.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://148.135.93.213:81/phenix.php?id=fhzw
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c12a97e3cd08afc41ef05a4152506be6&wsTime=1737217531
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=45324e5add767284fdee8b13c4405656&wsTime=1737217531
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=6646d0d0bf6d8c41585eb1515735c75c&wsTime=1737217531
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=6725fd6eea85462acee65f1e81e863c9&wsTime=1737217531
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=4912838fb394b62c962319a19b4233da&wsTime=1737217531
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=2d81464d2463a42dce0454acfeecd39a&wsTime=1737217531
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ee52632b435ad721b4e2a3d5d0c0f887&wsTime=1737217531
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=891d73432a7a0ec74ccbdc7a2130787d&wsTime=1737217531
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=eacf35af3f3701b973187ad7d822889a&wsTime=1737217531
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=d7a54ad58644d1cd120c5cb0cab44816&wsTime=1737217531
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=552a0ed07f0f5b0c594ac43551b1583c&wsTime=1737217531
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=d4fddb6d5b2de659b44c719db83b0eb0&wsTime=1737217531
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=e978148019b4c800e74ecc0dab46b4bc&wsTime=1737217531
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=aaac8d1fc183ffac983d477008a2f22b&wsTime=1737217531
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=949cea5b3d2075e86feceb3ca830f3fb&wsTime=1737217531
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=2459ef83fc5e5c0c638dfdf0b808343f&wsTime=1737217531
+﻿🇨🇳系列电影,#genre#
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
+漫威电影,http://zzy789.xyz/douyu1.php?id=6140589
+周星驰电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+林正英电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.m3u8
+惊悚电影,https://live.metshop.top/douyu/96577$LR•IPV4『线路3』
+国产电影,https://live.metshop.top/douyu/5423$LR•IPV4『线路3』
+X战警系列电影,http://liushizupu.site:35455/yy/1382736893$LR•IPV4
+超级英雄系列电影,http://liushizupu.site:35455/yy/1382736863$LR•IPV4
+末日系列-外国电影合集,http://liushizupu.site:35455/yy/1354889019$LR•IPV4
+珍珠港-电影,http://liushizupu.site:35455/yy/1354936234$LR•IPV4
+特种兵归来-国产电影,http://liushizupu.site:35455/yy/1382735581$LR•IPV4
+电影大卫贝肯倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+电影昆塔反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+电影棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+电影猪猪侠英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
+新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?
+粤语电影,https://live.metshop.top/douyu/65871$LR•IPV4『线路3』
+电影昆仑境,https://cdn15.yzzy-tv-cdn.com/20230610/15317_9ea0d662/index.m3u8
+美亚电影,http://ku9.fr.to/smt.php?id=meiyamovie_twn
+
+🇨🇳专题电影,#genre#
 电影_强森,http://rihou.cc:555/huyad.php?id=21059581
 电影_怪兽,http://rihou.cc:555/huyad.php?id=21059577
-电影_宇宙,https://live.metshop.top/huya/11342428$LR•IPV4『线路2』
 电影_警匪,https://live.metshop.top/huya/11352886$LR•IPV4『线路2』
 电影_推荐,https://live.metshop.top/huya/11602041$LR•IPV4『线路2』
 电影_盗墓,http://rihou.cc:555/huyad.php?id=21059552
@@ -37,7 +59,6 @@
 电影_古装片,https://live.metshop.top/huya/11336590$LR•IPV4『线路2』
 电影_高分动作,https://live.metshop.top/huya/11352884$LR•IPV4『线路2』
 电影_动作电影,https://live.metshop.top/huya/11602077$LR•IPV4『线路2』
-电影_搞笑喜剧,https://live.metshop.top/huya/11342423$LR•IPV4『线路2』
 电影_喜剧专场,https://live.metshop.top/huya/11602044$LR•IPV4『线路2』
 电影_欢笑影院,https://live.metshop.top/huya/11352894$LR•IPV4『线路2』
 电影_国产悬疑,https://live.metshop.top/huya/11342395$LR•IPV4『线路2』
@@ -47,75 +68,123 @@
 电影_高能反转,https://live.metshop.top/huya/11352887$LR•IPV4『线路2』
 电影_喜乐影院,http://rihou.cc:555/huyad.php?id=21059580
 电影_搞笑恐怖,https://live.metshop.top/huya/11601960$LR•IPV4『线路2』
-电影_变形金刚,https://live.metshop.top/huya/21059596$LR•IPV4『线路2』
 电影_怪兽系列,https://live.metshop.top/huya/21059554$LR•IPV4『线路2』
+电影_变形金刚,https://live.metshop.top/huya/21059596$LR•IPV4『线路2』
+电影_搞笑喜剧,https://live.metshop.top/huya/11342423$LR•IPV4『线路2』
+电影_贺岁,https://live.metshop.top/huya/11601971$LR•IPV4『线路2』
+电影_宇宙,https://live.metshop.top/huya/11342428$LR•IPV4『线路2』
+电影_黑帮片,https://live.metshop.top/huya/11336719$LR•IPV4『线路2』
+
+🇨🇳斗鱼直播,#genre#
+斗鱼电影4K,https://live.metshop.top/douyu/9249162$LR•IPV4『线路3』
+斗鱼电影HD1,https://live.metshop.top/douyu/4246519$LR•IPV4『线路3』
 斗鱼电影HD2,https://live.metshop.top/douyu/10240553$LR•IPV4『线路3』
 斗鱼电影HD4,https://live.metshop.top/douyu/85894$LR•IPV4『线路3』
 斗鱼电影HD5,https://live.metshop.top/douyu/263824$LR•IPV4『线路3』
 斗鱼电影HD6,https://live.metshop.top/douyu/747764$LR•IPV4『线路3』
 斗鱼电影HD7,https://live.metshop.top/douyu/20415$LR•IPV4『线路3』
 斗鱼电影HD8,https://live.metshop.top/douyu/8663752$LR•IPV4『线路3』
+斗鱼电影HD9,https://live.metshop.top/douyu/323876$LR•IPV4『线路3』
 斗鱼电影HD10,https://live.metshop.top/douyu/6140589$LR•IPV4『线路3』
+斗鱼电影HD11,https://live.metshop.top/douyu/8770422$LR•IPV4『线路3』
 斗鱼电影HD12,https://live.metshop.top/douyu/2436390$LR•IPV4『线路3』
 斗鱼电影HD13,https://live.metshop.top/douyu/218859$LR•IPV4『线路3』
-斗鱼电影HD15,https://live.metshop.top/douyu/413573$LR•IPV4『线路3』
 斗鱼电影HD14,https://live.metshop.top/douyu/36337$LR•IPV4『线路3』
+斗鱼电影HD15,https://live.metshop.top/douyu/413573$LR•IPV4『线路3』
+斗鱼电影HD16,https://live.metshop.top/douyu/1504768$LR•IPV4『线路3』
 斗鱼电影HD17,https://live.metshop.top/douyu/3637726$LR•IPV4『线路3』
+斗鱼电影HD18,https://live.metshop.top/douyu/9292492$LR•IPV4『线路3』
 斗鱼电影HD19,https://live.metshop.top/douyu/3637765rrt97$LR•IPV4『线路3』
 斗鱼电影HD20,https://live.metshop.top/douyu/10395991$LR•IPV4『线路3』
 斗鱼电影HD21,https://live.metshop.top/douyu/10395986$LR•IPV4『线路3』
 斗鱼电影HD22,https://live.metshop.top/douyu/252802$LR•IPV4『线路3』
-斗鱼电影HD28,https://live.metshop.top/douyu/4332$LR•IPV4『线路3』
+斗鱼电影HD24,https://live.metshop.top/douyu/315131$LR•IPV4『线路3』
+斗鱼电影HD25,https://live.metshop.top/douyu/8945323$LR•IPV4『线路3』
 斗鱼电影HD27,https://live.metshop.top/douyu/248753$LR•IPV4『线路3』
+斗鱼电影HD28,https://live.metshop.top/douyu/4332$LR•IPV4『线路3』
 斗鱼电影HD29,https://live.metshop.top/douyu/9651304$LR•IPV4『线路3』
 斗鱼电影HD30,https://live.metshop.top/douyu/9650887$LR•IPV4『线路3』
+斗鱼电影HD31,https://live.metshop.top/douyu/8814650$LR•IPV4『线路3』
 斗鱼电影HD32,https://live.metshop.top/douyu/10240510$LR•IPV4『线路3』
 斗鱼电影HD34,https://live.metshop.top/douyu/8985415$LR•IPV4『线路3』
-斗鱼电影HD31,https://live.metshop.top/douyu/8814650$LR•IPV4『线路3』
 斗鱼电影HD35,https://live.metshop.top/douyu/1165374$LR•IPV4『线路3』
+斗鱼电影HD36,https://live.metshop.top/douyu/1735337$LR•IPV4『线路3』
 斗鱼电影HD37,https://live.metshop.top/douyu/6537888$LR•IPV4『线路3』
-斗鱼电影HD39,https://live.metshop.top/douyu/9683979$LR•IPV4『线路3』
 斗鱼电影HD38,https://live.metshop.top/douyu/6003761$LR•IPV4『线路3』
+斗鱼电影HD39,https://live.metshop.top/douyu/9683979$LR•IPV4『线路3』
+斗鱼电影HD40,https://live.metshop.top/douyu/1226741$LR•IPV4『线路3』
 斗鱼电影HD41,https://live.metshop.top/douyu/59612$LR•IPV4『线路3』
-粤语电影,https://live.metshop.top/douyu/65871$LR•IPV4『线路3』
-国产电影,https://live.metshop.top/douyu/5423$LR•IPV4『线路3』
-惊悚电影,https://live.metshop.top/douyu/96577$LR•IPV4『线路3』
-末日系列-外国电影合集,http://liushizupu.site:35455/yy/1354889019$LR•IPV4
-珍珠港-电影,http://liushizupu.site:35455/yy/1354936234$LR•IPV4
-特种兵归来-国产电影,http://liushizupu.site:35455/yy/1382735581$LR•IPV4
+
+🇨🇳地方卫视,#genre#
+凤凰卫视中文台,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv#http://202.168.187.208:9089/tsfile/live/1009_1.m3u8#https://k44991.kylintv.tv/live/pxna_iphone.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#http://148.135.93.213:81/phenix.php?id=fhzw
+安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
-CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 澳亚卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
-美亚电影,http://ku9.fr.to/smt.php?id=meiyamovie_twn
-CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CCTV★移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
-解说_乌贼说电影,https://live.metshop.top/huya/16604522
-解说_俗哥看电影,https://live.metshop.top/huya/15452736
-解说_冷君说电影,https://live.metshop.top/huya/16739452
-解说_嫦娥撩电影,https://live.metshop.top/huya/18201106
-解说_续哥说电影,https://live.metshop.top/huya/24396472
-解说_老炮说电影,https://live.metshop.top/huya/15454716
-解说_虎妞说电影,https://live.metshop.top/huya/20343144
-解说_阿翔说电影,https://live.metshop.top/huya/16868935
-解说_鹿哥电影,https://live.metshop.top/huya/24396360
 亚太第一卫视,http://play2.one-tv.com/live/onetv.m3u8
-周星驰电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-林正英电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-解说_默爷侃电影,https://live.metshop.top/huya/17204307
-电影大卫贝肯倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-电影昆塔反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-电影昆仑境,https://cdn15.yzzy-tv-cdn.com/20230610/15317_9ea0d662/index.m3u8
-电影棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-电影熊出没变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-电影猪猪侠英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-电影辣警狂花第3部,https://cdn15.yzzy-tv-cdn.com/20230329/4852_2724c586/index.m3u8
 内蒙古卫视,https://stream1.freetv.fun/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=90771a491736935607
 延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
 兵团卫视,https://epg.pw/stream/4a8abda1e84955b569ee1083bd382f5246d6e746277e0dc61a6f9af14a0032f1.m3u8
 CNTV,https://pi.0472.org/chc/dz.m3u8$LR•IPV4『线路11』
-新昌休闲影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?
-贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
+
+🇭🇰港台推荐,#genre#
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+
+
