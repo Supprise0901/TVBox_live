@@ -16,8 +16,9 @@
 * 菜单列表中，频道管理，可以屏蔽失效的节目
 * 秒换台，速度快，流畅至极；
 *  [DIYP 下载](https://supprise0901.github.io/TVBox_live/local_find/DIYP.apk)
-*  电视家不需要自定义源，内置已配置该直播源，安装打开即直接看直播
-*  [电视家 下载](https://supprise.lanzouw.com/ivJnG2ib97oh)
+*  不需要自定义源，内置已配置该直播源，安装打开即直接看直播
+*  [直播 下载](https://supprise0901.github.io/TVBox_live/local_find/电视直播.apk)
+*  [备用 下载](https://supprise.lanzouw.com/ivJnG2ib97oh)
 
 ### 本地版直播源分类合并、检索、验证高效源，提取工具
 
