@@ -14,9 +14,8 @@
 * 电视直播壳子，需自定义直播源；
 * 使用方法，安装后打开软件，遥控器菜单键或长按屏幕，调出列表，选择接口设置，节目地址，填入直播源地址[live](https://supprise0901.github.io/TVBox_live/live.txt)，返回；重启软件
 * 菜单列表中，频道管理，可以屏蔽失效的节目
-* 秒换台，速度快，内置已配置该直播源；注意，直播源三小时更新一次；软件必须设置直播源不缓存，打开即重新加载直播源；
-*  [天光云影 下载](https://supprise0901.github.io/TVBox_live/local_find/DIYP.apk)
-*  不需要自定义源，内置已配置该直播源，安装打开即直接看直播
+* 秒换台，速度快，[天光云影 ](https://supprise0901.github.io/TVBox_live/local_find/DIYP.apk)已内置该直播源；注意，直播源三小时更新一次；软件必须设置直播源不缓存，打开即重新加载直播源； 
+*  不需要自定义源，已内置该直播源，安装打开即直接看直播
 *  [直播 下载](https://supprise0901.github.io/TVBox_live/local_find/电视直播.apk)     （推荐）
 *  [备用 下载](https://supprise.lanzouw.com/ivJnG2ib97oh)
 
