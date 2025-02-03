@@ -34,7 +34,8 @@
 * 2025/01/16 新增直播源关键词筛除；main新增是否清空历史直播源
 * 2025/01/19 修改ffmpeg检测逻辑，模拟直播源播放速度测试，超线程+多并发测试，回收内存修复溢出错误；
 * 2025/01/25 修复origin去重逻辑；重构ffmpeg测试逻辑，增加画面，缓存，码率，丢帧，卡顿，延迟异常测试；
-* [下载地址](https://supprise0901.github.io/TVBox_live/local_find/find_source.rar)
+* 2025/02/03 增加视频流测试时间、重试机制、帧率稳定性测试、多线程与资源管理
+* [下载地址](https://supprise.lanzouw.com/iRISo2mlen6j)
 
 #
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
