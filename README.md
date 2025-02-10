@@ -18,14 +18,14 @@
 *  注意，直播源更新频率较快；使用其他直播软件必须设置直播源不缓存(设置-直播源-直播源缓存时间-不缓存)，打开即重新加载直播源； 
 *  已内置精选直播源，修改为不缓存，安装打开直接看直播
 *  天光云影推荐设置  1.设置-应用-打开直接进入直播 2.设置-界面-经典选台界面 3.设置-播放器-全局显示模式-16:9  
-*  [天光云影 下载](https://supprise.lanzouw.com/igtAL2mt02kb) （推荐 秒换台，速度快； BUG：部分直播源无法播放，切换内核解决，设置-播放器-内核 ）
-*  [直播 下载](https://supprise.lanzouw.com/iOIN12mt00ze)    （推荐 播放器稳定）
+*  [天光云影 下载](https://supprise.lanzouw.com/iBulb2ne9yle) （推荐 秒换台，速度快； BUG：部分直播源无法播放，切换内核解决，设置-播放器-内核 ）
+*  [直播 下载](https://supprise.lanzouw.com/i2RXP2ne94cf)    （推荐 播放器稳定）
 *  [备用 下载](https://supprise.lanzouw.com/ivJnG2ib97oh)
 
 ![Local Image](./local_find/myTV.jpg)
 ![Local Image](./local_find/TVhome.jpg)
 
-
+测试精度
 ### 本地版直播源分类合并、检索、验证高效源，提取工具
 
 * 适配本地网络运营的高效直播源检索提取工具（具体说明详见压缩包内说明文档）
@@ -38,7 +38,13 @@
 * 2025/01/19 修改ffmpeg检测逻辑，模拟直播源播放速度测试，超线程+多并发测试，回收内存修复溢出错误；
 * 2025/01/25 修复origin去重逻辑；重构ffmpeg测试逻辑，增加画面，缓存，码率，丢帧，卡顿，延迟异常测试；
 * 2025/02/03 增加视频流测试时间、重试机制、帧率稳定性测试、多线程与资源管理
-* [下载地址](https://supprise.lanzouw.com/ixnoz2mov9aj)
-
+* 2025/02/10 修改各项参数，提高筛选精度； 必须使用FFmpeg4.0或更高版本，显卡驱动到最新版本
+- [x] 视频流播放时间大于10s
+- [x] 回收cpu资源，调用显卡进行硬件加速
+- [x] 帧率间隔(1/FPS)判断视频卡顿
+- [x] 提高画面敏感度阈值（-60db）静止时间3s 判断静止画面
+- [x] 修改黑屏参数4s
+- [x] 修复FFmpeg日志收集重试机制 log必须大于20s输出 获取足够视频流
+* [下载地址](https://supprise.lanzouw.com/i8UF52neavub)
 #
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
