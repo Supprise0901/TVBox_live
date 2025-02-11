@@ -25,7 +25,7 @@
 ![Local Image](./local_find/myTV.jpg)
 ![Local Image](./local_find/TVhome.jpg)
 
-测试精度
+
 ### 本地版直播源分类合并、检索、验证高效源，提取工具
 
 * 适配本地网络运营的高效直播源检索提取工具（具体说明详见压缩包内说明文档）
