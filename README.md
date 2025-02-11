@@ -20,7 +20,7 @@
 *  天光云影推荐设置  1.设置-应用-打开直接进入直播 2.设置-界面-经典选台界面 3.设置-播放器-全局显示模式-16:9  
 *  [天光云影 下载](https://supprise.lanzouw.com/iBulb2ne9yle) （推荐 秒换台，速度快； BUG：部分直播源无法播放，切换内核解决，设置-播放器-内核 ）
 *  [直播 下载](https://supprise.lanzouw.com/i2RXP2ne94cf)    （推荐 播放器稳定）
-*  [备用 下载](https://supprise.lanzouw.com/ivJnG2ib97oh)
+
 
 ![Local Image](./local_find/myTV.jpg)
 ![Local Image](./local_find/TVhome.jpg)
