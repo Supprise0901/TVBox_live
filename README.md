@@ -48,5 +48,7 @@
 - [x] 修复 FFmpeg日志收集重试机制 log必须大于20s输出 获取足够视频流
 * 2025/02/14 run_speed_ffmpeg 手动创建线程池改为自动线程管理,多源测试防止硬件资源拉满
 * [下载地址](https://supprise.lanzouw.com/iLYuY2nrnveb)
+
+![Local Image](./local_find/local_find.png)
 #
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
