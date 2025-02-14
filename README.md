@@ -45,6 +45,7 @@
 - [x] 提高画面敏感度阈值（-60db）静止时间3s 判断静止画面
 - [x] 修改黑屏参数4s
 - [x] 修复FFmpeg日志收集重试机制 log必须大于20s输出 获取足够视频流
-* [下载地址](https://supprise.lanzouw.com/i8UF52neavub)
+* 2025/02/14 run_speed_ffmpeg 手动创建线程池改为自动线程管理,多源测试防止硬件资源拉满
+* [下载地址](https://supprise.lanzouw.com/iLYuY2nrnveb)
 #
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
