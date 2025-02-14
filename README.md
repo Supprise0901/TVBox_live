@@ -49,6 +49,6 @@
 * 2025/02/14 run_speed_ffmpeg 手动创建线程池改为自动线程管理,多源测试防止硬件资源拉满
 * [下载地址](https://supprise.lanzouw.com/iLYuY2nrnveb)
 
-![Local Image](./local_find/local_find.png)
+![Local Image](./local_find/local_find.jpg)
 #
 ![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
