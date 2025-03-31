@@ -9,6 +9,10 @@
             "name": "影视"
         },
         {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼儿"
+        },
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "tvbox"
         },
