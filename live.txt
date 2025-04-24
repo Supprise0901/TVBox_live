@@ -1,20 +1,20 @@
 🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e0de4600cd80d94c6393eaa568bf9b8b&wsTime=1745492434
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=ef44108058eeeb3a32ccf052556d751b&wsTime=1745492434
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=d7950e01dc2535ea0b5d89946e136faf&wsTime=1745492434
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=59323223109cd25be418cefde2a1d3d7&wsTime=1745492434
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=6966656f72bde0fc759d0e407440b6fa&wsTime=1745492434
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=e768a88bf2b7211a94134208f65a668b&wsTime=1745492434
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=92afa007e641e982bff8af31a956c2b0&wsTime=1745492434
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=8f92e9e9f502fd360c8f2e90716ff8c2&wsTime=1745492434
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=638899286df0e360b0fe766ec7f2cccc&wsTime=1745492434
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=6907d8b44853e626bac27639ada48e25&wsTime=1745492434
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=cbc04c88dfef6e9c6eb6b6fdced0f58d&wsTime=1745492434
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=cefabfb225cc0155ed4a0d4a66b01ec0&wsTime=1745492434
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=ee1e3dc86be9a604120b2fb5b89e7c84&wsTime=1745492434
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=14b0f2ec3c1a72f4c7816ef43b3d4ba8&wsTime=1745492434
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=1df33cee5b62fb04d1cb55d93718f907&wsTime=1745492434
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=2acf3d706cf99dad6989e0d7ee78c02b&wsTime=1745492434
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6dba113b31394d6e41612843c95575bf&wsTime=1745502941
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=0792443aef2871e8c6fc1dcd2572fb61&wsTime=1745502941
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=68c8f68736cec005939ac0d3bbbd6d82&wsTime=1745502941
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=364d5b5263de77d809e36da6fcf3bf7d&wsTime=1745502941
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=5cd3031a3c2222ddd5fad235e0fad1c5&wsTime=1745502941
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=5904c18887446af3705f807c605e5880&wsTime=1745502941
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=6340cca7712892b61905062a508415f4&wsTime=1745502941
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=cfa7853995eb7aaf36faf52fa9e8a0f1&wsTime=1745502941
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=e9c1a077594802f1012fb61af62f175c&wsTime=1745502941
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=93499e313f779b4c0c5a61541caf491d&wsTime=1745502941
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=daf6562e73f05f1c25b3805cb57868be&wsTime=1745502941
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=6aef4ae4c6a16124b7306737e5a30b50&wsTime=1745502941
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=1c559e0cb43ecb025b874dfd60c51619&wsTime=1745502941
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=2ee3574ca5cd9e9af37b1f0587325da9&wsTime=1745502941
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=7c5bf4081310f48bc1503bc4aeee56e4&wsTime=1745502941
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=6142a3176586c59c09a185f8923e6d8d&wsTime=1745502941
 🇨🇳IPV4线路,#genre#
 CCTV1,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 CCTV1,http://eu.huohuoaa.tech:1025/Smart.php?id=cctv1
@@ -385,48 +385,65 @@ CCTV92,http://182.37.169.94:352/tsfile/live/0009_1.m3u8
 浙江卫视,http://113.15.109.216:59901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://58.210.168.86:10800/newlive/live/hls/20/live.m3u8
 🇨🇳IPV6线路,#genre#
-CCTV1, http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2, http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3, http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4, http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5, http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6, http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7, http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8, http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9, http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV10, http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11, http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV12, http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13, http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14, http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CGTN, http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
-北京卫视, http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京文艺, http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京体育, http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
-北京影视, http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京新闻, http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-北京纪实, http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-湖南卫视, http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-浙江卫视, http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-江苏卫视, http://iptv.huuc.edu.cn/hls/jshd.m3u8
-东方卫视, http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-安徽卫视, http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-黑龙江卫视, http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-辽宁卫视, http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-深圳卫视, http://iptv.huuc.edu.cn/hls/szhd.m3u8
-广东卫视, http://iptv.huuc.edu.cn/hls/gdhd.m3u8
-天津卫视, http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-湖北卫视, http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-山东卫视, http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-重庆卫视, http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-上海纪实, http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-四川卫视, http://iptv.huuc.edu.cn/hls/schd.m3u8
-金鹰纪实, http://iptv.huuc.edu.cn/hls/gedocu.m3u8
-东南卫视, http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-河北卫视, http://iptv.huuc.edu.cn/hls/hebhd.m3u8
-江西卫视, http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+CCTV1,http://ycsj.aguihome.com:4022/udp/233.50.200.99:5140
+CCTV2,http://ycsj.aguihome.com:4022/udp/233.50.200.100:5140
+CCTV3,http://ycsj.aguihome.com:4022/udp/233.50.200.107:5140
+CCTV4,http://ycsj.aguihome.com:4022/udp/233.50.200.101:5140
+CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.200.108:5140
+CCTV6,http://ycsj.aguihome.com:4022/udp/233.50.200.109:5140
+CCTV7,http://ycsj.aguihome.com:4022/udp/233.50.200.102:5140
+CCTV8,http://ycsj.aguihome.com:4022/udp/233.50.201.199:5140
+CCTV8,http://ycsj.aguihome.com:4022/udp/233.50.200.110:5140
+CCTV9,http://ycsj.aguihome.com:4022/udp/233.50.200.23:5140
+CCTV10,http://ycsj.aguihome.com:4022/udp/233.50.200.22:5140
+CCTV11,http://ycsj.aguihome.com:4022/udp/233.50.201.11:5140
+CCTV12,http://ycsj.aguihome.com:4022/udp/233.50.200.21:5140
+CCTV13,http://ycsj.aguihome.com:4022/udp/233.50.200.111:5140
+CCTV14,http://ycsj.aguihome.com:4022/udp/233.50.200.103:5140
+CCTV17,http://ycsj.aguihome.com:4022/udp/233.50.200.113:5140
+
 
 🇨🇳组播线路,#genre#
+北京卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.179:5140
+天津卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.104:5140
+东方卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.146:5140
+东南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.146:5140
+海南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.55:5140
+广东卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.149:5140
+广西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.49:5140
+深圳卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.188:5140
+江苏卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.144:5140
+江西卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.119:5140
+浙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.145:5140
+湖南卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.190:5140
+湖北卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.147:5140
+安徽卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.106:5140
+山东卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.105:5140
+山西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.51:5140
+河南卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.144:5140
+河北卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.105:5140
+厦门卫视,http://goo.bkpcp.top/mg/xmws
+龙江卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.189:5140
+吉林卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.48:5140
+辽宁卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.141:5140
+云南卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.115:5140
+贵州卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.142:5140
+四川卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.118:5140
+重庆卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
+陕西卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.59:5140
+甘肃卫视,http://goo.bkpcp.top/mg/gsws
+宁夏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.57:5140
+青海卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.65:5140
+内蒙卫视,http://z.b.bkpcp.top/m.php?id=nmgws?3.50.201.66:5140
+西藏卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.70:5140
+新疆卫视,http://goo.bkpcp.top/mg/xjws
+兵团卫视,http://ycsj.aguihome.com:4022/udp/233.50.201.72:5140
+卡酷少儿,http://goo.bkpcp.top/mg/bjkk
+哈哈炫动,http://ycsj.aguihome.com:4022/udp/233.50.201.74:5140
+嘉佳卡通,http://goo.bkpcp.top/mg/jjkt
+优漫卡通,http://goo.bkpcp.top/mg/ymkt
+金鹰卡通,http://ycsj.aguihome.com:4022/udp/233.50.201.73:5140
 
 🇨🇳电影在线,#genre#
 经典小品,http://zzy789.xyz/douyu1.php?id=9067836
