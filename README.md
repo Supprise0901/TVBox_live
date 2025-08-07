@@ -50,4 +50,5 @@
 
 ![Local Image](./local_find/local_find.jpg)
 #
-![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
+![Visitor's Count](https://profile-counter.glitch.me/Supprise0901/TVBox_live/count.svg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Supprise0901/TVBox_live)
