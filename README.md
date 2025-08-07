@@ -51,5 +51,5 @@
 ![Local Image](./local_find/local_find.jpg)
 #
 [!Visitor's Count](https://profile-counter.glitch.me/Supprise0901/TVBox_live/count.svg)
-<img src="https://profile-counter.deno.dev/Supprise0901/TVBox_live/count.svg" alt="Key:: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/TVBox_live/count.svg">
 
