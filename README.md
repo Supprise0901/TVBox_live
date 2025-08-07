@@ -50,4 +50,6 @@
 
 ![Local Image](./local_find/local_find.jpg)
 #
-![Visitor's Count](https://profile-counter.glitch.me/Supprise0901_TVBox_warehouse/count.svg)
+
+<img src="https://profile-counter.deno.dev/TVBox_live/count.svg">
+
