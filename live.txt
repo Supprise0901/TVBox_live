@@ -1,20 +1,20 @@
 🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c8a2a0e5946e3a3b89e975323dd314f0&wsTime=1757318412
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=d71eb96d50aefab1c2a9190573f41d64&wsTime=1757318412
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=f58e8502f8c3653b88e3a36ec73b2387&wsTime=1757318412
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=9cbf29afa11bd49c4a415948c5ba8177&wsTime=1757318412
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=149379cb80cc176e7bc02452586d172d&wsTime=1757318412
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=44982b90ac6b85e1f30606c7b8e60005&wsTime=1757318412
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=e4118355739781d3a45a88e4f46853e6&wsTime=1757318412
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=19e3ad679464b47d5ef0c2aa077bb539&wsTime=1757318412
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=f93dd845e794f44e8251d179ce5b7656&wsTime=1757318412
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=2b610e644f96e14ab57c55a8304288ea&wsTime=1757318412
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=e8b174763403002864aa2645d78584ef&wsTime=1757318412
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=91dcfcd87b801474392a121b0138a19d&wsTime=1757318412
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=c4a4d3b40d3d4ae5af7ac094d629891f&wsTime=1757318412
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=05c264428059059cf207d908cf66d28a&wsTime=1757318412
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=30fb960afd546caa4669f7a7fff454e0&wsTime=1757318412
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=f68a6db009afc2e03759bbad133b47b1&wsTime=1757318412
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fc457726928b31716854179727932610&wsTime=1757329215
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=03ab4c01d6a99749eef086eceaad8b36&wsTime=1757329215
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=84e56c23e9a877c2938e9a3f272bb84f&wsTime=1757329215
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=27da4e2e6a7a7c10caeb320643c4e27a&wsTime=1757329215
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=2c1115283f52757b1393af834e8ac7a4&wsTime=1757329215
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=430045c1b0988cd6a8cf0d738a455218&wsTime=1757329215
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=4de9edfe0f6742df4ffb43baf7d8de1e&wsTime=1757329215
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=404e2c7c8b3362d06a3092d65c4f6863&wsTime=1757329215
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=89dac0089805e535a0b733561bb98a09&wsTime=1757329215
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=d045724cd3fadeda1c9de26ea7b605e4&wsTime=1757329215
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=226413a34b94eb88fbea4db5768a5d59&wsTime=1757329215
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=8382d7ce2345f430f514172508c6de8b&wsTime=1757329215
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=1125995ba31de59f6f09b629167ab5cd&wsTime=1757329215
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=c2fc3e357b2afac781bdd7ef348bcbbc&wsTime=1757329215
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=4e4a1f2d152334b1812f6db8e5b44873&wsTime=1757329215
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=18154c2bcd1898d67bf53b4f8f8ae3b1&wsTime=1757329215
 🇨🇳IPV4线路,#genre#
 CCTV1,https://migu.188766.xyz/?migutoken=741e40cd30ca20ff5b10e49b08c79086&id=CCTV1&type=yy
 CCTV2,https://migu.188766.xyz/?migutoken=6a81bbdc4e43b79d65675c4e4ea35adb&id=CCTV2&type=yy
@@ -56,69 +56,7 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=a6d93fac83c2ee2fc5f6b9560b327
 🇨🇳IPV6线路,#genre#
 
 🇨🇳组播线路,#genre#
-CCTV-1 综合,https://tv.cctv.com/live/cctv1/
-CCTV-1 综合,https://www.yangshipin.cn/tv/home?pid=600001859
-CCTV-2 财经,https://tv.cctv.com/live/cctv2/
-CCTV-3 综艺,https://tv.cctv.com/live/cctv3/
-CCTV-4 中文国际,https://tv.cctv.com/live/cctv4
-CCTV-5 体育,https://tv.cctv.com/live/cctv5/
-CCTV-5+ 体育赛事,https://tv.cctv.com/live/cctv5plus/
-CCTV-6 电影,https://tv.cctv.com/live/cctv6/
-CCTV-7 国防军事,https://tv.cctv.com/live/cctv7/
-CCTV-8 电视剧,https://tv.cctv.com/live/cctv8/
-CCTV-9 纪录,https://tv.cctv.com/live/cctvjilu/
-CCTV-10 科教,https://tv.cctv.com/live/cctv10/
-CCTV-11 戏曲,https://tv.cctv.com/live/cctv11/
-CCTV-12 社会与法,https://tv.cctv.com/live/cctv12/
-CCTV-13 新闻,https://tv.cctv.com/live/cctv13/
-CCTV-14 少儿,https://tv.cctv.com/live/cctvchild/
-CCTV-15 音乐,https://tv.cctv.com/live/cctv15/
-CCTV-16 奥林匹克,https://tv.cctv.com/live/cctv16/
-CCTV-17 农业农村,https://tv.cctv.com/live/cctv17/
-北京卫视,https://www.btime.com/btv/btvsy_index?tag=0
-北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
-东方卫视,https://live.kankanews.com/huikan?tag=东方卫视
-东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
-广东卫视,https://www.gdtv.cn/tvChannelDetail/43
-广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485
-广西卫视,https://www.yangshipin.cn/tv/home?pid=600002509
-河北卫视,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493
-湖北卫视,https://news.hbtv.com.cn/app/tv/431
-湖北卫视,https://www.yangshipin.cn/tv/home?pid=600002508
-湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475
-黑龙江卫视,https://www.hljtv.com/live/folder418/
-黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498
-海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506
-重庆卫视,https://www.yangshipin.cn/tv/home?pid=600002531
-深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481
-吉林卫视,https://www.jlntv.cn/tv?tag=0
-吉林卫视,https://www.yangshipin.cn/tv/home?pid=600190405
-江苏卫视,https://live.jstv.com/?tag=江苏卫视
-江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
-内蒙古卫视,https://www.nmtv.cn/liveTv?tag=内蒙古卫视
-内蒙古卫视,https://www.yangshipin.cn/tv/home?pid=600190401
-四川卫视,https://www.sctv.com/tv-web/js/tv/sctv/live.html?tag=1
-四川卫视,https://www.yangshipin.cn/tv/home?pid=600002516
-河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525
-山东卫视,https://v.iqilu.com/live/sdtv/index.html
-山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513
-福建东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
-贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490
-江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503
-辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505
-安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532
-浙江卫视,https://www.cztv.com/liveTV/101
-浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520
-天津卫视,https://www.yangshipin.cn/tv/home?pid=600152137
-陕西卫视,https://www.yangshipin.cn/tv/home?pid=600190400
-甘肃卫视,https://www.yangshipin.cn/tv/home?pid=600190408
-宁夏卫视,https://www.yangshipin.cn/tv/home?pid=600190737
-云南卫视,https://www.yangshipin.cn/tv/home?pid=600190402
-青海卫视,https://www.yangshipin.cn/tv/home?pid=600190406
-西藏卫视,https://www.yangshipin.cn/tv/home?pid=600190403
-新疆卫视,https://www.yangshipin.cn/tv/home?pid=600152138
-中国教育,https://www.yangshipin.cn/tv/home?pid=600171827
+
 
 🇨🇳电影在线,#genre#
 经典小品,http://zzy789.xyz/douyu1.php?id=9067836
