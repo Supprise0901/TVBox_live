@@ -1,20 +1,20 @@
 🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e5cbc58e0f269cbfbb966852de905842&wsTime=1758085216
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=6f71c6f75526e8449d3a6ac60351ee97&wsTime=1758085216
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=0d02961beeb99622bc26da2771c04ff0&wsTime=1758085216
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=2b16930cc9457ca262f4b40039acf9b6&wsTime=1758085216
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=4fe6db5754b5f0e7950745711c8fb060&wsTime=1758085216
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=47c5cebabe1ce260767b21896ab10c55&wsTime=1758085216
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1e473a9f4eca04f341bc156547e15f09&wsTime=1758085216
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=ff94037bae21a4ea76568ed0b0410b10&wsTime=1758085216
-梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=7b47fe912ca913b0014eef7d46a3b7c3&wsTime=1758085216
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=9d6c5086e14d78eb31164412c47b6fff&wsTime=1758085216
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=d442fd1dd514c1a61562b3b54dbc3937&wsTime=1758085216
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=f765d9eebcd3abe8b3f2159d9b88be73&wsTime=1758085216
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=672a87dc1b7746b6ce7dbf56ff7cfe4b&wsTime=1758085216
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=e5622f0eb203447b8c8ff943e87795cd&wsTime=1758085216
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=8ce56a3b17d83d048d5b9956286d8eef&wsTime=1758085216
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=62f937c5a12088b010ddb554a6de51be&wsTime=1758085216
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=8a94cd16e09fc34eedaa2a3f84381073&wsTime=1758096018
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=2787d006d66be6d69b513795e3bdafdf&wsTime=1758096018
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=331f1914fe016e48e3987ef21471fce8&wsTime=1758096018
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=3337cabeeaed3b7e441756b6e9bb2b84&wsTime=1758096018
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=d876b5110534216d83dc64ee239c410f&wsTime=1758096018
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=770705554b166db2cb4a49f5a0dcf57e&wsTime=1758096018
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=959a9b51870a74a7d1cb01a34c41d5d9&wsTime=1758096018
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=7ff09a32f09a22ad744511a2c6b86cb3&wsTime=1758096018
+梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=8f9092f028e2047151fa3b38ccabde2e&wsTime=1758096018
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=1be97b4176ad555abe2138027e198128&wsTime=1758096018
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=b0e63a259ab19c6d2ee3d69f70a54d72&wsTime=1758096018
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=c24f4559187445d2f7e635a21d8998f5&wsTime=1758096018
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=7df14731078a5933274524d3615e07b0&wsTime=1758096018
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=e2345bda7e8a25c4040264585a971299&wsTime=1758096018
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e787c5c2f294a457e529d34470df88ec&wsTime=1758096018
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=bad850176225d712b3e0c1a48c1a21ec&wsTime=1758096018
 🇨🇳IPV4线路,#genre#
 CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8
 CCTV1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
@@ -622,6 +622,38 @@ Astro AOD, https://migu.188766.xyz/?migutoken=2fdff417ef4657be369f82435000b22b&i
 Astro AEC, https://migu.188766.xyz/?migutoken=dfe8ddb24cd7c7f117b06f05af9a6c83&id=AEC&type=dy
 Astro QJ, https://migu.188766.xyz/?migutoken=e75c91665971fad436f89d6b09dc9145&id=Quanjia&type=dy
 Astro 欢喜, https://migu.188766.xyz/?migutoken=9cd07ec3a18e11298bfddc7680f5c41c&id=Huahee&type=dy
+咪视界-1, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225636/1.m3u8
+咪视界-2, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225637/1.m3u8
+咪视界-3, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225638/1.m3u8
+咪视界-4, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225639/1.m3u8
+咪视界-5, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225640/1.m3u8
+咪视界-6, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225641/1.m3u8
+咪视界-7, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225643/1.m3u8
+咪视界-8, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225644/1.m3u8
+咪视界-9, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225646/1.m3u8
+咪视界-10, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225657/1.m3u8
+咪视界-11, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225674/1.m3u8
+咪视界-12, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225676/1.m3u8
+咪视界-13, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225678/1.m3u8
+咪视界-14, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225679/1.m3u8
+咪视界-15, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225680/1.m3u8
+咪视界-16, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225681/1.m3u8
+咪视界-17, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225682/1.m3u8
+咪视界-18, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225683/1.m3u8
+咪视界-19, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225684/1.m3u8
+咪视界-20, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225685/1.m3u8
+咪视界-21, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225686/1.m3u8
+咪视界-22, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
+咪视界-23, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225689/1.m3u8
+咪视界-24, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225690/1.m3u8
+咪视界-25, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225692/1.m3u8
+咪视界-26, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225693/1.m3u8
+咪视界-27, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+咪视界-28, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225695/1.m3u8
+咪视界-29, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/1.m3u8
+咪视界-30, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/1.m3u8
+咪视界-31, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
+咪视界-4K, http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
 免费分享, https://188766.xyz/qiu
 请勿上当, https://188766.xyz/dong
 🇨🇳电影在线,#genre#
