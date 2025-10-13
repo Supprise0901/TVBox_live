@@ -9,12 +9,12 @@
             "name": "影视接口"
         },
         {
-            "url": "https://api.451460.xyz/",
-            "name": "panda_影视"
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "👖天天"
         },
         {
-            "url": "https://voapi.451460.xyz",
-            "name": "影视"
+            "url": "https://api.451460.xyz/",
+            "name": "panda_影视"
         },
         {
             "url": "http://我不是.摸鱼儿.com",
@@ -59,10 +59,6 @@
         {
             "url": "https://chuanshuo.77blog.cn/tv.json",
             "name": "👖玩盒助手"
-        },
-        {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "👖天天"
         },
         {
             "url": "http://tv.nxog.top/m",
