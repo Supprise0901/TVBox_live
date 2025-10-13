@@ -6,7 +6,7 @@
         },
         {
             "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "影视接口"
+            "name": "👖潇洒"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -14,7 +14,7 @@
         },
         {
             "url": "https://api.451460.xyz/",
-            "name": "panda_影视"
+            "name": "👖panda_影视"
         },
         {
             "url": "http://我不是.摸鱼儿.com",
@@ -22,15 +22,15 @@
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "tvbox"
+            "name": "👖tvbox"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/2hacc/TVBox/main/oktv.json",
-            "name": "oktv"
+            "name": "👖oktv"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/zyzyzy523/api/main/lives.json",
-            "name": "zyzyzy"
+            "name": "👖zyzyzy"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
