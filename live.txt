@@ -707,8 +707,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-Sky Sp NewsHQ,http://nocable.cc:8080//OURTV/OURTV@4806/35241
-Sky SpN HQ HD,http://nocable.cc:8080//OURTV/OURTV@4806/45940
+SKYSPORTSPREMIERLEAGUE,http://nocable.cc:8080//OURTV/OURTV@4806/35241
+SKYSPORTSCRICKET,http://nocable.cc:8080//OURTV/OURTV@4806/45940
 龙华戏剧,http://smart.cityq.xyz:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
 ▶️哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
 ▶️哈利波特：火盃的考驗,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
