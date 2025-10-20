@@ -696,19 +696,19 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-astro Aec,http://php.jdshipin.com/smt.php?id=AEC
+ASTROPRIMA,http://php.jdshipin.com/smt.php?id=AEC
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklistw70581102.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-Sky Sports News,http://nocable.cc:8080//OURTV/OURTV@4806/35241
-SKY SPORTS Cricket,http://nocable.cc:8080//OURTV/OURTV@4806/45940
+Sky Sp NewsHQ,http://nocable.cc:8080//OURTV/OURTV@4806/35241
+Sky SpN HQ HD,http://nocable.cc:8080//OURTV/OURTV@4806/45940
 龙华戏剧,http://smart.cityq.xyz:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
 ▶️哪吒1魔童降世,https://vip.ffzy-play7.com/20221111/3098_4ec0b2e9/index.m3u8
 ▶️哈利波特：火盃的考驗,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
