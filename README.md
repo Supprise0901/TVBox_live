@@ -5,7 +5,9 @@
 
 一切源于网络，检索，分类验证提取高效直播源：
 
-精选直播源订阅地址： [live](https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt)
+ [直播源测速工具下载](https://supprise.lanzouw.com/iM7dx2q93k7i)
+
+精选直播源订阅地址： [live](https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt) 
 
 * 地址说明，一台多源，资源的快慢与宽带运营线路有关，建议将线路选择调整为10/15秒，等待适配网络源，日常卡顿会及时切换到高速源，进行直播观看
 * **高清源首次加载比较缓慢，加载完成后，播放速度会有明显提升**
