@@ -1,20 +1,16 @@
 {
     "urls": [
         {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "👖天天"
+        },
+        {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "👖王二小放牛娃"
         },
         {
             "url": "https://9877.kstore.space/AnotherD/api.json",
             "name": "👖潇洒"
-        },
-        {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "👖天天"
-        },
-        {
-            "url": "https://api.451460.xyz/",
-            "name": "👖panda_影视"
         },
         {
             "url": "http://我不是.摸鱼儿.com",
