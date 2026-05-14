@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "👖qist/tvbox"
+        },
+        {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "👖天天"
         },
@@ -15,6 +19,10 @@
         {
             "url": "http://我不是.摸鱼儿.com",
             "name": "👖摸鱼儿"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试/",
+            "name": "👖小虎斑"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/2hacc/TVBox/main/oktv.json",
