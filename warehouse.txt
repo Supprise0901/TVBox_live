@@ -9,20 +9,20 @@
             "name": "👖qist/tvbox"
         },
         {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "👖天天"
+            "url": "https://api.hgyx.vip/hgyx.json",
+            "name": "👖HG"
         },
         {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "👖王二小放牛娃"
         },
         {
-            "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "👖潇洒"
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "👖牛播"
         },
         {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "👖摸鱼儿"
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "👖小马"
         },
         {
             "url": "http://hb.小虎斑.site:25252/仅供测试/",
