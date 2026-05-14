@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xuelong876/mybox_PG/main/xiaosa.json",
+            "name": "👖潇洒"
+        },
+        {
             "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
             "name": "👖qist/tvbox"
         },
@@ -95,10 +99,6 @@
         {
             "url": "http://xhztv.top/xhz",
             "name": "👖小盒子"
-        },
-        {
-            "url": "https://d.kstore.dev/download/4516/本地包更新.json",
-            "name": "👖在线本地包更新"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
