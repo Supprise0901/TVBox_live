@@ -13,6 +13,10 @@
             "name": "👖HG"
         },
         {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "👖南风影视"
+        },
+        {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "👖王二小放牛娃"
         },
@@ -39,10 +43,6 @@
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "👖关注TG频道@stymei1"
-        },
-        {
-            "url": "http://ok321.top/tv",
-            "name": "👖新增小马影视.更新时间2025.6.19"
         },
         {
             "url": "https://13413.kstore.space/tv/changqing.json",
