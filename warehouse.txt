@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/api.json",
+            "name": "👖Supprise"
+        },
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xuelong876/mybox_PG/main/xiaosa.json",
             "name": "👖潇洒"
         },
