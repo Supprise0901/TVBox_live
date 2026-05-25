@@ -44,19 +44,19 @@
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/aowu.json",
             "name": "👖aowu"
         },
-                {
+        {
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/fantaiying.json",
             "name": "👖fantaiying"
         },
-                {
+        {
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/feimao.json",
             "name": "👖feimao"
         },
-                {
+        {
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/wangxiaoer.json",
             "name": "👖wangxiaoer"
         },
-                {
+        {
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/xiaobudian.json",
             "name": "👖xiaobudian"
         },
@@ -68,9 +68,13 @@
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/xiaosa.json",
             "name": "👖xiaosa"
         },
-                {
+        {
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/xxooo.json",
             "name": "👖xxooo"
+        },
+        {
+            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/junlao.json",
+            "name": "👖junlao"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/2hacc/TVBox/main/oktv.json",
