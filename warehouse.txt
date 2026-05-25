@@ -1,16 +1,16 @@
 {
     "urls": [
         {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "👖天天"
+        },
+        {
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/tiantian.json",
             "name": "👖天天&巧计"
         },
         {
             "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/api.json",
-            "name": "👖Supprise"
-        },
-        {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "👖天天"
+            "name": "👖api"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xuelong876/mybox_PG/main/xiaosa.json",
