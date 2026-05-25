@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/supprise.json",
+            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/tiantian.json",
             "name": "👖天天&巧计"
         },
         {
