@@ -17,10 +17,6 @@
             "name": "👖潇洒"
         },
         {
-            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-            "name": "👖qist/tvbox"
-        },
-        {
             "url": "https://api.hgyx.vip/hgyx.json",
             "name": "👖HG"
         },
@@ -77,12 +73,8 @@
             "name": "👖junlao"
         },
         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/2hacc/TVBox/main/oktv.json",
-            "name": "👖oktv"
-        },
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/zyzyzy523/api/main/a.json",
-            "name": "👖zyzyzy"
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "👖qist/tvbox"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
@@ -93,18 +85,6 @@
             "name": "👖科技长青"
         },
         {
-            "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
-            "name": "👖青龙"
-        },
-        {
-            "url": "http://154.40.47.87:999/TVbox/y1.json",
-            "name": "👖我不是肥猫"
-        },
-        {
-            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-            "name": "👖醉卧东风短剧"
-        },
-        {
             "url": "https://chuanshuo.77blog.cn/tv.json",
             "name": "👖玩盒助手"
         },
@@ -113,24 +93,8 @@
             "name": "👖TV"
         },
         {
-            "url": "https://ztha.top/TVBox/thdjk.json",
-            "name": "👖挺好分享"
-        },
-        {
-            "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
-            "name": "👖XS"
-        },
-        {
             "url": "http://fmys.top/fmys.json",
             "name": "👖驸马"
-        },
-        {
-            "url": "http://ok321.top/ok",
-            "name": "👖OK杰克"
-        },
-        {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "👖小米"
         },
         {
             "url": "http://www.饭太硬.net/tv",
@@ -141,28 +105,12 @@
             "name": "👖聚玩盒子"
         },
         {
-            "url": "http://xhztv.top/xhz",
-            "name": "👖小盒子"
-        },
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
-            "name": "👖橘子柚影视"
-        },
-        {
             "url": "https://tv.xn--yhqu5zs87a.top",
             "name": "👖菜妮丝"
         },
         {
-            "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json",
-            "name": "👖蓝天"
-        },
-        {
             "url": "https://d.kstore.dev/download/4684/hgrc.json",
             "name": "👖刺刺音乐"
-        },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "👖巧技"
         },
         {
             "url": "https://9xi4o.tk/tvbox.json",
@@ -209,24 +157,12 @@
             "url": "https://play.iptv365.org/戏曲音乐/api.json"
         },
         {
-            "name": "👖短剧仓库",
-            "url": "https://play.iptv365.org/短剧频道/api.json"
-        },
-        {
-            "name": "👖雷蒙",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json"
-        },
-        {
             "name": "👖分享者",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json"
-        },
-        {
-            "name": "👖胜寒",
-            "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/001.json"
         },
         {
             "name": "👖环宇轩",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json"
         },
         {
             "name": "👖小脑斧",
@@ -238,7 +174,7 @@
         },
         {
             "name": "👖FongMi",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
         },
         {
             "name": "👖音乐接口",
@@ -257,11 +193,11 @@
             "name": "👖喵影视"
         },
         {
-            "url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json",
+            "url": "https://gh-proxy.org/https://github.com/PizazzGY/TVBox/blob/main/api.json",
             "name": "👖PizazzGY"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
             "name": "👖乐哥短剧"
         },
         {
