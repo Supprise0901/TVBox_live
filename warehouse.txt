@@ -9,12 +9,8 @@
             "name": "👖天天"
         },
         {
-            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/api.json",
+            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/fantaiying.json",
             "name": "👖api"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xuelong876/mybox_PG/main/xiaosa.json",
-            "name": "👖潇洒"
         },
         {
             "url": "https://api.hgyx.vip/hgyx.json",
