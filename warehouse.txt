@@ -5,12 +5,12 @@
             "name": "👖天天&巧计"
         },
         {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "👖天天"
+            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/api.json",
+            "name": "👖api"
         },
         {
-            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/fantaiying.json",
-            "name": "👖api"
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "👖天天"
         },
         {
             "url": "https://api.hgyx.vip/hgyx.json",
