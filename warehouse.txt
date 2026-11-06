@@ -9,6 +9,10 @@
             "name": "👖api"
         },
         {
+            "url": "https://gh-proxy.org/https://github.com/Supprise0901/api/blob/main/baxian.json",
+            "name": "👖baxian"
+        },
+        {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "👖天天"
         },
